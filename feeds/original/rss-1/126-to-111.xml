@@ -1,0 +1,1303 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Escape Pod</title>
+	<link>http://escapepod.org</link>
+	<description>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</description>
+	<pubDate>Fri, 05 Oct 2007 20:37:16 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.1.2</generator>
+	<language>en</language>
+		<!-- podcast_generator="podPress/8.2" -->
+		<copyright>©Stephen Eley </copyright>
+		<managingEditor>editor@escapepod.org (Stephen Eley)</managingEditor>
+		<webMaster>editor@escapepod.org</webMaster>
+		<category>science fiction</category>
+		<ttl>1440</ttl>
+		<itunes:keywords>science fiction, stories, fiction, audiobooks, fantasy, sf, authors, short stories</itunes:keywords>
+		<itunes:subtitle/>
+		<itunes:summary>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We're also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</itunes:summary>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:category text="Arts">
+  <itunes:category text="Literature"/>
+</itunes:category>
+<itunes:category text="Arts">
+  <itunes:category text="Performing Arts"/>
+</itunes:category>
+		<itunes:owner>
+			<itunes:name>Stephen Eley</itunes:name>
+			<itunes:email>editor@escapepod.org</itunes:email>
+		</itunes:owner>
+		<itunes:block>No</itunes:block>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.escapepod.org/wp-images/pod-org-icon300.jpg"/>
+		<image><link>http://escapepod.org</link><url>http://escapepod.org/wp-images/pod-icon128.jpg</url><title>Escape Pod</title></image>
+		<media:copyright>©Stephen Eley</media:copyright><media:thumbnail url="http://www.escapepod.org/wp-images/pod-org-icon300.jpg"/><media:keywords>science fiction, stories, fiction, audiobooks, fantasy, sf, authors, short stories</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Literature</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Performing Arts</media:category><creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/2.0/</creativeCommons:license><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://escapepod.org/podcast.xml" type="application/rss+xml"/><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://odeo.com/listen/subscribe?feed=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://odeo.com/img/badge-channel-black.gif">Subscribe with ODEO</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Fescapepod.org%2Fpodcast.xml" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:browserFriendly>This is a podcast XML content feed. It is intended to be viewed in a podcatching application or podcast-capable newsreader or syndicated to another site.</feedburner:browserFriendly><item>
+		<title>EP126: The Sweet, Sad Love Song of Fred and Wilma</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/165526561/</link>
+		<comments>http://escapepod.org/2007/10/04/ep126-the-sweet-sad-love-song-of-fred-and-wilma/#comments</comments>
+		<pubDate>Fri, 05 Oct 2007 03:59:52 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated X]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/10/04/ep126-the-sweet-sad-love-song-of-fred-and-wilma/</guid>
+		<description><![CDATA[By Nick Dichario and Mike Resnick.
+Read by Stephen Eley.
+First appeared in Science Fiction Age, November 1994.
+
+So there you have him, Frederick Bannister, tripping across the highways and byways of of life, stubbing a toe here, bruising an elbow there, spilling this, dropping that, and managing to make it to the halfway point without too many [...]]]></description>
+			<content:encoded><![CDATA[<p><b>By <a href="http://www.nickdichario.com/">Nick Dichario</a> and <a href="http://www.fortunecity.com/tattooine/farmer/2/">Mike Resnick</a>.</b><br />
+Read by Stephen Eley.<br />
+First appeared in <i>Science Fiction Age</i>, November 1994.<br /></p>
+
+<p><i>So there you have him, Frederick Bannister, tripping across the highways and byways of of life, stubbing a toe here, bruising an elbow there, spilling this, dropping that, and managing to make it to the halfway point without too many major accomplishments or disasters.</i></p>
+
+<p><i>And what of Wilma?</i></p>
+
+<p><i>She possessed massive storage capacity, and no fourth-level equation, no matter how complex, was beyond her, but whether she was bright or merely well programmed is a moot point. Or at least it was in the beginning.</i></p>
+
+<p><b>Rated X</b>.  Contains explicit sex of several kinds.  Not recommended for younger audiences.</p>
+
+<p><b>Referenced Books:</b><br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/0889953368/escapepod-20"><i>A Small and Remarkable Life</i></a> by Nick DiChario<br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/0965956938/escapepod-20"><i>Magic Feathers: The Mike and Nick Show</i></a>, by Nick DiChario and Mike Resnick<br /></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/165526561" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/10/04/ep126-the-sweet-sad-love-song-of-fred-and-wilma/feed/</wfw:commentRss>
+			
+<itunes:duration>44:00</itunes:duration>
+		<itunes:subtitle>By Nick Dichario and Mike Resnick.
+Read by Stephen Eley.
+First appeared in Science Fiction Age, November 1994.
+
+
+So there you have him, Frederick Bannister, tripping across the ...</itunes:subtitle>
+		<itunes:summary>By Nick Dichario and Mike Resnick.
+Read by Stephen Eley.
+First appeared in Science Fiction Age, November 1994.
+
+
+So there you have him, Frederick Bannister, tripping across the highways and byways of of life, stubbing a toe here, bruising an elbow there, spilling this, dropping that, and managing to make it to the halfway point without too many major accomplishments or disasters.
+
+And what of Wilma?
+
+She possessed massive storage capacity, and no fourth-level equation, no matter how complex, was beyond her, but whether she was bright or merely well programmed is a moot point. Or at least it was in the beginning.
+
+
+Rated X.  Contains explicit sex of several kinds.  Not recommended for younger audiences.
+
+Referenced Books:
+A Small and Remarkable Life by Nick DiChario
+Magic Feathers: The Mike and Nick Show, by Nick DiChario and Mike Resnick</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,X</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/165526562/EP126_FredAndWilma.mp3" fileSize="31703157" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F10%2F04%2Fep126-the-sweet-sad-love-song-of-fred-and-wilma%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/10/04/ep126-the-sweet-sad-love-song-of-fred-and-wilma/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/165526562/EP126_FredAndWilma.mp3" length="31703157" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/245/0/EP126_FredAndWilma.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP125: End Game</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/161876404/</link>
+		<comments>http://escapepod.org/2007/09/27/ep125-end-game/#comments</comments>
+		<pubDate>Thu, 27 Sep 2007 07:29:21 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/09/27/ep125-end-game/</guid>
+		<description><![CDATA[By Nancy Kress
+Read by Stephen Eley.
+First appeared in Asimov&#8217;s Science Fiction, April 2007.
+
+&#8220;What exactly happened in the seventh grade?&#8221;  I found myself intensely curious, which I covered by staring at the board and making a move.
+
+He told me, still unembarrassed, in exhaustive detail.  Then he added, &#8220;It should be possible to adjust brain [...]]]></description>
+			<content:encoded><![CDATA[<p><b>By <a href="http://www.sff.net/people/nankress/">Nancy Kress</a></b><br />
+Read by Stephen Eley.<br />
+First appeared in <a href="http://www.asimovs.com">Asimov&#8217;s Science Fiction</a>, April 2007.<br /></p>
+
+<p><i>&#8220;What exactly happened in the seventh grade?&#8221;  I found myself intensely curious, which I covered by staring at the board and making a move.</i></p>
+
+<p><i>He told me, still unembarrassed, in exhaustive detail.  Then he added, &#8220;It should be possible to adjust brain chemicals to eliminate the static.  To unclutter the mind.  It should!&#8221;</i></p>
+
+<p><i>&#8220;Well,&#8221; I said, dropping from insight to my more usual sarcasm, &#8220;maybe you’ll do it at Harvard, if you don’t get sidetracked by some weird shit like ballet or model railroads.&#8221;</i></p>
+
+<p><i>&#8220;Checkmate,&#8221; Allen said.</i></p>
+
+<p><b>Rated R</b>.  Contains profanity, sexual innuendo, and chess-related violence.</p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://www.newmediaexpo.com">2007 Podcast &amp; New Media Expo</a><br />
+<a href="http://escapepod.org/2007/09/26/meetup-near-la/">California Brunch Meetup 9/30/07</a><br />
+<a href="http://bl8tn.net">Better Late Than Never</a> (<a href="http://betterl8thannevr.libsyn.com/index.php?post_id=252570">Stardust review</a>)<br /></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/161876404" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/09/27/ep125-end-game/feed/</wfw:commentRss>
+			
+<itunes:duration>37:00</itunes:duration>
+		<itunes:subtitle>By Nancy Kress
+Read by Stephen Eley.
+First appeared in Asimov's Science Fiction, April 2007.
+
+
+"What exactly happened in the seventh grade?"  I found myself intensely curious, ...</itunes:subtitle>
+		<itunes:summary>By Nancy Kress
+Read by Stephen Eley.
+First appeared in Asimov's Science Fiction, April 2007.
+
+
+"What exactly happened in the seventh grade?"  I found myself intensely curious, which I covered by staring at the board and making a move.
+
+He told me, still unembarrassed, in exhaustive detail.  Then he added, "It should be possible to adjust brain chemicals to eliminate the static.  To unclutter the mind.  It should!" 
+
+"Well," I said, dropping from insight to my more usual sarcasm, "maybe yoursquo;ll do it at Harvard, if you donrsquo;t get sidetracked by some weird shit like ballet or model railroads."
+
+"Checkmate," Allen said.
+
+
+Rated R.  Contains profanity, sexual innuendo, and chess-related violence.
+
+Referenced Sites:
+2007 Podcast  New Media Expo
+California Brunch Meetup 9/30/07
+Better Late Than Never (Stardust review)</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+		<itunes:author>Nancy Kress</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/161876405/EP125_EndGame.mp3" fileSize="26662844" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F09%2F27%2Fep125-end-game%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/09/27/ep125-end-game/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/161876405/EP125_EndGame.mp3" length="26662844" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/244/0/EP125_EndGame.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>Meetup Near LA</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/161628811/</link>
+		<comments>http://escapepod.org/2007/09/26/meetup-near-la/#comments</comments>
+		<pubDate>Wed, 26 Sep 2007 18:27:49 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Site News]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/09/26/meetup-near-la/</guid>
+		<description><![CDATA[I know this is late notice; sorry about that.  I&#8217;m speaking this weekend at the Podcast Expo in Ontario, California, and Cunning Minx and I have put plans together for a joint brunch meetup.  If you&#8217;re in the area, I&#8217;d love to see you there.
+
+The brunch will be SUNDAY, SEPT. 30 AT 11 [...]]]></description>
+			<content:encoded><![CDATA[<p>I know this is late notice; sorry about that.  I&#8217;m speaking this weekend at the <a href="http://www.newmediaexpo.com">Podcast Expo</a> in Ontario, California, and <a href="http://www.polyweekly.com">Cunning Minx</a> and I have put plans together for a joint brunch meetup.  If you&#8217;re in the area, I&#8217;d love to see you there.</p>
+
+<p>The brunch will be <b>SUNDAY, SEPT. 30 AT 11 AM</b> at <b>Marie Callender&#8217;s</b> in Ontario, CA:</p>
+
+<p>MARIE CALLENDER&#8217;S<br />
+2149 E. Convention Way<br />
+Ontario, CA 91764</p>
+
+<p><a href="http://tinyurl.com/ywo3qb">Here&#8217;s a Mapquest link</a> for those of you who can use it.</p>
+
+<p>Feel free to spread the word &#8212; but if you&#8217;re coming, please drop me an e-mail at <a href="mailto:sfeley@gmail.com">sfeley@gmail.com</a> so we know how big a table to get.  Thanks very much.</p>
+
+<p>This&#8217;ll be Fun.</p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/161628811" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/09/26/meetup-near-la/feed/</wfw:commentRss>
+		<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F09%2F26%2Fmeetup-near-la%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/09/26/meetup-near-la/</feedburner:origLink></item>
+		<item>
+		<title>EP124: Save Me Plz</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/159079721/</link>
+		<comments>http://escapepod.org/2007/09/20/ep124-save-me-plz/#comments</comments>
+		<pubDate>Thu, 20 Sep 2007 08:30:38 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/09/20/ep124-save-me-plz/</guid>
+		<description><![CDATA[By David Barr Kirtley.
+Read by Mur Lafferty (of I Should Be Writing and Lulu TV).
+First appeared in Realms of Fantasy, October 2007.
+
+Meg hadn’t heard from Devon in four months, and she realized that she missed him. So on a whim she tossed her sword and scabbard into the trunk of her car and drove over [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.davidbarrkirtley.com/">By David Barr Kirtley.</a></b><br />
+Read by Mur Lafferty (of <a href="http://www.ishouldbewriting.com/">I Should Be Writing</a> and <a href="http://www.lulu.tv">Lulu TV</a>).<br />
+First appeared in <a href="http://www.rofmagazine.com/">Realms of Fantasy</a>, October 2007.<br /></p>
+
+<p><i>Meg hadn’t heard from Devon in four months, and she realized that she missed him. So on a whim she tossed her sword and scabbard into the trunk of her car and drove over to campus to visit him.</i></p>
+
+<p><b>Rated PG</b>.  Contains sexual innuendo, some mild language, and fantasy violence.</p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://www.geekfuactiongrip.com">Geek Fu Action Grip</a><br />
+<a href="http://www.lulu.tv/vlog/thisdayinalternatehistory">This Day in Alternate History</a></p>
+
+<p><b>Blog of the Week:</b><br />
+<a href="http://ogremarco.livejournal.com">Ogre Marco&#8217;s LiveJournal</a><br />
+<i>(receives <a href="http://www.amazon.com/exec/obidos/ASIN/0312371217/escapepod-20">Carnal Knowledge</a> by Charles Hodgson)</i></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/159079721" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/09/20/ep124-save-me-plz/feed/</wfw:commentRss>
+			
+<itunes:duration>40:55</itunes:duration>
+		<itunes:subtitle>By David Barr Kirtley.
+Read by Mur Lafferty (of I Should Be Writing and Lulu TV).
+First appeared in Realms of Fantasy, October 2007.
+
+
+Meg hadnrsquo;t heard from ...</itunes:subtitle>
+		<itunes:summary>By David Barr Kirtley.
+Read by Mur Lafferty (of I Should Be Writing and Lulu TV).
+First appeared in Realms of Fantasy, October 2007.
+
+
+Meg hadnrsquo;t heard from Devon in four months, and she realized that she missed him. So on a whim she tossed her sword and scabbard into the trunk of her car and drove over to campus to visit him.
+
+
+Rated PG.  Contains sexual innuendo, some mild language, and fantasy violence.
+
+Referenced Sites:
+Geek Fu Action Grip
+This Day in Alternate History
+
+Blog of the Week:
+Ogre Marco's LiveJournal
+(receives Carnal Knowledge by Charles Hodgson)
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/159079722/EP124_SaveMePlz.mp3" fileSize="29482824" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F09%2F20%2Fep124-save-me-plz%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/09/20/ep124-save-me-plz/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/159079722/EP124_SaveMePlz.mp3" length="29482824" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/242/0/EP124_SaveMePlz.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP123: Niels Bohr and the Sleeping Dane</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/156181887/</link>
+		<comments>http://escapepod.org/2007/09/13/ep123-niels-bohr-and-the-sleeping-dane/#comments</comments>
+		<pubDate>Fri, 14 Sep 2007 00:00:36 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/09/13/ep123-niels-bohr-and-the-sleeping-dane/</guid>
+		<description><![CDATA[By Jonathon Sullivan.
+Read by Stephen Eley.
+First appeared in Strange Horizons July 2005.
+
+&#8220;Herr Doktor Bohr!&#8221; The captain&#8217;s cruel smile returned. &#8220;What a relief. We&#8217;ve been very concerned about you.&#8221;
+
+Bohr sighed, looked up at the Gestapo captain with calm resignation, and took his wife&#8217;s hand. He started to get up.
+
+&#8220;You are mistaken, sir,&#8221; Papa said.
+
+I was nineteen [...]]]></description>
+			<content:encoded><![CDATA[<p><b>By Jonathon Sullivan.</b><br />
+Read by Stephen Eley.<br />
+First appeared in <a href="http://www.strangehorizons.com/2005/20050718/sullivan-f.shtml">Strange Horizons</a> July 2005.<br /></p>
+
+<p><i>&#8220;Herr Doktor Bohr!&#8221; The captain&#8217;s cruel smile returned. &#8220;What a relief. We&#8217;ve been very concerned about you.&#8221;</i></p>
+
+<p><i>Bohr sighed, looked up at the Gestapo captain with calm resignation, and took his wife&#8217;s hand. He started to get up.</i></p>
+
+<p><i>&#8220;You are mistaken, sir,&#8221; Papa said.</i></p>
+
+<p><i>I was nineteen years old. I had followed Bohr&#8217;s career for half my life, with something bordering on worship. A terrible miracle of circumstance had finally brought me into his presence. But at that moment his life meant nothing next to my own. Niels Bohr was already a prisoner of the Third Reich—nothing could stop that now. Papa&#8217;s action could only put us on a boxcar to Theresienstadt.</i></p>
+
+<p><b>Rated PG</b>.  Contains scenes of graphic violence.</p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/156181887" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/09/13/ep123-niels-bohr-and-the-sleeping-dane/feed/</wfw:commentRss>
+			
+<itunes:duration>54:00</itunes:duration>
+		<itunes:subtitle>By Jonathon Sullivan.
+Read by Stephen Eley.
+First appeared in Strange Horizons July 2005.
+
+
+"Herr Doktor Bohr!" The captain's cruel smile returned. "What a relief. We've been very ...</itunes:subtitle>
+		<itunes:summary>By Jonathon Sullivan.
+Read by Stephen Eley.
+First appeared in Strange Horizons July 2005.
+
+
+"Herr Doktor Bohr!" The captain's cruel smile returned. "What a relief. We've been very concerned about you."
+
+Bohr sighed, looked up at the Gestapo captain with calm resignation, and took his wife's hand. He started to get up.
+
+"You are mistaken, sir," Papa said.
+
+I was nineteen years old. I had followed Bohr's career for half my life, with something bordering on worship. A terrible miracle of circumstance had finally brought me into his presence. But at that moment his life meant nothing next to my own. Niels Bohr was already a prisoner of the Third Reichmdash;nothing could stop that now. Papa's action could only put us on a boxcar to Theresienstadt.
+
+
+Rated PG.  Contains scenes of graphic violence.</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>Jonathon Sullivan</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/156181888/EP123_NielsBohrSleepingDane.mp3" fileSize="38903212" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F09%2F13%2Fep123-niels-bohr-and-the-sleeping-dane%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/09/13/ep123-niels-bohr-and-the-sleeping-dane/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/156181888/EP123_NielsBohrSleepingDane.mp3" length="38903212" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/241/0/EP123_NielsBohrSleepingDane.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP122: Transcendence Express</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/153257276/</link>
+		<comments>http://escapepod.org/2007/09/06/ep122-transcendence-express/#comments</comments>
+		<pubDate>Fri, 07 Sep 2007 03:00:29 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/09/06/ep122-transcendence-express/</guid>
+		<description><![CDATA[By Jetse de Vries.
+Read by Jack Mangan (of Jack Mangan&#8217;s Deadpan).
+First appeared in Hub Magazine Issue #2.
+
+Unable to keep my distance, I walk up to three classmates interacting with one such a BIKO. The pictures are fuzzy, the colours ill-defined and the reaction time tediously slow. However, the letters appearing are large and easily readable, [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://eclipticplane.blogspot.com/">By Jetse de Vries.</a></b><br />
+Read by Jack Mangan (of <a href="http://www.jackmangan.com/">Jack Mangan&#8217;s Deadpan</a>).<br />
+First appeared in <a href="http://www.hub-mag.co.uk/">Hub Magazine</a> Issue #2.<br /></p>
+
+<p><i>Unable to keep my distance, I walk up to three classmates interacting with one such a BIKO. The pictures are fuzzy, the colours ill-defined and the reaction time tediously slow. However, the letters appearing are large and easily readable, and after all three kids have been asked to introduce themselves the program equally divides its attention to each of them, making them take turns while the other two can effortlessly follow what&#8217;s going on. But man, is it slow. The display makes your eyes water and would have any western whizz kid tuning the screen properties like crazy.</i></p>
+
+<p><i>Still, the real wonder is that those pell-mell constructions are doing anything at all. Furthermore, those African kids have nothing to compare them with, so are uncritically happy with what they&#8217;ve got. As dinner time closes in Liona has to wrestle most kids away from their new toys and promises that first thing tomorrow they will &#8212; after school hours &#8212; start making new BIKOs, so that eventually every classmate will have one. The whole class cheers and Liona&#8217;s smile doesn&#8217;t leave her face for the rest of the evening.</i></p>
+
+<p><b>Rated R</b>.  Contains sexual innuendo, some strong language, and an R-rated bit of podcast feedback at the end.</p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://sfeley.livejournal.com/43960.html">Steve&#8217;s Dragon*Con Report</a><br />
+<a href="http://www.doctorswithoutborders.org">Médecins Sans Frontières/Doctors Without Borders</a><br />
+<a href="http://laptop.org">One Laptop Per Child</a></p>
+
+<p><b>Blog of the Week:</b><br />
+<a href="http://lossrockhart.livejournal.com">Hares Rock Lots</a><br />
+<i>(receives <a href="http://www.amazon.com/exec/obidos/ASIN/0312371217/escapepod-20">Carnal Knowledge</a> by Charles Hodgson)</i></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/153257276" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/09/06/ep122-transcendence-express/feed/</wfw:commentRss>
+			
+<itunes:duration>35:00</itunes:duration>
+		<itunes:subtitle>By Jetse de Vries.
+Read by Jack Mangan (of Jack Mangan's Deadpan).
+First appeared in Hub Magazine Issue #2.
+
+
+Unable to keep my distance, I walk up to ...</itunes:subtitle>
+		<itunes:summary>By Jetse de Vries.
+Read by Jack Mangan (of Jack Mangan's Deadpan).
+First appeared in Hub Magazine Issue #2.
+
+
+Unable to keep my distance, I walk up to three classmates interacting with one such a BIKO. The pictures are fuzzy, the colours ill-defined and the reaction time tediously slow. However, the letters appearing are large and easily readable, and after all three kids have been asked to introduce themselves the program equally divides its attention to each of them, making them take turns while the other two can effortlessly follow what's going on. But man, is it slow. The display makes your eyes water and would have any western whizz kid tuning the screen properties like crazy.
+ 
+Still, the real wonder is that those pell-mell constructions are doing anything at all. Furthermore, those African kids have nothing to compare them with, so are uncritically happy with what they've got. As dinner time closes in Liona has to wrestle most kids away from their new toys and promises that first thing tomorrow they will -- after school hours -- start making new BIKOs, so that eventually every classmate will have one. The whole class cheers and Liona's smile doesn't leave her face for the rest of the evening.
+
+
+Rated R.  Contains sexual innuendo, some strong language, and an R-rated bit of podcast feedback at the end.
+
+Referenced Sites:
+Steve's Dragon*Con Report
+Meacute;decins Sans Frontiegrave;res/Doctors Without Borders
+One Laptop Per Child
+
+Blog of the Week:
+Hares Rock Lots
+(receives Carnal Knowledge by Charles Hodgson)
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+		<itunes:author>Jetse de Vries</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/153257277/EP122_TranscendenceExpress.mp3" fileSize="25222773" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F09%2F06%2Fep122-transcendence-express%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/09/06/ep122-transcendence-express/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/153257277/EP122_TranscendenceExpress.mp3" length="25222773" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/240/0/EP122_TranscendenceExpress.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP at Dragon*Con 2007</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/150430276/</link>
+		<comments>http://escapepod.org/2007/08/31/ep-at-dragoncon-2007/#comments</comments>
+		<pubDate>Fri, 31 Aug 2007 07:50:11 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Site News]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/08/31/ep-at-dragoncon-2007/</guid>
+		<description><![CDATA[Just a quick note for those of you attending Dragon*Con 2007 &#8212; here are the places you&#8217;ll be able to find Steve during the weekend:
+
+
+    Steve will be producing the Daily Dragon Podcast every day of the con.  Listen in for convention news, interviews, and music!
+    The panel [...]]]></description>
+			<content:encoded><![CDATA[<p>Just a quick note for those of you attending <a href="http://dragoncon.org">Dragon*Con 2007</a> &#8212; here are the places you&#8217;ll be able to find Steve during the weekend:</p>
+
+<ul>
+    <li>Steve will be producing the <a href="http://dailydragon.org">Daily Dragon Podcast</a> every day of the con.  Listen in for convention news, interviews, and music!</li>
+    <li>The panel <b>Fancasting</b>, 2:30 PM Friday in the Jackson/Carter room in the Hilton.</li>
+    <li>The 2nd Annual <a href="http://www.parsecawards.com">Parsec Awards</a>, 7 PM Saturday in the Hyatt Regency V ballroom.  Escape Pod and Pseudopod are both nominated for excellence in short fiction.</li>
+    <li>The <strong>Escape Pod Listener Meet-Up</strong>, 1 PM Sunday at the <a href="http://www.gordonbiersch.com">Gordon Biersch</a> Brewpub at <a href="http://local.google.com/maps?f=q&#038;hl=en&#038;geocode=&#038;q=Gordon+Biersch+atlanta&#038;ie=UTF8&#038;ll=33.822441,-84.376717&#038;spn=0.103107,0.121193&#038;z=13&#038;iwloc=A&#038;om=1">848 Peachtree Street</a>.  Everyone is welcome!</li>
+    <li>The panel <strong>Podcasting Into the Future</strong>, 10 AM Monday  in the Jackson/Carter room in the Hilton.</li>
+</ul>
+
+<p>And of course you might just see me around the convention any other time.  If you&#8217;re there, I hope to see you &#8212; and I hope you have a great time!</p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/150430276" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/08/31/ep-at-dragoncon-2007/feed/</wfw:commentRss>
+		<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F31%2Fep-at-dragoncon-2007%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/08/31/ep-at-dragoncon-2007/</feedburner:origLink></item>
+		<item>
+		<title>EP121: The Snow Woman’s Daughter</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/149992930/</link>
+		<comments>http://escapepod.org/2007/08/30/ep121-the-snow-womans-daughter/#comments</comments>
+		<pubDate>Thu, 30 Aug 2007 08:20:29 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated G]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/08/30/ep121-the-snow-womans-daughter/</guid>
+		<description><![CDATA[By Eugie Foster.
+Read by cunning minx (of Polyamory Weekly).
+First appeared in Cricket magazine, February 2007.
+
+When I was a little girl, I thought my mother&#8217;s name was Yuki, which means snow.  That was part of her name, but I didn&#8217;t learn the rest of it until the night my father died.
+
+My mother left us on [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.eugiefoster.com">By Eugie Foster.</a></b><br />
+Read by cunning minx (of <a href="http://www.polyweekly.com">Polyamory Weekly</a>).<br />
+First appeared in <a href="http://www.cricketmag.com/">Cricket magazine</a>, February 2007.</p>
+
+<p><i>When I was a little girl, I thought my mother&#8217;s name was Yuki, which means snow.  That was part of her name, but I didn&#8217;t learn the rest of it until the night my father died.</i></p>
+
+<p><i>My mother left us on a slate-gray evening when I was five, with her namesake falling from the sky and piled high around the windows and doors.  Awakened by raised voices, I watched through a tear in the curtain that shielded my sleeping mat as my mother wrapped her limbs in a shining, white kimono.  As far back as I could remember, she had always worn the dark wool shifts that all mountain people wear, spun from the hair of the half-mad goats that give us milk and cheese.  In her kimono she looked like a princess, or a queen.  Her skin was paler than mine, and I am thought quite fair.  Roku, the boy who lived on the northern crest, used to tease me when we were little, calling me &#8220;ghost girl&#8221; and &#8220;milk face.&#8221;</i></p>
+
+<p><b>Rated G</b>.  Contains non-graphic death and childbearing.</p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://dailydragon.org">Daily Dragon Podcast</a><br />
+<a href="http://dragoncon.org">Dragon*Con 2007</a></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/149992930" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/08/30/ep121-the-snow-womans-daughter/feed/</wfw:commentRss>
+			
+<itunes:duration>22:25</itunes:duration>
+		<itunes:subtitle>By Eugie Foster.
+Read by cunning minx (of Polyamory Weekly).
+First appeared in Cricket magazine, February 2007.
+
+When I was a little girl, I thought my mother's name ...</itunes:subtitle>
+		<itunes:summary>By Eugie Foster.
+Read by cunning minx (of Polyamory Weekly).
+First appeared in Cricket magazine, February 2007.
+
+When I was a little girl, I thought my mother's name was Yuki, which means snow.  That was part of her name, but I didn't learn the rest of it until the night my father died.
+
+My mother left us on a slate-gray evening when I was five, with her namesake falling from the sky and piled high around the windows and doors.  Awakened by raised voices, I watched through a tear in the curtain that shielded my sleeping mat as my mother wrapped her limbs in a shining, white kimono.  As far back as I could remember, she had always worn the dark wool shifts that all mountain people wear, spun from the hair of the half-mad goats that give us milk and cheese.  In her kimono she looked like a princess, or a queen.  Her skin was paler than mine, and I am thought quite fair.  Roku, the boy who lived on the northern crest, used to tease me when we were little, calling me "ghost girl" and "milk face."
+
+
+Rated G.  Contains non-graphic death and childbearing.
+
+Referenced Sites:
+Daily Dragon Podcast
+Dragon*Con 2007</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,G</itunes:keywords>
+		<itunes:author>Eugie Foster</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/149992931/EP121_TheSnowWomansDaughter.mp3" fileSize="16163190" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F30%2Fep121-the-snow-womans-daughter%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/08/30/ep121-the-snow-womans-daughter/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/149992931/EP121_TheSnowWomansDaughter.mp3" length="16163190" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/238/0/EP121_TheSnowWomansDaughter.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP120: The Sundial Brigade</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/147173530/</link>
+		<comments>http://escapepod.org/2007/08/23/ep120-the-sundial-brigade/#comments</comments>
+		<pubDate>Thu, 23 Aug 2007 04:01:44 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/08/23/ep120-the-sundial-brigade/</guid>
+		<description><![CDATA[By James Trimarco.
+Read by Graydancer (of The Ropecast).
+First appeared in Glorifying Terrorism, ed. Farah Mendlesohn.
+Closing song: &#8220;Think For Yourself&#8221; by George Hrab
+
+Not long after that, Antonio had an appointment with his curator,
+Yoshi, at the Department of Human Heritage. Antonio explained his
+situation in the Tyrranean language.
+
+&#8220;So you&#8217;re unsatisfied with your role as a beggar,&#8221; Yoshi said.
+&#8220;That&#8217;s [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://ultradark.livejournal.com/">By James Trimarco.</a></b><br />
+Read by Graydancer (of <a href="http://www.ropecast.net/">The Ropecast</a>).<br />
+First appeared in <a href="http://rackstrawpress.nfshost.com/">Glorifying Terrorism</a>, ed. Farah Mendlesohn.<br />
+Closing song: &#8220;Think For Yourself&#8221; by <a href="http://www.geologicrecords.net">George Hrab</a></p>
+
+<p><i>Not long after that, Antonio had an appointment with his curator,
+Yoshi, at the Department of Human Heritage. Antonio explained his
+situation in the Tyrranean language.</i></p>
+
+<p><i>&#8220;So you&#8217;re unsatisfied with your role as a beggar,&#8221; Yoshi said.
+&#8220;That&#8217;s hardly surprising. The unemployed of the early twenty-first
+century were also unhappy. Your emotions are true to period, that&#8217;s
+all.&#8221;</i></p>
+
+<p><i>&#8220;But it&#8217;s all wrong,&#8221; Antonio insisted. &#8220;I did well in school. I
+studied to be an engineer. If this was the real Italy, someone like me
+wouldn&#8217;t end up like this.&#8221;</i></p>
+
+<p><i>Yoshi&#8217;s mouth curved into the sterile non-smile of a bureaucrat with
+no time for sympathy.</i></p>
+
+<p><b>Rated R</b>.  Contains strong themes of violence and terrorism, strong language, and some sexual content.</p>
+
+<p><b>Referenced Sites:</b>
+<a href="http://www.opsi.gov.uk/acts/acts2006/ukpga_20060011_en.pdf">UK Terrorism Act 2006</a><br />
+<a href="http://www.graydancer.com">Graydancer.com</a><br />
+<a href="http://www.strangerthings.tv">Stranger Things</a><br /></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/147173530" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/08/23/ep120-the-sundial-brigade/feed/</wfw:commentRss>
+			
+<itunes:duration>54:59</itunes:duration>
+		<itunes:subtitle>By James Trimarco.
+Read by Graydancer (of The Ropecast).
+First appeared in Glorifying Terrorism, ed. Farah Mendlesohn.
+Closing song: "Think For Yourself" by George Hrab
+
+
+Not long after that, ...</itunes:subtitle>
+		<itunes:summary>By James Trimarco.
+Read by Graydancer (of The Ropecast).
+First appeared in Glorifying Terrorism, ed. Farah Mendlesohn.
+Closing song: "Think For Yourself" by George Hrab
+
+
+Not long after that, Antonio had an appointment with his curator,
+Yoshi, at the Department of Human Heritage. Antonio explained his
+situation in the Tyrranean language.
+
+"So you're unsatisfied with your role as a beggar," Yoshi said.
+"That's hardly surprising. The unemployed of the early twenty-first
+century were also unhappy. Your emotions are true to period, that's
+all."
+
+"But it's all wrong," Antonio insisted. "I did well in school. I
+studied to be an engineer. If this was the real Italy, someone like me
+wouldn't end up like this."
+
+Yoshi's mouth curved into the sterile non-smile of a bureaucrat with
+no time for sympathy.
+
+
+Rated R.  Contains strong themes of violence and terrorism, strong language, and some sexual content.
+
+Referenced Sites:
+UK Terrorism Act 2006
+Graydancer.com
+Stranger Things
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/147173531/EP120_TheSundialBrigade.mp3" fileSize="39599740" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F23%2Fep120-the-sundial-brigade%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/08/23/ep120-the-sundial-brigade/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/147173531/EP120_TheSundialBrigade.mp3" length="39599740" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/237/0/EP120_TheSundialBrigade.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP119: Aliens Want Our Women</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/144828052/</link>
+		<comments>http://escapepod.org/2007/08/16/ep119-aliens-want-our-women/#comments</comments>
+		<pubDate>Thu, 16 Aug 2007 16:00:47 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated G]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/08/16/ep119-aliens-want-our-women/</guid>
+		<description><![CDATA[Ramona Louise Wheeler
+Read by Leann Mabry (of Tag in the Seam).
+
+He was a widower, weary of too many years of loneliness. He had decided to travel to someplace distant and exotic, in hopes of finding as a companion someone completely different from his lost love. He had chosen Earth for its very remoteness.
+
+&#8220;I want to [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://hometown.aol.com/tokapu">Ramona Louise Wheeler</a></b><br />
+Read by Leann Mabry (of <a href="http://www.tagintheseam.com">Tag in the Seam</a>).<br /></p>
+
+<p><i>He was a widower, weary of too many years of loneliness. He had decided to travel to someplace distant and exotic, in hopes of finding as a companion someone completely different from his lost love. He had chosen Earth for its very remoteness.</i></p>
+
+<p><i>&#8220;I want to marry the most wonderful woman on Earth,&#8221; he said.</i></p>
+
+<p><i>Every female on the planet had just acquired a brand new agenda in life.</i></p>
+
+<p><b>Rated G</b>.  Contains gender role stereotyping, but no strong sex, language or violence.  Sorry.</p>
+
+<p><b>Blog of the Week:</b><br />
+<b><a href="http://www.evileyebrow.com/web/bp/billblog/">The Evil Eyebrow</a></b><br />
+<i>(receives <a href="http://www.amazon.com/exec/obidos/ASIN/0931150167/escapepod-20">The John W. Campbell Letters, Vol. 1</a>)</i></p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://www.polyweekly.com">Polyamory Weekly</a><br />
+<a href="http://www.drabblecast.org">The DrabbleCast</a></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/144828052" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/08/16/ep119-aliens-want-our-women/feed/</wfw:commentRss>
+			
+<itunes:duration>29:30</itunes:duration>
+		<itunes:subtitle>Ramona Louise Wheeler
+Read by Leann Mabry (of Tag in the Seam).
+
+He was a widower, weary of too many years of loneliness. He had decided to ...</itunes:subtitle>
+		<itunes:summary>Ramona Louise Wheeler
+Read by Leann Mabry (of Tag in the Seam).
+
+He was a widower, weary of too many years of loneliness. He had decided to travel to someplace distant and exotic, in hopes of finding as a companion someone completely different from his lost love. He had chosen Earth for its very remoteness.
+
+"I want to marry the most wonderful woman on Earth," he said.
+
+Every female on the planet had just acquired a brand new agenda in life.
+
+
+Rated G.  Contains gender role stereotyping, but no strong sex, language or violence.  Sorry.
+
+Blog of the Week:
+The Evil Eyebrow
+(receives The John W. Campbell Letters, Vol. 1)
+
+Referenced Sites:
+Polyamory Weekly
+The DrabbleCast </itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,G</itunes:keywords>
+		<itunes:author>Ramona Louise Wheeler</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182224/EP119_AliensWantOurWomen.mp3" fileSize="21262730" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F16%2Fep119-aliens-want-our-women%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/08/16/ep119-aliens-want-our-women/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182224/EP119_AliensWantOurWomen.mp3" length="21262730" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/236/0/EP119_AliensWantOurWomen.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP118: The Veteran</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/142564905/</link>
+		<comments>http://escapepod.org/2007/08/09/ep118-the-veteran/#comments</comments>
+		<pubDate>Fri, 10 Aug 2007 01:05:08 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/08/09/ep118-the-veteran/</guid>
+		<description><![CDATA[By Neal Asher.
+Read by Stephen Eley.
+
+Seated on a bollard, the man contemplatively removed his pipe, as if to tamp
+it down or relight it. Instead, he placed it stem down in the top pocket of
+his shirt, then reached up and pressed his fingers against his cheekbone and
+forehead. His face came away from his hairline, round behind [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://freespace.virgin.net/n.asher/">By Neal Asher.</a></b><br />
+Read by Stephen Eley.<br /></p>
+
+<p><i>Seated on a bollard, the man contemplatively removed his pipe, as if to tamp
+it down or relight it. Instead, he placed it stem down in the top pocket of
+his shirt, then reached up and pressed his fingers against his cheekbone and
+forehead. His face came away from his hairline, round behind his ears, down
+to a point just above his Adam’s apple. The inside of his mouth and much of
+his sinus were also part of the prosthesis, so only bare eyeballs in the
+upper jut of his skull remained – the rest being the black spikes and plates
+of bio-interfaces.</i></p>
+
+<p><i>Cheel gaped. From another pocket, the man took some sort of tool and began
+to probe inside the back of his detached face. He put the prosthesis in his
+lap, then took up his pipe and placed it in his throat sphincter. Smoke bled
+from between the interface plates of his cheeks. His bare eyeballs swivelled
+towards Cheel then back down to the adjustments he was making. She suddenly
+realised who this must be. Here was the veteran who worked on the ferry.
+Here was one of the few survivors from a brutal war between factions of
+dense-tech humans. Not understanding what was impelling her, she walked out
+on the jetty and approached him. 
+</i></p>
+
+<p><b>Rated PG</b>.  Contains slight profanity and high-tech violence.</p>
+
+<p><img src="http://farm2.static.flickr.com/1037/854185895_0c02b0bb15.jpg" height="125" width = "105" align="left"/>
+<b>Blog of the Week:</b><br />
+<a href="http://angriestricecooker.com/">The Angriest Rice Cooker in the World</a></p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://www.requiemoftheoutcast.com/podcast9/">Ecru: The Butcher of Balis</a><br />
+<a href="http://www.amazon.com/exec/obidos/ASIN/B00007J5U7/escapepod-20">Zojirushi NS-ZCC10</a> (Steve&#8217;s Rice Cooker)
+<a href="http://www.amazon.com/exec/obidos/ASIN/B00009NH3R/escapepod-20">Casio GW-300</a> (Steve&#8217;s Watch)</p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/142564905" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/08/09/ep118-the-veteran/feed/</wfw:commentRss>
+			
+<itunes:duration>35:00</itunes:duration>
+		<itunes:subtitle>By Neal Asher.
+Read by Stephen Eley.
+
+Seated on a bollard, the man contemplatively removed his pipe, as if to tamp
+it down or relight it. Instead, he ...</itunes:subtitle>
+		<itunes:summary>By Neal Asher.
+Read by Stephen Eley.
+
+Seated on a bollard, the man contemplatively removed his pipe, as if to tamp
+it down or relight it. Instead, he placed it stem down in the top pocket of
+his shirt, then reached up and pressed his fingers against his cheekbone and
+forehead. His face came away from his hairline, round behind his ears, down
+to a point just above his Adamrsquo;s apple. The inside of his mouth and much of
+his sinus were also part of the prosthesis, so only bare eyeballs in the
+upper jut of his skull remained ndash; the rest being the black spikes and plates
+of bio-interfaces.
+
+Cheel gaped. From another pocket, the man took some sort of tool and began
+to probe inside the back of his detached face. He put the prosthesis in his
+lap, then took up his pipe and placed it in his throat sphincter. Smoke bled
+from between the interface plates of his cheeks. His bare eyeballs swivelled
+towards Cheel then back down to the adjustments he was making. She suddenly
+realised who this must be. Here was the veteran who worked on the ferry.
+Here was one of the few survivors from a brutal war between factions of
+dense-tech humans. Not understanding what was impelling her, she walked out
+on the jetty and approached him. 
+
+
+
+Rated PG.  Contains slight profanity and high-tech violence.
+
+
+Blog of the Week:
+The Angriest Rice Cooker in the World
+
+Referenced Sites:
+Ecru: The Butcher of Balis
+Zojirushi NS-ZCC10 (Steve's Rice Cooker)
+Casio GW-300 (Steve's Watch)
+
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>Neal Asher</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182225/EP118_TheVeteran.mp3" fileSize="25222768" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F09%2Fep118-the-veteran%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/08/09/ep118-the-veteran/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182225/EP118_TheVeteran.mp3" length="25222768" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/235/0/EP118_TheVeteran.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP BONUS: Ecru - The Butcher of Balis</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/142509164/</link>
+		<comments>http://escapepod.org/2007/08/09/ep-bonus-ecru-the-butcher-of-balis/#comments</comments>
+		<pubDate>Thu, 09 Aug 2007 21:27:49 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[SF/F News]]></category>
+
+		<category><![CDATA[Bonus]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/08/09/ep-bonus-ecru-the-butcher-of-balis/</guid>
+		<description><![CDATA[
+
+Here&#8217;s a special prerelease of a new podcasting first: a full comic book distributed exclusively via podcast!
+
+Ecru debuts today from Particle 9 Productions, distributed by Outcast Multimedia.  The first issue features art by Chasen Grieshop and an original story by Earl Newton (of Stranger Things).  We&#8217;re pleased to deliver this special preview edition [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.requiemoftheoutcast.com/podcast9eps/butcherprerelease.pdf"><img src="http://www.requiemoftheoutcast.com/podcast9eps/99jpg.jpg" alt="Ecru" /></a></p>
+
+<p>Here&#8217;s a special prerelease of a new podcasting first: a full comic book distributed exclusively via podcast!</p>
+
+<p><a href="http://www.requiemoftheoutcast.com/podcast9/">Ecru</a> debuts today from <a href="http://www.particle9productions.com/">Particle 9 Productions</a>, distributed by <a href="http://www.requiemoftheoutcast.com/">Outcast Multimedia</a>.  The first issue features art by Chasen Grieshop and an original story by Earl Newton (of <a href="http://strangerthings.tv">Stranger Things</a>).  We&#8217;re pleased to deliver this special preview edition of the comic on the Escape Pod feed.</p>
+
+<p><i>(And yes, today&#8217;s regular Escape Pod episode will be posting shortly.)</i></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/142509164" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/08/09/ep-bonus-ecru-the-butcher-of-balis/feed/</wfw:commentRss>
+			
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>Here's a special prerelease of a new podcasting first: a full comic book distributed exclusively via podcast!  
+
+Ecru debuts today from Particle 9 Productions, ...</itunes:subtitle>
+		<itunes:summary>Here's a special prerelease of a new podcasting first: a full comic book distributed exclusively via podcast!  
+
+Ecru debuts today from Particle 9 Productions, distributed by Outcast Multimedia.  The first issue features art by Chasen Grieshop and an original story by Earl Newton (of Stranger Things).  We're pleased to deliver this special preview edition of the comic on the Escape Pod feed.
+
+(And yes, today's regular Escape Pod episode will be posting shortly.)
+</itunes:summary>
+		<itunes:keywords>Podcasts,,SF/F,News,,Bonus</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182226/butcherprerelease.pdf" fileSize="3683704" type="application/pdf"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F09%2Fep-bonus-ecru-the-butcher-of-balis%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/08/09/ep-bonus-ecru-the-butcher-of-balis/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182226/butcherprerelease.pdf" length="3683704" type="application/pdf"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/234/0/butcherprerelease.pdf</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP Review: Sunshine</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/140186211/</link>
+		<comments>http://escapepod.org/2007/08/03/ep-review-sunshine/#comments</comments>
+		<pubDate>Fri, 03 Aug 2007 04:48:32 +0000</pubDate>
+		<dc:creator>Sullydog</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/08/03/ep-review-sunshine/</guid>
+		<description/>
+			<content:encoded><![CDATA[<p><b><a href="http://www.imdb.com/title/tt0448134/"><img border="0"
+<img src="/media/sunshine.jpg" alt='' /><br />A Film by Danny Boyle .</a></b><br /></p>
+
+<p>Reviewed by Jonathon Sullivan.</p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/140186211" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/08/03/ep-review-sunshine/feed/</wfw:commentRss>
+			
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>EP Review: Sunshine</itunes:subtitle>
+		<itunes:summary>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We're also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG,,Reviews</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182227/EPReview022_Sunshine.mp3" fileSize="5615237" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F03%2Fep-review-sunshine%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/08/03/ep-review-sunshine/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182227/EPReview022_Sunshine.mp3" length="5615237" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/233/0/EPReview022_Sunshine.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP117: Reggie vs. Kaiju Storm Chimera Wolf</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/140083240/</link>
+		<comments>http://escapepod.org/2007/08/02/ep117-reggie-vs-kaiju-storm-chimera-wolf/#comments</comments>
+		<pubDate>Thu, 02 Aug 2007 21:30:06 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/08/02/ep117-reggie-vs-kaiju-storm-chimera-wolf/</guid>
+		<description><![CDATA[By Matthew Wayne Selznick.
+Read by Scott Sigler (of Earthcore, Ancestor, Infected, The Rookie).
+
+Yarborough led them through the impromptu village of broad white
+tents, rows of outhouses, sensor towers, and heavy weapons
+installations that had obliterated the turf of the athletic field.
+They stopped at the fence on the edge of the hilltop.
+
+&#8220;You can get a pretty good look [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.mattselznick.com">By Matthew Wayne Selznick.</a></b><br />
+Read by Scott Sigler (of <a href="http://www.scottsigler.net">Earthcore, Ancestor, Infected, The Rookie</a>).<br /></p>
+
+<p><i>Yarborough led them through the impromptu village of broad white
+tents, rows of outhouses, sensor towers, and heavy weapons
+installations that had obliterated the turf of the athletic field.
+They stopped at the fence on the edge of the hilltop.</i></p>
+
+<p><i>&#8220;You can get a pretty good look at the swath, here.&#8221;</i></p>
+
+<p><i>On a day without monsters, it would have been a nice view.  You could
+see most of the town center, and all the way to Pacific Coast Highway
+the misty ocean beyond.  A wide, flat, smoking scar of ruin cut from
+the water to a shopping center half a mile inland.</i></p>
+
+<p><b>Rated R</b>.  Contains profanity and giant monster violence.</p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://www.talkshoe.com/talkshoe/web/talkCast.jsp?masterId=28497&amp;cmd=tc">Knitwitch&#8217;s Sci-Fi &amp; Fantasy Zone on Talkshoe</a><br /></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/140083240" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/08/02/ep117-reggie-vs-kaiju-storm-chimera-wolf/feed/</wfw:commentRss>
+			
+<itunes:duration>39:00</itunes:duration>
+		<itunes:subtitle>By Matthew Wayne Selznick.
+Read by Scott Sigler (of Earthcore, Ancestor, Infected, The Rookie).
+
+Yarborough led them through the impromptu village of broad white
+tents, rows of outhouses, ...</itunes:subtitle>
+		<itunes:summary>By Matthew Wayne Selznick.
+Read by Scott Sigler (of Earthcore, Ancestor, Infected, The Rookie).
+
+Yarborough led them through the impromptu village of broad white
+tents, rows of outhouses, sensor towers, and heavy weapons
+installations that had obliterated the turf of the athletic field.
+They stopped at the fence on the edge of the hilltop.
+	
+"You can get a pretty good look at the swath, here."
+	
+On a day without monsters, it would have been a nice view.  You could
+see most of the town center, and all the way to Pacific Coast Highway
+the misty ocean beyond.  A wide, flat, smoking scar of ruin cut from
+the water to a shopping center half a mile inland.
+
+
+Rated R.  Contains profanity and giant monster violence.
+
+Referenced Sites:
+Knitwitch's Sci-Fi  Fantasy Zone on Talkshoe
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+		<itunes:author>Matthew Wayne Selznick</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182228/EP117_ReggieVsKaiju.mp3" fileSize="28102946" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F02%2Fep117-reggie-vs-kaiju-storm-chimera-wolf%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/08/02/ep117-reggie-vs-kaiju-storm-chimera-wolf/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182228/EP117_ReggieVsKaiju.mp3" length="28102946" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/232/0/EP117_ReggieVsKaiju.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP116: Ej-Es</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/137711629/</link>
+		<comments>http://escapepod.org/2007/07/26/ep116-ej-es/#comments</comments>
+		<pubDate>Thu, 26 Jul 2007 20:00:32 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/07/26/ep116-ej-es/</guid>
+		<description><![CDATA[By Nancy Kress.
+Read by Sheri Mann Stewart.
+First appeared in Stars: Stories Based On Janis Ian Songs, ed. Janis Ian &#38; Mike Resnick.
+
+Mia didn&#8217;t reply.  Her attention was riveted to Esefeb.  The girl flung herself up the stairs and sat up in bed, facing the wall.  What Mia had see before could hardly [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.sff.net/people/nankress/">By Nancy Kress.</a></b><br />
+Read by Sheri Mann Stewart.<br />
+First appeared in <a href="http://www.amazon.com/exec/obidos/ASIN/0756402441/escapepod-20">Stars: Stories Based On Janis Ian Songs</a>, ed. Janis Ian &amp; Mike Resnick.</p>
+
+<p><i>Mia didn&#8217;t reply.  Her attention was riveted to Esefeb.  The girl flung herself up the stairs and sat up in bed, facing the wall.  What Mia had see before could hardly be called a smile compared to the light, the sheer joy, that illuminated Esefeb&#8217;s face now.  Esefeb shuddered in ecstasy, crooning to the empty wall.</i></p>
+
+<p><i>&#8220;Ej-es.  Ej-es.  Aaahhhh, Ej-es!&#8221;</i></p>
+
+<p><i>Mia turned away.  She was a medician, but Esefeb&#8217;s emotion seemed too private to witness.  It was the ecstasy of orgasm, or religious transfiguration, or madness.</i></p>
+
+<p><i>&#8220;Mia,&#8221; her wrister said, &#8220;I need an image of that girl&#8217;s brain.&#8221;</i></p>
+
+<p><b>Rated PG</b>.  Contains passing sexual references and graphic medical description.</p>
+
+<p><b>Blog of the Week:</b><br />
+<a href="http://threelawsunsafe.blogspot.com/2007/07/dr-chandra-will-i-dream.html">Three Laws Unsafe</a></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/137711629" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/07/26/ep116-ej-es/feed/</wfw:commentRss>
+			
+<itunes:duration>54:00</itunes:duration>
+		<itunes:subtitle>By Nancy Kress.
+Read by Sheri Mann Stewart.
+First appeared in Stars: Stories Based On Janis Ian Songs, ed. Janis Ian  Mike Resnick.
+
+
+Mia didn't reply.  ...</itunes:subtitle>
+		<itunes:summary>By Nancy Kress.
+Read by Sheri Mann Stewart.
+First appeared in Stars: Stories Based On Janis Ian Songs, ed. Janis Ian  Mike Resnick.
+
+
+Mia didn't reply.  Her attention was riveted to Esefeb.  The girl flung herself up the stairs and sat up in bed, facing the wall.  What Mia had see before could hardly be called a smile compared to the light, the sheer joy, that illuminated Esefeb's face now.  Esefeb shuddered in ecstasy, crooning to the empty wall.
+
+"Ej-es.  Ej-es.  Aaahhhh, Ej-es!"
+
+Mia turned away.  She was a medician, but Esefeb's emotion seemed too private to witness.  It was the ecstasy of orgasm, or religious transfiguration, or madness.
+
+"Mia," her wrister said, "I need an image of that girl's brain."
+
+
+Rated PG.  Contains passing sexual references and graphic medical description.
+
+Blog of the Week:
+Three Laws Unsafe
+
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182229/EP116_EJ-ES.mp3" fileSize="38902567" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F07%2F26%2Fep116-ej-es%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/07/26/ep116-ej-es/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182229/EP116_EJ-ES.mp3" length="38902567" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/231/0/EP116_EJ-ES.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP115: Conversations With and About My Electric Toothbrush</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/135197957/</link>
+		<comments>http://escapepod.org/2007/07/19/ep115-conversations-with-and-about-my-electric-toothbrush/#comments</comments>
+		<pubDate>Thu, 19 Jul 2007 07:40:38 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated G]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/07/19/ep115-conversations-with-and-about-my-electric-toothbrush/</guid>
+		<description><![CDATA[By Derek Zumsteg.
+Read by Jared Axelrod (of The Department of Public Words).
+
+&#8220;I read an interesting forum post last night,&#8221; my electric toothbrush told me over its low burr.
+
+&#8220;Thiff ouff thew be thood,&#8221; I said through my mouth of foam.
+
+“It was!” he replied. &#8220;Using readily available components, Monkeymonkey turned his Intellibrush into a milk frother.&#8221;
+
+I spit [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.zumsteg.net">By Derek Zumsteg.</a></b><br />
+Read by Jared Axelrod (of <a href="http://www.publicwords.org">The Department of Public Words</a>).<br /></p>
+
+<p><i>&#8220;I read an interesting forum post last night,&#8221; my electric toothbrush told me over its low burr.</i></p>
+
+<p><i>&#8220;Thiff ouff thew be thood,&#8221; I said through my mouth of foam.</i></p>
+
+<p><i>“It was!” he replied. &#8220;Using readily available components, Monkeymonkey turned his Intellibrush into a milk frother.&#8221;</i></p>
+
+<p><i>I spit into the sink and set my toothbrush in its white ceramic charger. &#8220;What would I do with a milk frother?&#8221;</i></p>
+
+<p><i>&#8220;Make cappucinos,&#8221; my toothbrush said, with a hint of resignation, as I rinsed and spit again.</i></p>
+
+<p><i>&#8220;I don’t drink cappucinos,&#8221; I said.</i></p>
+
+<p><i>&#8220;You could start!&#8221;</i></p>
+
+<p><b>Rated G</b>.  Contains a very mild reference to vibrating appliances.</p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://www.ussmariner.com">U.S.S. Mariner</a><br />
+<a href="http://www.sensesfive.com">Senses Five Press</a></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/135197957" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/07/19/ep115-conversations-with-and-about-my-electric-toothbrush/feed/</wfw:commentRss>
+			
+<itunes:duration>22:30</itunes:duration>
+		<itunes:subtitle>By Derek Zumsteg.
+Read by Jared Axelrod (of The Department of Public Words).
+
+"I read an interesting forum post last night," my electric toothbrush told me over ...</itunes:subtitle>
+		<itunes:summary>By Derek Zumsteg.
+Read by Jared Axelrod (of The Department of Public Words).
+
+"I read an interesting forum post last night," my electric toothbrush told me over its low burr.
+
+"Thiff ouff thew be thood," I said through my mouth of foam.
+
+ldquo;It was!rdquo; he replied. "Using readily available components, Monkeymonkey turned his Intellibrush into a milk frother."
+
+I spit into the sink and set my toothbrush in its white ceramic charger. "What would I do with a milk frother?"
+
+"Make cappucinos," my toothbrush said, with a hint of resignation, as I rinsed and spit again.
+
+"I donrsquo;t drink cappucinos," I said.
+
+"You could start!"
+
+
+Rated G.  Contains a very mild reference to vibrating appliances.
+
+Referenced Sites:
+U.S.S. Mariner
+Senses Five Press
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,G</itunes:keywords>
+		<itunes:author>Derek Zumsteg</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182230/EP115_Conversations.mp3" fileSize="16223090" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F07%2F19%2Fep115-conversations-with-and-about-my-electric-toothbrush%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/07/19/ep115-conversations-with-and-about-my-electric-toothbrush/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182230/EP115_Conversations.mp3" length="16223090" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/230/0/EP115_Conversations.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP114: Cloud Dragon Skies</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/133045044/</link>
+		<comments>http://escapepod.org/2007/07/12/ep114-cloud-dragon-skies/#comments</comments>
+		<pubDate>Thu, 12 Jul 2007 16:30:28 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/07/12/ep114-cloud-dragon-skies/</guid>
+		<description><![CDATA[By N.K. Jemisin.
+Read by Máia Whitaker (of Knitwitch&#8217;s Scifi/Fantasy Zone).
+First appeared in Strange Horizons, August 2005.
+Closing music: &#8220;The Fall,&#8221; by Red Hunter.
+
+I was a child when the sky changed. I can still remember days when it was endlessly blue, the clouds passive and gentle. The change occurred without warning: one morning we awoke and the [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://home.earthlink.net/~njem/">By N.K. Jemisin.</a></b><br />
+Read by Máia Whitaker (of <a href="http://www.knitwitchzone.com">Knitwitch&#8217;s Scifi/Fantasy Zone</a>).<br />
+First appeared in <a href="http://www.strangehorizons.com/2005/20050801/jemisin-f.shtml"><i>Strange Horizons</i>, August 2005</a>.<br />
+Closing music: &#8220;The Fall,&#8221; by <a href="http://www.whiskeyandapples.com/artists.htm">Red Hunter</a>.</p>
+
+<p><i>I was a child when the sky changed. I can still remember days when it was endlessly blue, the clouds passive and gentle. The change occurred without warning: one morning we awoke and the sky was a pale, blushing rose. We began to see intention in the slow, ceaseless movements of the clouds. Instead of floating, they swam spirals in the sky. They gathered in knots, trailing wisps like feet and tails. We felt them watching us.</i></p>
+
+<p><i>We adapted. We had never taken more than we needed from the land, and we always kept our animals far from water. Now we moistened wild cotton and stretched this across our smoke holes as filters. Sometimes the clouds would gather over fires that were out in the open. A tendril would stretch down, weaving like a snake&#8217;s head, opening delicate mist jaws to nip the plume of smoke. Even the bravest warriors would quickly put such fires out.</i></p>
+
+<p><b>Rated PG</b>.  Contains passing nudity and apocalyptic themes.</p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://www.superioraudioworks.com">Superior Audio Works</a><br />
+<a href="http://www.podiobooks.com/title/serve-it-cold">Serve It Cold</a></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/133045044" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/07/12/ep114-cloud-dragon-skies/feed/</wfw:commentRss>
+			
+<itunes:duration>37:15</itunes:duration>
+		<itunes:subtitle>By N.K. Jemisin.
+Read by Maacute;ia Whitaker (of Knitwitch's Scifi/Fantasy Zone).
+First appeared in Strange Horizons, August 2005.
+Closing music: "The Fall," by Red Hunter.
+
+I was a child ...</itunes:subtitle>
+		<itunes:summary>By N.K. Jemisin.
+Read by Maacute;ia Whitaker (of Knitwitch's Scifi/Fantasy Zone).
+First appeared in Strange Horizons, August 2005.
+Closing music: "The Fall," by Red Hunter.
+
+I was a child when the sky changed. I can still remember days when it was endlessly blue, the clouds passive and gentle. The change occurred without warning: one morning we awoke and the sky was a pale, blushing rose. We began to see intention in the slow, ceaseless movements of the clouds. Instead of floating, they swam spirals in the sky. They gathered in knots, trailing wisps like feet and tails. We felt them watching us.
+
+We adapted. We had never taken more than we needed from the land, and we always kept our animals far from water. Now we moistened wild cotton and stretched this across our smoke holes as filters. Sometimes the clouds would gather over fires that were out in the open. A tendril would stretch down, weaving like a snake's head, opening delicate mist jaws to nip the plume of smoke. Even the bravest warriors would quickly put such fires out.
+
+
+Rated PG.  Contains passing nudity and apocalyptic themes.
+
+Referenced Sites:
+Superior Audio Works
+Serve It Cold
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>N.K. Jemisin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182231/EP114_CloudDragonSkies.mp3" fileSize="26847488" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F07%2F12%2Fep114-cloud-dragon-skies%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/07/12/ep114-cloud-dragon-skies/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182231/EP114_CloudDragonSkies.mp3" length="26847488" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/229/0/EP114_CloudDragonSkies.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP113: Ishmael in Love</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/130713933/</link>
+		<comments>http://escapepod.org/2007/07/05/ep113-ishmael-in-love/#comments</comments>
+		<pubDate>Thu, 05 Jul 2007 10:17:27 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/07/05/ep113-ishmael-in-love/</guid>
+		<description><![CDATA[By Robert Silverberg.
+Read by Stephen Eley.
+First appeared in Fantasy &#38; Science Fiction, July 1970.
+
+I am a lonely mammalian organism who has committed acts of heroism on behalf of your species and wishes only the reward of a more intimate relationship [&#8221;love&#8221;] with Miss Lisabeth Calkins.  I beseech compassionate members of H. sapiens to speak [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.majipoor.com">By Robert Silverberg.</a></b><br />
+Read by Stephen Eley.<br />
+First appeared in <a href="http://www.fsfmag.com">Fantasy &amp; Science Fiction</a>, July 1970.</p>
+
+<p><i>I am a lonely mammalian organism who has committed acts of heroism on behalf of your species and wishes only the reward of a more intimate relationship [&#8221;love&#8221;] with Miss Lisabeth Calkins.  I beseech compassionate members of <b>H. sapiens</b> to speak favorably of me to her.  I am loyal, trustworthy, reliable, devoted, and extremely intelligent.  I would endeavor to give her stimulating companionship and emotional fulfillment [&#8221;happiness&#8221;] in all respects within my power.</i></p>
+
+<p><i>Permit me to explain the pertinent circumstances.</i></p>
+
+<p><b>Rated R</b>.  Contains explicit anatomical description and non-human sexual activity.</p>
+
+<p><b>Related Links:</b><br />
+<a href="http://sfeley.livejournal.com">Steve&#8217;s LiveJournal</a> (cleaning updates)</p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/130713933" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/07/05/ep113-ishmael-in-love/feed/</wfw:commentRss>
+			
+<itunes:duration>39:30</itunes:duration>
+		<itunes:subtitle>By Robert Silverberg.
+Read by Stephen Eley.
+First appeared in Fantasy  Science Fiction, July 1970.
+
+
+I am a lonely mammalian organism who has committed acts of heroism ...</itunes:subtitle>
+		<itunes:summary>By Robert Silverberg.
+Read by Stephen Eley.
+First appeared in Fantasy  Science Fiction, July 1970.
+
+
+I am a lonely mammalian organism who has committed acts of heroism on behalf of your species and wishes only the reward of a more intimate relationship ["love"] with Miss Lisabeth Calkins.  I beseech compassionate members of H. sapiens to speak favorably of me to her.  I am loyal, trustworthy, reliable, devoted, and extremely intelligent.  I would endeavor to give her stimulating companionship and emotional fulfillment ["happiness"] in all respects within my power.
+
+Permit me to explain the pertinent circumstances.
+
+
+Rated R.  Contains explicit anatomical description and non-human sexual activity.
+
+Related Links:
+Steve's LiveJournal (cleaning updates)
+
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182232/EP113_IshmaelInLove.mp3" fileSize="28462798" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F07%2F05%2Fep113-ishmael-in-love%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/07/05/ep113-ishmael-in-love/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182232/EP113_IshmaelInLove.mp3" length="28462798" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/228/0/EP113_IshmaelInLove.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP112: The Giving Plague</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/128545508/</link>
+		<comments>http://escapepod.org/2007/06/28/ep112-the-giving-plague/#comments</comments>
+		<pubDate>Thu, 28 Jun 2007 04:01:06 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/06/28/ep112-the-giving-plague/</guid>
+		<description><![CDATA[By David Brin.
+Read by Dr. Jonathon Sullivan.
+First appeared in Interzone #23, 1988.
+Now available at DavidBrin.com.
+
+Yeah, you viruses need vectors, don&#8217;t you. I mean, if you kill a guy, you&#8217;ve got to have a life raft, so you can desert the ship you&#8217;ve sunk, so you can cross over to some new hapless victim. Same applies [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.davidbrin.com">By David Brin.</a></b><br />
+Read by Dr. Jonathon Sullivan.<br />
+First appeared in <a href="http://ttapress.com/category/interzone/">Interzone</a> #23, 1988.<br />
+Now available at <a href="http://www.davidbrin.com/givingplague1.html">DavidBrin.com</a>.</p>
+
+<p><i>Yeah, you viruses need vectors, don&#8217;t you. I mean, if you kill a guy, you&#8217;ve got to have a life raft, so you can desert the ship you&#8217;ve sunk, so you can cross over to some new hapless victim. Same applies if the host proves tough, and fights you off &#8212; gotta move on. Always movin&#8217; on.</i></p>
+
+<p><i>Hell, even if you&#8217;ve made peace with a human body, like Les suggested, you still want to spread, don&#8217;t you? Big-time colonizers, you tiny beasties.</i></p>
+
+<p><i>Oh, I know. It&#8217;s just natural selection. Those bugs that accidentally find a good vector spread. Those that don&#8217;t, don&#8217;t. But it&#8217;s so eerie. Sometimes it sure <b>feels</b> purposeful&#8230;. </i></p>
+
+<p><b>Rated PG</b>.  Contains intended violence, epidemics, and deep technical dialogue.</p>
+
+<p><b>Referenced Sites:</b><br />
+<a href="http://www.geekfuactiongrip.com">Geek Fu Action Grip</a><br />
+<a href="http://www.heinleinsociety.org/blooddrives/index.html">Heinlein Society Blood Drives</a></p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/128545508" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/06/28/ep112-the-giving-plague/feed/</wfw:commentRss>
+			
+<itunes:duration>52:30</itunes:duration>
+		<itunes:subtitle>By David Brin.
+Read by Dr. Jonathon Sullivan.
+First appeared in Interzone #23, 1988.
+Now available at DavidBrin.com.
+
+
+Yeah, you viruses need vectors, don't you. I mean, if you ...</itunes:subtitle>
+		<itunes:summary>By David Brin.
+Read by Dr. Jonathon Sullivan.
+First appeared in Interzone #23, 1988.
+Now available at DavidBrin.com.
+
+
+Yeah, you viruses need vectors, don't you. I mean, if you kill a guy, you've got to have a life raft, so you can desert the ship you've sunk, so you can cross over to some new hapless victim. Same applies if the host proves tough, and fights you off -- gotta move on. Always movin' on.
+
+Hell, even if you've made peace with a human body, like Les suggested, you still want to spread, don't you? Big-time colonizers, you tiny beasties.
+
+Oh, I know. It's just natural selection. Those bugs that accidentally find a good vector spread. Those that don't, don't. But it's so eerie. Sometimes it sure feels purposeful.... 
+
+
+Rated PG.  Contains intended violence, epidemics, and deep technical dialogue.
+
+Referenced Sites:
+Geek Fu Action Grip
+Heinlein Society Blood Drives</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>David Brin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182233/EP112_TheGivingPlague.mp3" fileSize="37822676" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F06%2F28%2Fep112-the-giving-plague%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/06/28/ep112-the-giving-plague/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182233/EP112_TheGivingPlague.mp3" length="37822676" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/227/0/EP112_TheGivingPlague.mp3</feedburner:origEnclosureLink></item>
+		<item>
+		<title>EP111: Mayfly</title>
+		<link>http://feeds.escapepod.org/~r/EscapePod/~3/126656822/</link>
+		<comments>http://escapepod.org/2007/06/21/ep111-mayfly/#comments</comments>
+		<pubDate>Thu, 21 Jun 2007 09:15:37 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://escapepod.org/2007/06/21/ep111-mayfly/</guid>
+		<description><![CDATA[By Heather Lindsley.
+Read by The Word Whore (of Air Out My Shorts).
+First appeared in Strange Horizons, September 2006.
+
+The reflection of what appears to be a girl of eleven looks back at me from the full-length mirror in the bedroom that was my mother&#8217;s. Together we spit out yet another baby tooth, which reminds me I [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.randomjane.com">By Heather Lindsley.</a></b><br />
+Read by The Word Whore (of <a href="http://www.theitspot.com/">Air Out My Shorts</a>).<br />
+First appeared in <a href="http://www.strangehorizons.com/2006/20060925/mayfly-f.shtml">Strange Horizons</a>, September 2006.</p>
+
+<p><i>The reflection of what appears to be a girl of eleven looks back at me from the full-length mirror in the bedroom that was my mother&#8217;s. Together we spit out yet another baby tooth, which reminds me I need to drink another calcium-enriched protein shake. Either that, or eat what remains of my mother.</i></p>
+
+<p><i>She&#8217;s the pile of coarse dust scattered across the bedsheets. Some of my kind swear by mother dust, the way certain factions among the rest of the population swear by breast feeding. And there are benefits, whether you&#8217;re still a kid with growing bones or an adult woman facing osteoporosis by the end of the week.</i></p>
+
+<p><i>But my mother is not strawberry-flavored, so I opt for the shake.</i></p>
+
+<p><b>Rated R</b>.  Contains sexual scenes and other deep biological imperatives.</p>
+<img src="http://feeds.escapepod.org/~r/EscapePod/~4/126656822" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://escapepod.org/2007/06/21/ep111-mayfly/feed/</wfw:commentRss>
+			
+<itunes:duration>28:25</itunes:duration>
+		<itunes:subtitle>By Heather Lindsley.
+Read by The Word Whore (of Air Out My Shorts).
+First appeared in Strange Horizons, September 2006.
+
+
+The reflection of what appears to be a ...</itunes:subtitle>
+		<itunes:summary>By Heather Lindsley.
+Read by The Word Whore (of Air Out My Shorts).
+First appeared in Strange Horizons, September 2006.
+
+
+The reflection of what appears to be a girl of eleven looks back at me from the full-length mirror in the bedroom that was my mother's. Together we spit out yet another baby tooth, which reminds me I need to drink another calcium-enriched protein shake. Either that, or eat what remains of my mother.
+
+She's the pile of coarse dust scattered across the bedsheets. Some of my kind swear by mother dust, the way certain factions among the rest of the population swear by breast feeding. And there are benefits, whether you're still a kid with growing bones or an adult woman facing osteoporosis by the end of the week.
+
+But my mother is not strawberry-flavored, so I opt for the shake.
+
+
+Rated R.  Contains sexual scenes and other deep biological imperatives.
+</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+		<itunes:author>Heather Lindsley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://feeds.escapepod.org/~r/EscapePod/~5/146182234/EP111_Mayfly.mp3" fileSize="20482798" type="audio/mpeg"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F06%2F21%2Fep111-mayfly%2F</feedburner:awareness><feedburner:origLink>http://escapepod.org/2007/06/21/ep111-mayfly/</feedburner:origLink><enclosure url="http://feeds.escapepod.org/~r/EscapePod/~5/146182234/EP111_Mayfly.mp3" length="20482798" type="audio/mpeg"/><feedburner:origEnclosureLink>http://escapepod.org/podpress_trac/feed/226/0/EP111_Mayfly.mp3</feedburner:origEnclosureLink></item>
+	<media:credit role="author">Stephen Eley</media:credit><media:rating>nonadult</media:rating><media:description type="plain"/><feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetFeedData?uri=EscapePod</feedburner:awareness></channel>
+</rss>
