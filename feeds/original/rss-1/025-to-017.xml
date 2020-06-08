@@ -1,0 +1,1273 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Escape Pod</title>
+    <link>http://www.escapepod.org</link>
+    <description>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</description>
+    <pubDate>Mon, 31 Oct 2005 05:18:28 +0000</pubDate>
+    <generator>http://wordpress.org/?v=1.5.2</generator>
+    <language>en</language>
+    <copyright>Stephen Eley 2004-2005</copyright>
+    <managingEditor>editor@extraneous.org (Stephen Eley)</managingEditor>
+    <webMaster>editor@extraneous.org</webMaster>
+    <category>Science Fiction</category>
+    <itunes:category text="Arts &amp; Entertainment">
+      <itunes:category text="Science Fiction"/>
+    </itunes:category>
+    <itunes:category text="Arts &amp; Entertainment">
+      <itunes:category text="Books"/>
+    </itunes:category>
+    <itunes:category text="Arts &amp; Entertainment">
+      <itunes:category text="Performing Arts"/>
+    </itunes:category>
+    <itunes:subtitle>The Science Fiction Podcast Magazine.  
+
+Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</itunes:subtitle>
+    <itunes:summary>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</itunes:summary>
+    <itunes:author>Stephen Eley</itunes:author>
+    <itunes:owner>
+      <itunes:name>Stephen Eley</itunes:name>
+      <itunes:email>editor@extraneous.org</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:link rel="image" type="video/jpeg" href="http://www.escapepod.info/wp-images/pod-info-icon300.jpg">Escape Pod</itunes:link>
+    <image>
+      <link>http://escape.extraneous.org</link>
+      <url>http://escape.extraneous.org/wp-images/pod-icon128.jpg</url>
+      <title>Escape Pod</title>
+    </image>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/2.0/</creativeCommons:license>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://escape.extraneous.org/podcast.xml" type="application/rss+xml"/>
+    <feedburner:browserFriendly>This is a podcast XML content feed. It is intended to be viewed in a podcatching application or podcast-capable newsreader or syndicated to another site.</feedburner:browserFriendly>
+    <item>
+      <title>EP Flash: Mount Dragon</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=86</link>
+      <comments>http://www.escapepod.org/2005/10/31/ep-flash-mount-dragon/#comments</comments>
+      <pubDate>Mon, 31 Oct 2005 05:00:19 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated PG</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/10/31/ep-flash-mount-dragon/</guid>
+      <description><![CDATA[By Vera Nazarian.
+Read by Stephen Eley.
+
+&#8220;Go to hell, idiot,&#8221; I said, using an astringent tongue he&#8217;d understand. &#8220;I
+am but a monumental slab of granite, and you, mortality, are like one of
+the droppings of a fairly large corpulent deity&#8211;an ephemeral honor I would
+rather pass me by.&#8221;
+
+&#8220;And yet, you speak to me, mountain,&#8221; said the mote of [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.veranazarian.com/">By Vera Nazarian.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><i>&#8220;Go to hell, idiot,&#8221; I said, using an astringent tongue he&#8217;d understand. &#8220;I
+am but a monumental slab of granite, and you, mortality, are like one of
+the droppings of a fairly large corpulent deity&#8211;an ephemeral honor I would
+rather pass me by.&#8221;</i></p>
+
+<p><i>&#8220;And yet, you speak to me, mountain,&#8221; said the mote of humanity. &#8220;Why is
+that?&#8221;</i></p>
+
+<p><i>I considered that for a moment.  The creature had a point.</i></p>
+
+<p><i>&#8220;I don&#8217;t know,&#8221; I replied honestly.</i></p>
+
+<p><b>Rated PG.</b>  Contains some profanity.  Paradigms may shift without warning.</p>
+
+<p><a rel="enclosure" href="http://escapepod.podlot.net/EPFlash013_MountDragon.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Flash.</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/10/31/ep-flash-mount-dragon/feed/</wfw:commentRSS>
+      <enclosure url="http://escapepod.podlot.net/EPFlash013_MountDragon.mp3" length="7156230" type="audio/mpeg"/>
+      <itunes:duration>00:09:40</itunes:duration>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Vera Nazarian.
+Read by Stephen Eley.
+
+“Go to hell, idiot,” I said, using an astringent tongue he’d understand. “I
+am but a monumental slab of granite, and ...</itunes:subtitle>
+      <itunes:summary>By Vera Nazarian.
+Read by Stephen Eley.
+
+“Go to hell, idiot,” I said, using an astringent tongue he’d understand. “I
+am but a monumental slab of granite, and you, mortality, are like one of
+the droppings of a fairly large corpulent deity–an ephemeral honor I would
+rather pass me by.”
+
+“And yet, you speak to me, mountain,” said the mote of humanity. “Why is
+that?”
+
+I considered that for a moment.  The creature had a point.
+
+“I don’t know,” I replied honestly.
+
+Rated PG.  Contains some profanity.  Paradigms may shift without warning.
+
+Download the Escape Pod Flash.</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+      <media:content url="http://escapepod.podlot.net/EPFlash013_MountDragon.mp3" fileSize="7156230" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/10/31/ep-flash-mount-dragon/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP025: The Great Old Pumpkin</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=87</link>
+      <comments>http://www.escapepod.org/2005/10/27/ep025-the-great-old-pumpkin/#comments</comments>
+      <pubDate>Thu, 27 Oct 2005 06:16:18 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated PG</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/10/27/ep025-the-great-old-pumpkin/</guid>
+      <description><![CDATA[By John Aegard.
+Read by Stephen Eley.  Music by Toby Chappell.
+
+As you are no doubt aware, I am the issue of solid Dutch stock—the prosperous Van Pelt family of St. Paul. Mine was a comfortable and happy childhood, and I spent much of it in the devoted service of the Great Old Pumpkin. For him, [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.johnzo.com/">By John Aegard</a>.</b><br />
+Read by Stephen Eley.  Music by <a href="http://eyesofligeia.cjb.net/">Toby Chappell</a>.</p>
+
+<p><i>As you are no doubt aware, I am the issue of solid Dutch stock—the prosperous Van Pelt family of St. Paul. Mine was a comfortable and happy childhood, and I spent much of it in the devoted service of the Great Old Pumpkin. For him, I cultivated an annual pumpkin patch. I also evangelized him in the community, relating the tale of how, every year on Hallowmas Eve, the day when the spiritual most strongly encroaches on the substantial, this mightiest of gourds would rise to revel across the world with the most sincere of his adorers. My neighbors were understandably skeptical; after all, not once had this superbeing ever chosen to grace my pumpkin patch or any other place in our town. I vowed that I would coax him into my backyard, and I set out in the manner of a learned man to discover how I might do this.</i></p>
+
+<p><b>Rated PG</b>.  Contains dark imagery and terrifying fruit.</p>
+
+<p><a rel="enclosure" href="http://escapepod.podlot.net/EP025_GreatOldPumpkin.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://eyesofligeia.cjb.net">Eyes of Ligeia</a><br />
+<a href="http://amphigory.cjb.net">Amphigory</a><br />
+<a href="http://www.k9cast.com">K9Cast</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/10/27/ep025-the-great-old-pumpkin/feed/</wfw:commentRSS>
+      <enclosure url="http://escapepod.podlot.net/EP025_GreatOldPumpkin.mp3" length="18339568" type="audio/mpeg"/>
+      <itunes:duration>00:25:25</itunes:duration>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By John Aegard.
+Read by Stephen Eley.  Music by Toby Chappell.
+
+As you are no doubt aware, I am the issue of solid Dutch stock—the prosperous ...</itunes:subtitle>
+      <itunes:summary>By John Aegard.
+Read by Stephen Eley.  Music by Toby Chappell.
+
+As you are no doubt aware, I am the issue of solid Dutch stock—the prosperous Van Pelt family of St. Paul. Mine was a comfortable and happy childhood, and I spent much of it in the devoted service of the Great Old Pumpkin. For him, I cultivated an annual pumpkin patch. I also evangelized him in the community, relating the tale of how, every year on Hallowmas Eve, the day when the spiritual most strongly encroaches on the substantial, this mightiest of gourds would rise to revel across the world with the most sincere of his adorers. My neighbors were understandably skeptical; after all, not once had this superbeing ever chosen to grace my pumpkin patch or any other place in our town. I vowed that I would coax him into my backyard, and I set out in the manner of a learned man to discover how I might do this.
+
+Rated PG.  Contains dark imagery and terrifying fruit.
+
+Download this week’s Escape Pod.
+
+Referenced sites:
+Eyes of Ligeia
+Amphigory
+K9Cast</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+      <media:content url="http://escapepod.podlot.net/EP025_GreatOldPumpkin.mp3" fileSize="18339568" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/10/27/ep025-the-great-old-pumpkin/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP024: The Death Trap of Dr. Nefario</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=88</link>
+      <comments>http://www.escapepod.org/2005/10/20/ep024-the-death-trap-of-dr-nefario/#comments</comments>
+      <pubDate>Thu, 20 Oct 2005 08:40:43 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated PG</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/10/20/ep024-the-death-trap-of-dr-nefario/</guid>
+      <description><![CDATA[By Benjamin Rosenbaum.
+Read by Chris Miller (of Unquiet Desperation) with Stephen Eley.
+
+&#8220;Well, you know, Doc, safe is a relative thing in my profession, but I
+have you on the headset, and I&#8217;m picking the lock on these handcuffs
+as we&#8217;re talking. I think I&#8217;ll be fine, the piranhas are still 5 or 6
+feet below me.&#8221;
+
+&#8220;All right, but [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.benjaminrosenbaum.com/">By Benjamin Rosenbaum</a>.</b><br />
+Read by Chris Miller (of <a href="http://unquietdesperation.com/">Unquiet Desperation</a>) with Stephen Eley.</p>
+
+<p><i>&#8220;Well, you know, Doc, safe is a relative thing in my profession, but I
+have you on the headset, and I&#8217;m picking the lock on these handcuffs
+as we&#8217;re talking. I think I&#8217;ll be fine, the piranhas are still 5 or 6
+feet below me.&#8221;</i></p>
+
+<p><i>&#8220;All right, but isn&#8217;t our conversation going to distract you?&#8221; I
+asked. &#8220;I know you&#8217;re upset, but wouldn&#8217;t you rather call back at
+another time?&#8221;</i></p>
+
+<p><i>&#8220;I&#8217;d really like to talk about it, Doc. I always find talking to you
+clears my mind and makes me more effective. I may need to go if the
+henchmen come back, though.&#8221;</i></p>
+
+<p><b>Rated PG</b>.  Contains childhood trauma and mild gratuitous villainy.</p>
+
+<p><a rel="enclosure" href="http://www.escapepod.info/media/EP024_DrNefario.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.deadwhiteguys.com">Dead White Guys</a><br />
+<a href="http://thesciphishow.blogspot.com/">The Sci Phi Show</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/10/20/ep024-the-death-trap-of-dr-nefario/feed/</wfw:commentRSS>
+      <enclosure url="http://www.escapepod.info/media/EP024_DrNefario.mp3" length="15249076" type="audio/mpeg"/>
+      <itunes:duration>00:23:08</itunes:duration>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Benjamin Rosenbaum.
+Read by Chris Miller (of Unquiet Desperation) with Stephen Eley.
+
+“Well, you know, Doc, safe is a relative thing in my profession, but I
+have ...</itunes:subtitle>
+      <itunes:summary>By Benjamin Rosenbaum.
+Read by Chris Miller (of Unquiet Desperation) with Stephen Eley.
+
+“Well, you know, Doc, safe is a relative thing in my profession, but I
+have you on the headset, and I’m picking the lock on these handcuffs
+as we’re talking. I think I’ll be fine, the piranhas are still 5 or 6
+feet below me.”
+
+“All right, but isn’t our conversation going to distract you?” I
+asked. “I know you’re upset, but wouldn’t you rather call back at
+another time?”
+
+“I’d really like to talk about it, Doc. I always find talking to you
+clears my mind and makes me more effective. I may need to go if the
+henchmen come back, though.”
+
+Rated PG.  Contains childhood trauma and mild gratuitous villainy.
+
+Download this week’s Escape Pod.
+
+Referenced sites:
+Dead White Guys
+The Sci Phi Show</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+      <media:content url="http://www.escapepod.info/media/EP024_DrNefario.mp3" fileSize="15249076" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/10/20/ep024-the-death-trap-of-dr-nefario/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP Flash: Wetting the Bed</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=89</link>
+      <comments>http://www.escapepod.org/2005/10/17/ep-flash-wetting-the-bed/#comments</comments>
+      <pubDate>Tue, 18 Oct 2005 03:30:38 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated G</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/10/17/ep-flash-wetting-the-bed/</guid>
+      <description><![CDATA[By Heather Shaw.
+Read by Anna Eley.
+
+When the floods came, all us kids climbed into bed and pulled the covers up over our heads while our parents rushed about trying to do something to stop it.  As the water level rose we could feel the beds lift off the floor, floating through our houses, bumping [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://journalscape.com/heather/">By Heather Shaw.</a></b><br />
+Read by Anna Eley.</p>
+
+<p><i>When the floods came, all us kids climbed into bed and pulled the covers up over our heads while our parents rushed about trying to do something to stop it.  As the water level rose we could feel the beds lift off the floor, floating through our houses, bumping down our hallways and out our front doors.</i></p>
+
+<p><i>We sat up in bed waved to one another as our beds merged onto the canal that now flowed between our houses.  We shrieked and giggled as our beds spun and bumped along with the swirling water.  Waves lapped at our boxsprings, but our covers were still warm and dry.</i></p>
+
+<p><b>Rated G.</b>  It&#8217;s apocalyptic fantasy &#8212; for kids!</p>
+
+<p><a rel="enclosure" href="http://www.escapepod.info/media/EPFlash012_WettingTheBed.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Flash.</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/10/17/ep-flash-wetting-the-bed/feed/</wfw:commentRSS>
+      <enclosure url="http://media21a.libsyn.com/podcasts/escapepod/EPFlash012_WettingTheBed.mp3" length="4492683" type="audio/mpeg"/>
+      <enclosure url="http://www.escapepod.info/media/EPFlash012_WettingTheBed.mp3" length="4492683" type="audio/mpeg"/>
+      <itunes:duration/>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Heather Shaw.
+Read by Anna Eley.
+
+When the floods came, all us kids climbed into bed and pulled the covers up over our heads while our ...</itunes:subtitle>
+      <itunes:summary>By Heather Shaw.
+Read by Anna Eley.
+
+When the floods came, all us kids climbed into bed and pulled the covers up over our heads while our parents rushed about trying to do something to stop it.  As the water level rose we could feel the beds lift off the floor, floating through our houses, bumping down our hallways and out our front doors.
+
+We sat up in bed waved to one another as our beds merged onto the canal that now flowed between our houses.  We shrieked and giggled as our beds spun and bumped along with the swirling water.  Waves lapped at our boxsprings, but our covers were still warm and dry.
+
+Rated G.  It’s apocalyptic fantasy — for kids!
+
+Download the Escape Pod Flash.</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated G</itunes:keywords>
+      <media:content url="http://media21a.libsyn.com/podcasts/escapepod/EPFlash012_WettingTheBed.mp3" fileSize="4492683" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/10/17/ep-flash-wetting-the-bed/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Recognition</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=90</link>
+      <comments>http://www.escapepod.org/2005/10/13/recognition/#comments</comments>
+      <pubDate>Thu, 13 Oct 2005 05:26:25 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Site News</category>
+      <category>Shoutouts</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/10/13/recognition/</guid>
+      <description><![CDATA[It&#8217;s been a busy week for Escape Pod.  I&#8217;ve got a few shoutouts accumulated over the past few days, so let&#8217;s get to them all:
+
+
+The new Yahoo! Podcasts directory launched on Monday.  What&#8217;s more, they&#8217;ve chosen to feature Escape Pod as one of their &#8220;New &#038; Noteworthy&#8221; podcasts for their debut week!  [...]]]></description>
+      <content:encoded><![CDATA[<p>It&#8217;s been a busy week for Escape Pod.  I&#8217;ve got a few shoutouts accumulated over the past few days, so let&#8217;s get to them all:</p>
+
+<ol>
+<li>The new <a href="http://podcasts.yahoo.com">Yahoo! Podcasts</a> directory launched on Monday.  What&#8217;s more, they&#8217;ve chosen to feature Escape Pod as one of their &#8220;New &#038; Noteworthy&#8221; podcasts for their debut week!  This is the first time we&#8217;ve had prominent front-page status on any major podcast portal, and we&#8217;re just tickled about it.  If it suits you, feel free to visit <a href="http://podcasts.yahoo.com/series?s=7ba2408f95e9e6e8c6a29c763c044603">our page</a> there and rate us or leave us a review.  And to everyone who just found us via Yahoo!, welcome.</li>
+<li>I had the pleasure of speaking with Mur Lafferty for her <a href="http://shouldwrite.blogspot.com/2005/10/show-8-late-and-long.html">I Should Be Writing</a> podcast, a resource specifically for beginning writers.  We had a good conversation, talking about Escape Pod, the <a href="http://www.sff.net/paradise">Viable Paradise</a> workshop, and perspectives on writing and persistence.  If you&#8217;re writing and still working to get published, you really should be listening to Mur&#8217;s show.  Check it out!</li>
+<li>Fan art!  FNH sent us this fun little piece from the <i>inside</i> of our logo:<br />
+<img src='/media/thumb-EP_FanArt2.jpg' alt='Escape Pod Fan Art' /><br />
+That&#8217;s far too cool for me not to share it with you.</li>
+
+And of course it&#8217;s Thursday, so we have a new podcast.  You&#8217;ll find that right underneath these words.</ol>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/10/13/recognition/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>It’s been a busy week for Escape Pod.  I’ve got a few shoutouts accumulated over the past few days, so let’s get to them ...</itunes:subtitle>
+      <itunes:summary>It’s been a busy week for Escape Pod.  I’ve got a few shoutouts accumulated over the past few days, so let’s get to them all:
+
+
+The new Yahoo! Podcasts directory launched on Monday.  What’s more, they’ve chosen to feature Escape Pod as one of their “New &amp; Noteworthy” podcasts for their debut week!  This is the first time we’ve had prominent front-page status on any major podcast portal, and we’re just tickled about it.  If it suits you, feel free to visit our page there and rate us or leave us a review.  And to everyone who just found us via Yahoo!, welcome.
+I had the pleasure of speaking with Mur Lafferty for her I Should Be Writing podcast, a resource specifically for beginning writers.  We had a good conversation, talking about Escape Pod, the Viable Paradise workshop, and perspectives on writing and persistence.  If you’re writing and still working to get published, you really should be listening to Mur’s show.  Check it out!
+Fan art!  FNH sent us this fun little piece from the inside of our logo:
+
+That’s far too cool for me not to share it with you.
+
+And of course it’s Thursday, so we have a new podcast.  You’ll find that right underneath these words.</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Site News Shoutouts</itunes:keywords>
+      <feedburner:origLink>http://www.escapepod.org/2005/10/13/recognition/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP023: The Dream Factory</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=91</link>
+      <comments>http://www.escapepod.org/2005/10/13/ep023-the-dream-factory/#comments</comments>
+      <pubDate>Thu, 13 Oct 2005 05:00:29 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated R</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/10/13/ep023-the-dream-factory/</guid>
+      <description><![CDATA[By Jenn Reese.
+Read by Scott Fletcher (of Podcheck Review).
+
+You need some younger Ast-tlakians for a new fantasy feature the company is doing. It&#8217;s Lord of the Rings meets Kindergarten Cop. Vin Diesel to star, Woo to direct. So you need a bunch of realistic fantasy creatures, and Stan Winston figured out long ago that it [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.memoryandreason.com/">By Jenn Reese</a>.</b><br />
+Read by Scott Fletcher (of <a href="http://www.podcheck.com">Podcheck Review</a>).</p>
+
+<p><i>You need some younger Ast-tlakians for a new fantasy feature the company is doing. It&#8217;s Lord of the Rings meets Kindergarten Cop. Vin Diesel to star, Woo to direct. So you need a bunch of realistic fantasy creatures, and Stan Winston figured out long ago that it was easier to hire off-world than build all these bizarre creatures from scratch. It&#8217;s a big industry secret, and you need to keep it that way. You have a tendency to brag and name-drop when you&#8217;re drunk, so you&#8217;re only mostly sure that you haven&#8217;t told anyone.</i></p>
+
+<p><b>Rated R</b>.  Contains sexual situations and a sleazy industry.</p>
+
+<p><a rel="enclosure" href="http://libsyn.com/media/escapepod/EP023_DreamFactory.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://bearsgrove.blogspot.com">The Bear&#8217;s Grove</a><br />
+<a href="http://www.podcheck.com">Podcheck Review</a><br />
+<a href="http://www.thither.biz">Thither.biz</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/10/13/ep023-the-dream-factory/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Jenn Reese.
+Read by Scott Fletcher (of Podcheck Review).
+
+You need some younger Ast-tlakians for a new fantasy feature the company is doing. It’s Lord of ...</itunes:subtitle>
+      <itunes:summary>By Jenn Reese.
+Read by Scott Fletcher (of Podcheck Review).
+
+You need some younger Ast-tlakians for a new fantasy feature the company is doing. It’s Lord of the Rings meets Kindergarten Cop. Vin Diesel to star, Woo to direct. So you need a bunch of realistic fantasy creatures, and Stan Winston figured out long ago that it was easier to hire off-world than build all these bizarre creatures from scratch. It’s a big industry secret, and you need to keep it that way. You have a tendency to brag and name-drop when you’re drunk, so you’re only mostly sure that you haven’t told anyone.
+
+Rated R.  Contains sexual situations and a sleazy industry.
+
+Download this week’s Escape Pod.
+
+Referenced sites:
+The Bear’s Grove
+Podcheck Review
+Thither.biz</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated R</itunes:keywords>
+      <feedburner:origLink>http://www.escapepod.org/2005/10/13/ep023-the-dream-factory/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP022: Don Ysidro</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=92</link>
+      <comments>http://www.escapepod.org/2005/10/06/ep022-don-ysidro/#comments</comments>
+      <pubDate>Thu, 06 Oct 2005 06:14:55 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated PG</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/10/06/ep022-don-ysidro/</guid>
+      <description><![CDATA[By Bruce Holland Rogers.
+Read by Evo Terra (of The Dragon Page).
+
+On that last morning, anyone who came to visit me could see that I was dying.  I knew it myself.  As if I had cotton in my ears, I heard the voice of don Leandro saying to my wife, &#8220;Dona Susana, I think [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.sff.net/people/bruce/">By Bruce Holland Rogers</a>.</b><br />
+Read by Evo Terra (of <a href="http://www.dragonpage.com">The Dragon Page</a>).</p>
+
+<p><i>On that last morning, anyone who came to visit me could see that I was dying.  I knew it myself.  As if I had cotton in my ears, I heard the voice of don Leandro saying to my wife, &#8220;Dona Susana, I think it is time to fetch the priest,&#8221; and I thought, yes, it&#8217;s time.</i></p>
+
+<p><i>We don&#8217;t have our own priest, or even our own church, so someone has to drive in a pickup truck to get the priest from El Puentecito.  But don&#8217;t be fooled by what you may hear in Malpasa or in Palpan de Baranda.  Here we remain Catholic.  Yes, we make pots in the old way.  That&#8217;s why tourists come here.  And it&#8217;s true, as is sometimes whispered, that we have restored certain other practices from the past.  But not as they were done back then.  Those were bloody and terrible times, the times of the Mejica.  They say that the sacrificial blood covered the sun pyramids from top to bottom.  Thank the Virgin, we don&#8217;t do anything like that.</i></p>
+
+<p><b>Rated PG</b>.  Contains death rituals with possible disturbing imagery, and numerous pot references.  (No, not that kind.)</p>
+
+<p><a rel="enclosure" href="http://www.escapepod.info/media/EP022_DonYsidro.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://shortshortshort.com">Short-Short Stories</a><br />
+<a href="http://www.podiobooks.com">Podiobooks</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/10/06/ep022-don-ysidro/feed/</wfw:commentRSS>
+      <enclosure url="http://www.escapepod.info/media/EP022_DonYsidro.mp3" length="11602791" type="audio/mpeg"/>
+      <itunes:duration>00:16:00</itunes:duration>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Bruce Holland Rogers.
+Read by Evo Terra (of The Dragon Page).
+
+On that last morning, anyone who came to visit me could see that I was ...</itunes:subtitle>
+      <itunes:summary>By Bruce Holland Rogers.
+Read by Evo Terra (of The Dragon Page).
+
+On that last morning, anyone who came to visit me could see that I was dying.  I knew it myself.  As if I had cotton in my ears, I heard the voice of don Leandro saying to my wife, “Dona Susana, I think it is time to fetch the priest,” and I thought, yes, it’s time.
+
+We don’t have our own priest, or even our own church, so someone has to drive in a pickup truck to get the priest from El Puentecito.  But don’t be fooled by what you may hear in Malpasa or in Palpan de Baranda.  Here we remain Catholic.  Yes, we make pots in the old way.  That’s why tourists come here.  And it’s true, as is sometimes whispered, that we have restored certain other practices from the past.  But not as they were done back then.  Those were bloody and terrible times, the times of the Mejica.  They say that the sacrificial blood covered the sun pyramids from top to bottom.  Thank the Virgin, we don’t do anything like that.
+
+Rated PG.  Contains death rituals with possible disturbing imagery, and numerous pot references.  (No, not that kind.)
+
+Download this week’s Escape Pod.
+
+Referenced sites:
+Short-Short Stories
+Podiobooks</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+      <media:content url="http://www.escapepod.info/media/EP022_DonYsidro.mp3" fileSize="11602791" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/10/06/ep022-don-ysidro/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP Flash: Troy Trooper</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=93</link>
+      <comments>http://www.escapepod.org/2005/10/05/ep-flash-troy-trooper/#comments</comments>
+      <pubDate>Wed, 05 Oct 2005 04:12:19 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated G</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/10/05/ep-flash-troy-trooper/</guid>
+      <description><![CDATA[By Alex Holden.
+Read by Stephen Eley.
+
+&#8220;Piece of crap!&#8221; The boy kicked the toy soldier hard and it flew across the
+room.
+
+&#8220;Ow,&#8221; said Troy, as he warily checked himself for damage, &#8220;what was that
+for?&#8221;
+
+Download the Escape Pod Flash.]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.alexholden.net">By Alex Holden.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><i>&#8220;Piece of crap!&#8221; The boy kicked the toy soldier hard and it flew across the
+room.</i></p>
+
+<p><i>&#8220;Ow,&#8221; said Troy, as he warily checked himself for damage, &#8220;what was that
+for?&#8221;</i></p>
+
+<p><a rel="enclosure" href="http://www.escapepod.info/media/EPFlash011_TroyTrooper.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Flash.</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/10/05/ep-flash-troy-trooper/feed/</wfw:commentRSS>
+      <enclosure url="http://www.escapepod.info/media/EPFlash011_TroyTrooper.mp3" length="4625897" type="audio/mpeg"/>
+      <itunes:duration>00:06:23</itunes:duration>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Alex Holden.
+Read by Stephen Eley.
+
+“Piece of crap!” The boy kicked the toy soldier hard and it flew across the
+room.
+
+“Ow,” said Troy, as he warily ...</itunes:subtitle>
+      <itunes:summary>By Alex Holden.
+Read by Stephen Eley.
+
+“Piece of crap!” The boy kicked the toy soldier hard and it flew across the
+room.
+
+“Ow,” said Troy, as he warily checked himself for damage, “what was that
+for?”
+
+Download the Escape Pod Flash.</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated G</itunes:keywords>
+      <media:content url="http://www.escapepod.info/media/EPFlash011_TroyTrooper.mp3" fileSize="4625897" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/10/05/ep-flash-troy-trooper/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP021: Platypus Girl</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=94</link>
+      <comments>http://www.escapepod.org/2005/09/29/ep021-platypus-girl/#comments</comments>
+      <pubDate>Thu, 29 Sep 2005 06:56:03 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated R</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/29/ep021-platypus-girl/</guid>
+      <description><![CDATA[By Jonathon Sullivan.
+Read by Stephen Eley.
+
+Rufus didn’t relent. “How come you ain’t got a license, skillet face?”
+
+Shari struggled to keep her own distaste under control. Emotion could screw up the reading, her own pheromones and toxins clogging up the massive olfactory bulb and entorhinal cortex that occupied most of her cranium. She took a deep [...]]]></description>
+      <content:encoded><![CDATA[<p><b>By Jonathon Sullivan.</b><br />
+Read by Stephen Eley.</p>
+
+<p><i>Rufus didn’t relent. “How come you ain’t got a license, skillet face?”</i></p>
+
+<p><i>Shari struggled to keep her own distaste under control. Emotion could screw up the reading, her own pheromones and toxins clogging up the massive olfactory bulb and entorhinal cortex that occupied most of her cranium. She took a deep breath, pulling air through her huge nostrils, trying to calm herself. At least she didn’t have to see the man’s face.</i></p>
+
+<p><b>Rated R</b>.  Contains violence, profanity, and crimes against chemistry.</p>
+
+<p><a rel="enclosure" href="http://www.escapepod.info/media/EP021_PlatypusGirl.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.sonypictures.com/movies/mirrormask/">Mirrormask</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/29/ep021-platypus-girl/feed/</wfw:commentRSS>
+      <enclosure url="http://www.escapepod.info/media/EP021_PlatypusGirl.mp3" length="26134419" type="audio/mpeg"/>
+      <itunes:duration>00:36:15</itunes:duration>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Jonathon Sullivan.
+Read by Stephen Eley.
+
+Rufus didn’t relent. “How come you ain’t got a license, skillet face?”
+
+Shari struggled to keep her own distaste under control. ...</itunes:subtitle>
+      <itunes:summary>By Jonathon Sullivan.
+Read by Stephen Eley.
+
+Rufus didn’t relent. “How come you ain’t got a license, skillet face?”
+
+Shari struggled to keep her own distaste under control. Emotion could screw up the reading, her own pheromones and toxins clogging up the massive olfactory bulb and entorhinal cortex that occupied most of her cranium. She took a deep breath, pulling air through her huge nostrils, trying to calm herself. At least she didn’t have to see the man’s face.
+
+Rated R.  Contains violence, profanity, and crimes against chemistry.
+
+Download this week’s Escape Pod.
+
+Referenced sites:
+Mirrormask</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated R</itunes:keywords>
+      <media:content url="http://www.escapepod.info/media/EP021_PlatypusGirl.mp3" fileSize="26134419" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/29/ep021-platypus-girl/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Mirrormask Giveaway!</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=95</link>
+      <comments>http://www.escapepod.org/2005/09/27/mirrormask-giveaway/#comments</comments>
+      <pubDate>Tue, 27 Sep 2005 06:50:43 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Site News</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/27/mirrormask-giveaway/</guid>
+      <description><![CDATA[As I just mentioned in the Metacast, we&#8217;ve got the opportunity to give away some collectibles related to the Neil Gaiman movie Mirrormask, opening in limited release on September 30.  Not exactly sure yet what the stuff&#8217;s going to be, but I was told &#8220;Several large posters, a couple sets of action figures.&#8221;  [...]]]></description>
+      <content:encoded><![CDATA[<p>As I just mentioned in the <a href="http://www.escapepod.info/2005/09/27/ep-metacast-1/">Metacast</a>, we&#8217;ve got the opportunity to give away some collectibles related to the Neil Gaiman movie <a href="http://www.sonypictures.com/movies/mirrormask/">Mirrormask</a>, opening in limited release on September 30.  Not exactly sure yet what the stuff&#8217;s going to be, but I was told &#8220;Several large posters, a couple sets of action figures.&#8221;  Works for me.</p>
+
+<p>So what can you do to win this stuff?  Just <a href="mailto:editor@extraneous.org">drop me a line</a> or <a href="http://www.escapepod.info/forum/viewforum.php?f=10">post in our forum</a> with your personal answers to the following questions:</p>
+
+<ol>
+<li>What was your favorite story on Escape Pod so far?</li>
+<li>How did you first hear about Escape Pod?</li>
+<li>Is there anything you&#8217;d like to see more of or less of?  Any new features you&#8217;d like us to offer?  Anything we should do differently?</li>
+</ol>
+
+<p>Be honest.  Be creative.  After a couple of weeks (let&#8217;s say Sunday, October 9) I&#8217;ll randomly pick some of the people who responded and contact them for their addresses.  Not sure how much stuff we have to give away yet, so I can&#8217;t tell you how many winners there will be.  But you&#8217;ll be helping us make Escape Pod better, so it&#8217;s worth it regardless.  Right?</p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/27/mirrormask-giveaway/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>As I just mentioned in the Metacast, we’ve got the opportunity to give away some collectibles related to the Neil Gaiman movie Mirrormask, opening in ...</itunes:subtitle>
+      <itunes:summary>As I just mentioned in the Metacast, we’ve got the opportunity to give away some collectibles related to the Neil Gaiman movie Mirrormask, opening in limited release on September 30.  Not exactly sure yet what the stuff’s going to be, but I was told “Several large posters, a couple sets of action figures.”  Works for me.
+
+So what can you do to win this stuff?  Just drop me a line or post in our forum with your personal answers to the following questions:
+
+
+What was your favorite story on Escape Pod so far?
+How did you first hear about Escape Pod?
+Is there anything you’d like to see more of or less of?  Any new features you’d like us to offer?  Anything we should do differently?
+
+
+Be honest.  Be creative.  After a couple of weeks (let’s say Sunday, October 9) I’ll randomly pick some of the people who responded and contact them for their addresses.  Not sure how much stuff we have to give away yet, so I can’t tell you how many winners there will be.  But you’ll be helping us make Escape Pod better, so it’s worth it regardless.  Right?</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Site News</itunes:keywords>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/27/mirrormask-giveaway/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP Metacast #1</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=96</link>
+      <comments>http://www.escapepod.org/2005/09/27/ep-metacast-1/#comments</comments>
+      <pubDate>Tue, 27 Sep 2005 06:31:30 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Site News</category>
+      <category>Podcasts</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/27/ep-metacast-1/</guid>
+      <description><![CDATA[A &#8220;state of the podcast&#8221; address, in which we talk at some length about subscription counts, finances, our plans to become a 501(c)(3) non-profit corporation, and what to expect from Escape Pod in the near future.  If this sort of thing bores you, you can skip it with absolutely no harm to your health, [...]]]></description>
+      <content:encoded><![CDATA[<p>A &#8220;state of the podcast&#8221; address, in which we talk at some length about subscription counts, finances, our plans to become a 501(c)(3) non-profit corporation, and what to expect from Escape Pod in the near future.  If this sort of thing bores you, you can skip it with absolutely no harm to your health, the environment, or our self-esteem.  But if you want to know the intimate details of our podcast, then here you go.</p>
+
+<p><a rel="enclosure" href="http://www.escapepod.info/media/EP_Metacast001.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/27/ep-metacast-1/feed/</wfw:commentRSS>
+      <enclosure url="http://www.escapepod.info/media/EP_Metacast001.mp3" length="11715297" type="audio/mpeg"/>
+      <itunes:duration>00:16:13</itunes:duration>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>A “state of the podcast” address, in which we talk at some length about subscription counts, finances, our plans to become a 501(c)(3) non-profit corporation, ...</itunes:subtitle>
+      <itunes:summary>A “state of the podcast” address, in which we talk at some length about subscription counts, finances, our plans to become a 501(c)(3) non-profit corporation, and what to expect from Escape Pod in the near future.  If this sort of thing bores you, you can skip it with absolutely no harm to your health, the environment, or our self-esteem.  But if you want to know the intimate details of our podcast, then here you go.
+
+Download this week’s Escape Pod.</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Site News Podcasts</itunes:keywords>
+      <media:content url="http://www.escapepod.info/media/EP_Metacast001.mp3" fileSize="11715297" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/27/ep-metacast-1/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Forums!</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=97</link>
+      <comments>http://www.escapepod.org/2005/09/26/forums/#comments</comments>
+      <pubDate>Mon, 26 Sep 2005 04:31:20 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Site News</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/26/forums/</guid>
+      <description><![CDATA[After far too long, Escape Pod finally has discussion forums again.  We&#8217;re hosting them ourselves this time, so that we can be flexible and offer you a wider range of discussion.  It takes about thirty seconds to register, and then you&#8217;re free to talk about our stories, science fiction in general, or whatever [...]]]></description>
+      <content:encoded><![CDATA[<p>After far too long, Escape Pod finally has <a href="/forum">discussion forums</a> again.  We&#8217;re hosting them ourselves this time, so that we can be flexible and offer you a wider range of discussion.  It takes about thirty seconds to register, and then you&#8217;re free to talk about our stories, science fiction in general, or whatever you wish.</p>
+
+<p>There&#8217;s some other exciting work going on for Escape Pod as well.  Watch for a podcast about it in the next day or few.</p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/26/forums/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>After far too long, Escape Pod finally has discussion forums again.  We’re hosting them ourselves this time, so that we can be flexible and ...</itunes:subtitle>
+      <itunes:summary>After far too long, Escape Pod finally has discussion forums again.  We’re hosting them ourselves this time, so that we can be flexible and offer you a wider range of discussion.  It takes about thirty seconds to register, and then you’re free to talk about our stories, science fiction in general, or whatever you wish.
+
+There’s some other exciting work going on for Escape Pod as well.  Watch for a podcast about it in the next day or few.</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Site News</itunes:keywords>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/26/forums/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP020: The Burning Bush</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=98</link>
+      <comments>http://www.escapepod.org/2005/09/22/ep020-the-burning-bush/#comments</comments>
+      <pubDate>Thu, 22 Sep 2005 06:43:19 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated X</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/22/ep020-the-burning-bush/</guid>
+      <description><![CDATA[By Jennifer Pelland.
+Read by Deborah Green.
+
+I did the sensible thing.  I screamed and ran to the bathroom, where I started tossing cups of water on my crotch in the hopes of extinguishing the flames.  My boyfriend ran in behind me, started the shower up, and tossed me into the freezing water.  But [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.jenniferpelland.com">By Jennifer Pelland.</a></b><br />
+Read by Deborah Green.</p>
+
+<p><i>I did the sensible thing.  I screamed and ran to the bathroom, where I started tossing cups of water on my crotch in the hopes of extinguishing the flames.  My boyfriend ran in behind me, started the shower up, and tossed me into the freezing water.  But the fire continued to rage, despite the dousing.</i></p>
+
+<p><i>At that point, I realized that I wasn&#8217;t actually in any pain.  I stepped out of the stream of water, teeth still chattering, and held my hand in the blue flames.  &#8220;This should hurt,&#8221; I said.</i></p>
+
+<p><b>Rated X</b>.  For blasphemy and anatomy.  Really.</p>
+
+<p><a rel="enclosure" href="http://www.libsyn.com/media/escapepod/EP020_BurningBush.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://shouldwrite.blogspot.com">I Should Be Writing</a><br />
+<a href="http://www.lokoen.org">Dag Viggo Lokøen</a><br /></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/22/ep020-the-burning-bush/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Jennifer Pelland.
+Read by Deborah Green.
+
+I did the sensible thing.  I screamed and ran to the bathroom, where I started tossing cups of water ...</itunes:subtitle>
+      <itunes:summary>By Jennifer Pelland.
+Read by Deborah Green.
+
+I did the sensible thing.  I screamed and ran to the bathroom, where I started tossing cups of water on my crotch in the hopes of extinguishing the flames.  My boyfriend ran in behind me, started the shower up, and tossed me into the freezing water.  But the fire continued to rage, despite the dousing.
+
+At that point, I realized that I wasn’t actually in any pain.  I stepped out of the stream of water, teeth still chattering, and held my hand in the blue flames.  “This should hurt,” I said.
+
+Rated X.  For blasphemy and anatomy.  Really.
+
+Download this week’s Escape Pod.
+
+Referenced sites:
+I Should Be Writing
+Dag Viggo Lokøen</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated X</itunes:keywords>
+      <enclosure url="http://www.libsyn.com/media/escapepod/EP020_BurningBush.mp3" length="19282792" type="audio/mpeg"/>
+      <media:content url="http://www.libsyn.com/media/escapepod/EP020_BurningBush.mp3" fileSize="19282792" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/22/ep020-the-burning-bush/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP019: Implications</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=99</link>
+      <comments>http://www.escapepod.org/2005/09/15/ep019-implications/#comments</comments>
+      <pubDate>Thu, 15 Sep 2005 05:52:07 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated G</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/15/ep019-implications/</guid>
+      <description><![CDATA[By James C. Bassett.
+Read by Stephen Eley.
+
+&#8220;Yes, obviously. But its judgement is rather lacking, wouldn&#8217;t you
+say? Trying to translocate itself to the Ancestors&#8217; Earth on a whim?
+For that matter, Instructor, I might also question your own judgement.
+Imagine, teaching macrolevel effects as an introduction to subquantum
+nonlocality!&#8221;
+
+Arcaprun jumped up and ran to its Instructor&#8217;s defence. &#8220;Aw, Prundis,
+you [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.jamescbassett.com">By James C. Bassett.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><i>&#8220;Yes, obviously. But its judgement is rather lacking, wouldn&#8217;t you
+say? Trying to translocate itself to the Ancestors&#8217; Earth on a whim?
+For that matter, Instructor, I might also question your own judgement.
+Imagine, teaching macrolevel effects as an introduction to subquantum
+nonlocality!&#8221;</i></p>
+
+<p><i>Arcaprun jumped up and ran to its Instructor&#8217;s defence. &#8220;Aw, Prundis,
+you know it wasn&#8217;t Grap&#8217;s fault. It was just a little accident.&#8221;</i></p>
+
+<p><i>&#8220;<em>Just</em> an accident?&#8221; Prundis countered drily. &#8220;You neglected to
+factor in lightspeed lag when making observations to determine
+coordinates and lost yourself halfway across the universe! It took me
+three weeks to locate you! I was worried sick, Arc.&#8221;</i></p>
+
+<p><b>Rated G</b>.  Suitable for macrolevel quantum explicate children of all ages.</p>
+
+<p><a rel="enclosure" href="http://www.libsyn.com/media/escapepod/EP019_Implications.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+
+<p>Referenced podcasts:<br />
+<a href="http://www.skepticality.com">Skepticality</a><br />
+<a href="http://www.resonancefm.com/podcasting.htm">Hooting Yard</a><br />
+<a href="http://epistaxis.aa.stodge.org/">Epistaxis Time</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/15/ep019-implications/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By James C. Bassett.
+Read by Stephen Eley.
+
+“Yes, obviously. But its judgement is rather lacking, wouldn’t you
+say? Trying to translocate itself to the Ancestors’ Earth on ...</itunes:subtitle>
+      <itunes:summary>By James C. Bassett.
+Read by Stephen Eley.
+
+“Yes, obviously. But its judgement is rather lacking, wouldn’t you
+say? Trying to translocate itself to the Ancestors’ Earth on a whim?
+For that matter, Instructor, I might also question your own judgement.
+Imagine, teaching macrolevel effects as an introduction to subquantum
+nonlocality!”
+
+Arcaprun jumped up and ran to its Instructor’s defence. “Aw, Prundis,
+you know it wasn’t Grap’s fault. It was just a little accident.”
+
+“Just an accident?” Prundis countered drily. “You neglected to
+factor in lightspeed lag when making observations to determine
+coordinates and lost yourself halfway across the universe! It took me
+three weeks to locate you! I was worried sick, Arc.”
+
+Rated G.  Suitable for macrolevel quantum explicate children of all ages.
+
+Download this week’s Escape Pod.
+
+Referenced podcasts:
+Skepticality
+Hooting Yard
+Epistaxis Time</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated G</itunes:keywords>
+      <enclosure url="http://www.libsyn.com/media/escapepod/EP019_Implications.mp3" length="15382915" type="audio/mpeg"/>
+      <media:content url="http://www.libsyn.com/media/escapepod/EP019_Implications.mp3" fileSize="15382915" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/15/ep019-implications/</feedburner:origLink>
+    </item>
+    <item>
+      <title>The Writing Show Interview</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=100</link>
+      <comments>http://www.escapepod.org/2005/09/12/the-writing-show-interview/#comments</comments>
+      <pubDate>Tue, 13 Sep 2005 03:48:14 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Site News</category>
+      <category>Shoutouts</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/12/the-writing-show-interview/</guid>
+      <description><![CDATA[This seems to be our week for interviews&#8230;  There&#8217;s another interview with Steve up today at The Writing Show, an engaging podcast by Paula Berinstein featuring interviews with writers, editors, and other movers in the writing industry.
+
+You can find the link to the interview itself here, or you can read the transcript here.  [...]]]></description>
+      <content:encoded><![CDATA[<p>This seems to be our week for interviews&#8230;  There&#8217;s another interview with Steve up today at <a href="http://writingshow.com">The Writing Show</a>, an engaging podcast by Paula Berinstein featuring interviews with writers, editors, and other movers in the writing industry.</p>
+
+<p>You can find the link to the interview itself <a href="http://writingshow.com/?p=38">here</a>, or you can read the transcript <a href="http://writingshow.com/?page_id=37">here</a>.  </p>
+
+<p>They&#8217;ve got some other excellent interviews in their archives as well.  My personal favorite is the one with <a href="http://writingshow.com/?p=14">Jim Cox</a> of the <i>Midwest Book Review</i>.  Check them out!</p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/12/the-writing-show-interview/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>This seems to be our week for interviews…  There’s another interview with Steve up today at The Writing Show, an engaging podcast by Paula ...</itunes:subtitle>
+      <itunes:summary>This seems to be our week for interviews…  There’s another interview with Steve up today at The Writing Show, an engaging podcast by Paula Berinstein featuring interviews with writers, editors, and other movers in the writing industry.
+
+You can find the link to the interview itself here, or you can read the transcript here.  
+
+They’ve got some other excellent interviews in their archives as well.  My personal favorite is the one with Jim Cox of the Midwest Book Review.  Check them out!</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Site News Shoutouts</itunes:keywords>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/12/the-writing-show-interview/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP Flash: The God of the Goblins</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=101</link>
+      <comments>http://www.escapepod.org/2005/09/11/ep-flash-the-god-of-the-goblins/#comments</comments>
+      <pubDate>Mon, 12 Sep 2005 03:43:25 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated PG</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/11/ep-flash-the-god-of-the-goblins/</guid>
+      <description><![CDATA[By Eric Marin.
+Read by Stephen Eley.
+
+The campaign had begun well.  The Alarians swept south into goblin
+territory, and Alarian rifles quickly overmatched goblin bows and crossbows.
+
+In just a few weeks of fighting, the goblin population was halved.  The
+goblin chieftains realized that they were doomed without help and did the
+only thing they could.
+
+They asked their [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.erictmarin.com">By Eric Marin.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><i>The campaign had begun well.  The Alarians swept south into goblin
+territory, and Alarian rifles quickly overmatched goblin bows and crossbows.</i></p>
+
+<p><i>In just a few weeks of fighting, the goblin population was halved.  The
+goblin chieftains realized that they were doomed without help and did the
+only thing they could.</i></p>
+
+<p><i>They asked their god, Twenty Claw, for help.</i></p>
+
+<p><a rel="enclosure" href="http://libsyn.com/media/escapepod/EPFlash010_Goblins.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Flash.</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/11/ep-flash-the-god-of-the-goblins/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Eric Marin.
+Read by Stephen Eley.
+
+The campaign had begun well.  The Alarians swept south into goblin
+territory, and Alarian rifles quickly overmatched goblin bows and ...</itunes:subtitle>
+      <itunes:summary>By Eric Marin.
+Read by Stephen Eley.
+
+The campaign had begun well.  The Alarians swept south into goblin
+territory, and Alarian rifles quickly overmatched goblin bows and crossbows.
+
+In just a few weeks of fighting, the goblin population was halved.  The
+goblin chieftains realized that they were doomed without help and did the
+only thing they could.
+
+They asked their god, Twenty Claw, for help.
+
+Download the Escape Pod Flash.</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+      <enclosure url="http://libsyn.com/media/escapepod/EPFlash010_Goblins.mp3" length="4098012" type="audio/mpeg"/>
+      <media:content url="http://libsyn.com/media/escapepod/EPFlash010_Goblins.mp3" fileSize="4098012" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/11/ep-flash-the-god-of-the-goblins/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Podcast411 Interview</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=102</link>
+      <comments>http://www.escapepod.org/2005/09/08/podcast411-interview/#comments</comments>
+      <pubDate>Thu, 08 Sep 2005 15:14:52 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Site News</category>
+      <category>Shoutouts</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/08/podcast411-interview/</guid>
+      <description><![CDATA[This won&#8217;t be news for the many of you who listen to it, but Escape Pod was featured yesterday on Rob Walch&#8217;s excellent Podcast411 podcast.  That my interview with him sounded decent is a tribute to his masterful editing skills.  And if you&#8217;re not familiar with his podcast, I highly recommend you check [...]]]></description>
+      <content:encoded><![CDATA[<p>This won&#8217;t be news for the many of you who listen to it, but Escape Pod was featured yesterday on Rob Walch&#8217;s excellent <a href="http://www.podcast411.com">Podcast411</a> podcast.  That my interview with him sounded decent is a tribute to his masterful editing skills.  And if you&#8217;re not familiar with his podcast, I highly recommend you check it out &#8212; it&#8217;s most often described as &#8220;Inside the Actor&#8217;s Studio&#8221; for podcasts.  I&#8217;ve learned something from every guest he&#8217;s had on.</p>
+
+<p><a target="blank" href="http://www.podcast411.com/podcasts/411_050907.mp3" title="Click to listen to our interview on podCast411"><img src="http://www.podcast411.com/img/411_interviewed.gif" border="0" width="80" height="30" alt=" Click to listen to our interview on podCast411" /></a></p>
+
+<p>And if you&#8217;re just joining us from there, welcome!  Put your feet up, listen to some stories, and Have Fun.</p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/08/podcast411-interview/feed/</wfw:commentRSS>
+      <enclosure url="http://www.podcast411.com/podcasts/411_050907.mp3" length="11028593" type="audio/mpeg"/>
+      <itunes:duration/>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>This won’t be news for the many of you who listen to it, but Escape Pod was featured yesterday on Rob Walch’s excellent Podcast411 podcast. ...</itunes:subtitle>
+      <itunes:summary>This won’t be news for the many of you who listen to it, but Escape Pod was featured yesterday on Rob Walch’s excellent Podcast411 podcast.  That my interview with him sounded decent is a tribute to his masterful editing skills.  And if you’re not familiar with his podcast, I highly recommend you check it out — it’s most often described as “Inside the Actor’s Studio” for podcasts.  I’ve learned something from every guest he’s had on.
+
+
+
+And if you’re just joining us from there, welcome!  Put your feet up, listen to some stories, and Have Fun.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Site News Shoutouts</itunes:keywords>
+      <media:content url="http://www.podcast411.com/podcasts/411_050907.mp3" fileSize="11028593" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/08/podcast411-interview/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP018: Some Girlfriends Can</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=103</link>
+      <comments>http://www.escapepod.org/2005/09/08/ep018-some-girlfriends-can/#comments</comments>
+      <pubDate>Thu, 08 Sep 2005 06:08:02 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated PG</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/08/ep018-some-girlfriends-can/</guid>
+      <description><![CDATA[By Stephanie Burgis.
+Read by Swoopy (of Skepticality).
+
+&#8220;Too bad it&#8217;s raining. Hey, Lauren, make the rain
+stop, okay?&#8221; He reaches across the table and tousles
+my hair affectionately.
+
+I bare my teeth in the semblance of a grin. &#8220;Ha ha.
+Sorry, I can&#8217;t.&#8221;
+
+&#8220;I know.&#8221; He shakes his head, laughs ruefully. &#8220;It&#8217;s
+just . . . Maya could.&#8221;
+
+Rated PG.  Contains explicit [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://pages.britishlibrary.net/stephanie.burgis/">By Stephanie Burgis.</a></b><br />
+Read by Swoopy (of <a href="http://www.skepticality.com">Skepticality</a>).</p>
+
+<p><i>&#8220;Too bad it&#8217;s raining. Hey, Lauren, make the rain
+stop, okay?&#8221; He reaches across the table and tousles
+my hair affectionately.</i></p>
+
+<p><i>I bare my teeth in the semblance of a grin. &#8220;Ha ha.
+Sorry, I can&#8217;t.&#8221;</i></p>
+
+<p><i>&#8220;I know.&#8221; He shakes his head, laughs ruefully. &#8220;It&#8217;s
+just . . . Maya could.&#8221;</i></p>
+
+<p><b>Rated PG</b>.  Contains explicit cattiness and violent self-reflection.</p>
+
+<p><a rel="enclosure" href="http://www.libsyn.com/media/escapepod/EP018_SomeGirlfriends.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/08/ep018-some-girlfriends-can/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Stephanie Burgis.
+Read by Swoopy (of Skepticality).
+
+“Too bad it’s raining. Hey, Lauren, make the rain
+stop, okay?” He reaches across the table and tousles
+my hair affectionately.
+
+I ...</itunes:subtitle>
+      <itunes:summary>By Stephanie Burgis.
+Read by Swoopy (of Skepticality).
+
+“Too bad it’s raining. Hey, Lauren, make the rain
+stop, okay?” He reaches across the table and tousles
+my hair affectionately.
+
+I bare my teeth in the semblance of a grin. “Ha ha.
+Sorry, I can’t.”
+
+“I know.” He shakes his head, laughs ruefully. “It’s
+just . . . Maya could.”
+
+Rated PG.  Contains explicit cattiness and violent self-reflection.
+
+Download this week’s Escape Pod.</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+      <enclosure url="http://www.libsyn.com/media/escapepod/EP018_SomeGirlfriends.mp3" length="22403070" type="audio/mpeg"/>
+      <media:content url="http://www.libsyn.com/media/escapepod/EP018_SomeGirlfriends.mp3" fileSize="22403070" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/08/ep018-some-girlfriends-can/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP017: The Life and Times of Penguin</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=104</link>
+      <comments>http://www.escapepod.org/2005/09/01/ep017-the-life-and-times-of-penguin/#comments</comments>
+      <pubDate>Thu, 01 Sep 2005 06:25:12 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Podcasts</category>
+      <category>Rated PG</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/09/01/ep017-the-life-and-times-of-penguin/</guid>
+      <description><![CDATA[By Eugie Foster.
+Read by Mur Lafferty (of Geek Fu Action Grip).
+
+
+Penguin listened raptly to the new voice.  He knew this was his guardian
+angel, she who would guard and protect him forever.  Sure enough, the
+Creator set him gently into his angel&#8217;s hand.  Her hands, much smaller than
+the Creator&#8217;s&#8211;which was fitting since who among [...]]]></description>
+      <content:encoded><![CDATA[<p><b><a href="http://www.eugiefoster.com">By Eugie Foster.</a></b><br />
+Read by Mur Lafferty (of <a href="http://www.geekfuactiongrip.com">Geek Fu Action Grip</a>).</p>
+
+<p><i>
+Penguin listened raptly to the new voice.  He knew this was his guardian
+angel, she who would guard and protect him forever.  Sure enough, the
+Creator set him gently into his angel&#8217;s hand.  Her hands, much smaller than
+the Creator&#8217;s&#8211;which was fitting since who among the angels had such power
+as the Creator?&#8211;were a bit sticky.  He squealed as she held him aloft to
+receive the glorious light.</i></p>
+
+<p><i>&#8220;Look, Daddy!  It&#8217;s a peng&#8217;n!&#8221;</i></p>
+
+<p><i>&#8220;Yes it is, Angie.  It&#8217;s a very nice penguin.  Did you thank the nice man
+for the balloon?&#8221;</i></p>
+
+<p><b>Rated PG</b>.  Contains explicit existentialism and violence of the soul.  (The intro contains minor profanity and frank discussions of current events, and is likely to be more offensive than the story.)</p>
+
+<p><a rel="enclosure" href="http://www.escapepod.info/media/EP017_Penguin.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/09/01/ep017-the-life-and-times-of-penguin/feed/</wfw:commentRSS>
+      <enclosure url="http://www.escapepod.info/media/EP017_Penguin.mp3" length="20963298" type="audio/mpeg"/>
+      <itunes:duration/>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>By Eugie Foster.
+Read by Mur Lafferty (of Geek Fu Action Grip).
+
+
+Penguin listened raptly to the new voice.  He knew this was his guardian
+angel, she ...</itunes:subtitle>
+      <itunes:summary>By Eugie Foster.
+Read by Mur Lafferty (of Geek Fu Action Grip).
+
+
+Penguin listened raptly to the new voice.  He knew this was his guardian
+angel, she who would guard and protect him forever.  Sure enough, the
+Creator set him gently into his angel’s hand.  Her hands, much smaller than
+the Creator’s–which was fitting since who among the angels had such power
+as the Creator?–were a bit sticky.  He squealed as she held him aloft to
+receive the glorious light.
+
+“Look, Daddy!  It’s a peng’n!”
+
+“Yes it is, Angie.  It’s a very nice penguin.  Did you thank the nice man
+for the balloon?”
+
+Rated PG.  Contains explicit existentialism and violence of the soul.  (The intro contains minor profanity and frank discussions of current events, and is likely to be more offensive than the story.)
+
+Download this week’s Escape Pod.</itunes:summary>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Science Fiction"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Books"/>
+      </itunes:category>
+      <itunes:category text="Arts &amp; Entertainment">
+        <itunes:category text="Performing Arts"/>
+      </itunes:category>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+      <media:content url="http://www.escapepod.info/media/EP017_Penguin.mp3" fileSize="20963298" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:content>
+      <feedburner:origLink>http://www.escapepod.org/2005/09/01/ep017-the-life-and-times-of-penguin/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Dragon*Con</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=105</link>
+      <comments>http://www.escapepod.org/2005/08/31/dragoncon/#comments</comments>
+      <pubDate>Wed, 31 Aug 2005 17:15:13 +0000</pubDate>
+      <dc:creator>Steve Eley</dc:creator>
+      <category>Site News</category>
+      <guid isPermaLink="false">http://www.escapepod.org/2005/08/31/dragoncon/</guid>
+      <description><![CDATA[I should have mentioned this before, but time&#8217;s been sneaking up on me:
+
+I&#8217;m going to be a guest at Dragon*Con this weekend in Atlanta, along with Mur, Michael &#38; Evo, Derek,  and many other fun folks in the podcasting world.
+
+We&#8217;re all going to putting up a panel on podcasting in the Electronic Frontiers track, [...]]]></description>
+      <content:encoded><![CDATA[<p>I should have mentioned this before, but time&#8217;s been sneaking up on me:</p>
+
+<p>I&#8217;m going to be a guest at <a href="http://www.dragoncon.org">Dragon*Con</a> this weekend in Atlanta, along with <a href="http://www.geekfuactiongrip.com">Mur</a>, <a href="http://www.dragonpage.com">Michael &amp; Evo</a>, <a href="http://www.skepticality.com">Derek</a>,  and many other fun folks in the podcasting world.</p>
+
+<p>We&#8217;re all going to putting up a panel on podcasting in the Electronic Frontiers track, at the utterly insane time of <b>11:30 PM Friday</b>.  Yeah, I know that&#8217;s the time most people are hunting for bodypainted elves on the hotel party floors, but if you&#8217;re around we promise our panel will be <i>almost</i> as much fun.  I&#8217;m also running a panel for the Science track at <b>10 PM Sunday</b> called &#8220;Burn, Hollywood, Burn!&#8221; and will be generally flitting around the rest of the time looking to socialize.</p>
+
+<p>One thing I&#8217;d like to do is have at least one lunch or bar meet-up with podcast listeners.  I don&#8217;t have concrete plans yet, unfortunately, since I haven&#8217;t scouted out the lay of the land.  But if you&#8217;re going to be at D*C and you&#8217;re so inclined, <a href="sfeley@gmail.com">drop me a line</a> with your contact info (preferably cellphone, and let me know if your phone can do SMS) and I&#8217;ll give you mine, and if there&#8217;s at least one of you we&#8217;ll figure it out.  If there are several responses I&#8217;ll actually organize a real event and post it here, so keep checking this space if you get a chance.</p>
+
+<p>Thanks very much.  Next year we&#8217;ll be a lot more organized about con presence: I&#8217;m already making plans to hit <a href="http://www.laconiv.com/">Worldcon</a> <i>and</i> <a href="http://www.dragoncon.org">Dragon*Con</a> in consecutive weeks on both coasts.  Meanwhile, I hope I&#8217;ll get a chance to see some of you this weekend!</p>]]></content:encoded>
+      <wfw:commentRSS>http://www.escapepod.org/2005/08/31/dragoncon/feed/</wfw:commentRSS>
+      <itunes:author>Steve Eley</itunes:author>
+      <itunes:subtitle>I should have mentioned this before, but time’s been sneaking up on me:
+
+I’m going to be a guest at Dragon*Con this weekend in Atlanta, along ...</itunes:subtitle>
+      <itunes:summary>I should have mentioned this before, but time’s been sneaking up on me:
+
+I’m going to be a guest at Dragon*Con this weekend in Atlanta, along with Mur, Michael &amp; Evo, Derek,  and many other fun folks in the podcasting world.
+
+We’re all going to putting up a panel on podcasting in the Electronic Frontiers track, at the utterly insane time of 11:30 PM Friday.  Yeah, I know that’s the time most people are hunting for bodypainted elves on the hotel party floors, but if you’re around we promise our panel will be almost as much fun.  I’m also running a panel for the Science track at 10 PM Sunday called “Burn, Hollywood, Burn!” and will be generally flitting around the rest of the time looking to socialize.
+
+One thing I’d like to do is have at least one lunch or bar meet-up with podcast listeners.  I don’t have concrete plans yet, unfortunately, since I haven’t scouted out the lay of the land.  But if you’re going to be at D*C and you’re so inclined, drop me a line with your contact info (preferably cellphone, and let me know if your phone can do SMS) and I’ll give you mine, and if there’s at least one of you we’ll figure it out.  If there are several responses I’ll actually organize a real event and post it here, so keep checking this space if you get a chance.
+
+Thanks very much.  Next year we’ll be a lot more organized about con presence: I’m already making plans to hit Worldcon and Dragon*Con in consecutive weeks on both coasts.  Meanwhile, I hope I’ll get a chance to see some of you this weekend!</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:keywords>Site News</itunes:keywords>
+      <feedburner:origLink>http://www.escapepod.org/2005/08/31/dragoncon/</feedburner:origLink>
+    </item>
+    <feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetFeedData?uri=EscapePod</feedburner:awareness>
+  </channel>
+</rss>
