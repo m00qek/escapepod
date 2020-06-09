@@ -13,8 +13,8 @@ def load_episodes(feed, from_dir):
     for ep in episodes:
         feed.append(parse(ep, XMLParser(strip_cdata=False)).getroot())
 
-def use_https(text):
-    return text.replace('http://', 'https://')
+def replace(text):
+    return text.replace('http://', 'https://').replace('https://escape.extraneous.org/wp-images/podcast-mini4.gif', 'https://escapepod.org/wp-images/podcast-mini4.gif')
 
 def renew_links(text):
     return regex.sub(r'"https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3"', text)
@@ -32,4 +32,4 @@ if __name__ == "__main__":
 
     with FileInput(generated_file, inplace=True) as file:
         for line in file:
-            print(renew_links(use_https(line)), end='')
+            print(renew_links(replace(line)), end='')
