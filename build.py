@@ -20,14 +20,14 @@ def renew_links(text):
     return regex.sub(r'https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3', text)
 
 if __name__ == "__main__":
-    feed = parse('shell.xml', XMLParser(strip_cdata=False))
+    feed = parse('original/shell.xml', XMLParser(strip_cdata=False))
 
     channel = feed.getroot().find('./channel')
-    load_episodes(channel, 'episodes/rss-1')
-    load_episodes(channel, 'episodes/rss-2')
+    load_episodes(channel, 'generated/episodes/rss-1')
+    load_episodes(channel, 'generated/episodes/rss-2')
 
-    feed.write('feeds/generated/all.xml')
+    feed.write('generated/feeds/all.xml')
 
-    with FileInput('feeds/generated/all.xml', inplace=True) as file:
+    with FileInput('generated/feeds/all.xml', inplace=True) as file:
         for line in file:
             print(renew_links(use_https(line)), end='')

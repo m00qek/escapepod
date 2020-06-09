@@ -39,6 +39,6 @@ def split(from_dir, to_dir):
         deduplicate_episodes(tmp_dir, to_dir)
 
 if __name__ == "__main__":
-    mkdir('episodes')
-    split('feeds/original/rss-2', 'episodes/rss-2')
-    split('feeds/original/rss-1', 'episodes/rss-1')
+    mkdir('generated/episodes')
+    split('original/feeds/rss-2', 'generated/episodes/rss-2')
+    split('original/feeds/rss-1', 'generated/episodes/rss-1')
