@@ -2589,7 +2589,7 @@ Download the Escape Pod Flash.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G Flash</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash016_Hibernation.mp3" fileSize="5054457" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/01/24/ep-flash-hibernation/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash016_Hibernation.mp3" length="5054457" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EPFlash016_Hibernation.mp3" fileSize="5054457" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/01/24/ep-flash-hibernation/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP038: L&#8217;Alchimista</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=128</link>
 		<comments>https://www.escapepod.org/2006/01/25/ep038-lalchimista/#comments</comments>
@@ -2685,7 +2685,7 @@ The Exciting Hellebore Shew
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP038_LAlchimista.mp3" fileSize="28551760" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/01/25/ep038-lalchimista/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP038_LAlchimista.mp3" length="28551760" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP038_LAlchimista.mp3" fileSize="28551760" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/01/25/ep038-lalchimista/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP039: My Friend is a Lesbian Zombie</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=129</link>
 		<comments>https://www.escapepod.org/2006/02/02/ep039-my-friend-is-a-lesbian-zombie/#comments</comments>
@@ -2762,7 +2762,7 @@ Radio A.D.D.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated X</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP039_LesbianZombie.mp3" fileSize="26723497" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/02/ep039-my-friend-is-a-lesbian-zombie/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP039_LesbianZombie.mp3" length="26723497" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP039_LesbianZombie.mp3" fileSize="26723497" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/02/ep039-my-friend-is-a-lesbian-zombie/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Flash: The Team-Mate Reference Problem in Final-Stage Demon Confrontation</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=130</link>
 		<comments>https://www.escapepod.org/2006/02/06/ep-flash-the-team-mate-reference-problem-in-final-stage-demon-confrontation/#comments</comments>
@@ -2810,7 +2810,7 @@ Download the Escape Pod Flash.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G Flash</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash017_TeammateReference.mp3" fileSize="6042512" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/06/ep-flash-the-team-mate-reference-problem-in-final-stage-demon-confrontation/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash017_TeammateReference.mp3" length="6042512" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EPFlash017_TeammateReference.mp3" fileSize="6042512" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/06/ep-flash-the-team-mate-reference-problem-in-final-stage-demon-confrontation/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP040: Even Vads&#248; Thaws</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=131</link>
 		<comments>https://www.escapepod.org/2006/02/09/ep040-even-vadso-thaws/#comments</comments>
@@ -2898,7 +2898,7 @@ SciFi Dimensions
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP040_EvenVadsoThaws.mp3" fileSize="14478878" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/09/ep040-even-vadso-thaws/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP040_EvenVadsoThaws.mp3" length="14478878" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP040_EvenVadsoThaws.mp3" fileSize="14478878" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/09/ep040-even-vadso-thaws/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Flash: One Million Years B.F.E.</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=132</link>
 		<comments>https://www.escapepod.org/2006/02/14/ep-flash-one-million-years-bfe/#comments</comments>
@@ -2961,7 +2961,7 @@ Download the Escape Pod Flash.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G Flash</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash018_OneMillionYears.mp3" fileSize="8567512" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/14/ep-flash-one-million-years-bfe/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash018_OneMillionYears.mp3" length="8567512" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EPFlash018_OneMillionYears.mp3" fileSize="8567512" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/14/ep-flash-one-million-years-bfe/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP041: Ambient Sleaze</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=133</link>
 		<comments>https://www.escapepod.org/2006/02/16/ep041-ambient-sleaze/#comments</comments>
@@ -3016,7 +3016,7 @@ Download this week&#8217;s Escape Pod.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP041_AmbientSleaze.mp3" fileSize="28832678" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/16/ep041-ambient-sleaze/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP041_AmbientSleaze.mp3" length="28832678" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP041_AmbientSleaze.mp3" fileSize="28832678" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/16/ep041-ambient-sleaze/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Flash: Fools Seldom Differ</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=134</link>
 		<comments>https://www.escapepod.org/2006/02/21/104/#comments</comments>
@@ -3076,7 +3076,7 @@ Download the Escape Pod Flash.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G Flash</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash019_FoolsSeldomDiffer.mp3" fileSize="2466767" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/21/104/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash019_FoolsSeldomDiffer.mp3" length="2466767" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EPFlash019_FoolsSeldomDiffer.mp3" fileSize="2466767" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/21/104/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP042: Practical Villainy</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=135</link>
 		<comments>https://www.escapepod.org/2006/02/23/ep042-practical-villainy/#comments</comments>
@@ -3133,7 +3133,7 @@ Dragon Page Wingin&#8217; It
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP042_PracticalVillainy.mp3" fileSize="19527100" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/23/ep042-practical-villainy/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP042_PracticalVillainy.mp3" length="19527100" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP042_PracticalVillainy.mp3" fileSize="19527100" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/02/23/ep042-practical-villainy/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP043: Little Worker</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=136</link>
 		<comments>https://www.escapepod.org/2006/03/02/ep043-little-worker/#comments</comments>
@@ -3194,7 +3194,7 @@ The Podcast Pedant
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated X</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP043_LittleWorker.mp3" fileSize="26090761" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/02/ep043-little-worker/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP043_LittleWorker.mp3" length="26090761" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP043_LittleWorker.mp3" fileSize="26090761" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/02/ep043-little-worker/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP044: Show and Tell</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=137</link>
 		<comments>https://www.escapepod.org/2006/03/09/ep044-show-and-tell/#comments</comments>
@@ -3259,7 +3259,7 @@ The Speech Accent Archive
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP044_ShowAndTell.mp3" fileSize="17207038" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/09/ep044-show-and-tell/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP044_ShowAndTell.mp3" length="17207038" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP044_ShowAndTell.mp3" fileSize="17207038" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/09/ep044-show-and-tell/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP045: Are You Ready For the End of the World?</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=138</link>
 		<comments>https://www.escapepod.org/2006/03/16/ep045-are-you-ready-for-the-end-of-the-world/#comments</comments>
@@ -3321,7 +3321,7 @@ Infection by Scott Sigler
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP045_AreYouReady.mp3" fileSize="19822921" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/16/ep045-are-you-ready-for-the-end-of-the-world/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP045_AreYouReady.mp3" length="19822921" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP045_AreYouReady.mp3" fileSize="19822921" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/16/ep045-are-you-ready-for-the-end-of-the-world/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Review: Night Watch</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=139</link>
 		<comments>https://www.escapepod.org/2006/03/20/ep-review-night-watch/#comments</comments>
@@ -3360,7 +3360,7 @@ Download the Escape Pod Review.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG Reviews</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EPReview006_NightWatch.mp3" fileSize="5267336" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/20/ep-review-night-watch/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EPReview006_NightWatch.mp3" length="5267336" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EPReview006_NightWatch.mp3" fileSize="5267336" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/20/ep-review-night-watch/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP046: Natural Order</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=140</link>
 		<comments>https://www.escapepod.org/2006/03/23/ep046-natural-order/#comments</comments>
@@ -3423,7 +3423,7 @@ EP Review Guidelines
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP046_NaturalOrder.mp3" fileSize="28174962" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/23/ep046-natural-order/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP046_NaturalOrder.mp3" length="28174962" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP046_NaturalOrder.mp3" fileSize="28174962" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/23/ep046-natural-order/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP047: Poet for Hire</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=141</link>
 		<comments>https://www.escapepod.org/2006/03/30/ep047-poet-for-hire/#comments</comments>
@@ -3470,7 +3470,7 @@ Download this week&#8217;s Escape Pod.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP047_PoetForHire.mp3" fileSize="21478999" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/30/ep047-poet-for-hire/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP047_PoetForHire.mp3" length="21478999" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP047_PoetForHire.mp3" fileSize="21478999" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/03/30/ep047-poet-for-hire/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Review: Ultraviolet</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=142</link>
 		<comments>https://www.escapepod.org/2006/04/04/ep-review-ultraviolet/#comments</comments>
@@ -3572,7 +3572,7 @@ Download this week&#8217;s Escape Pod.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP048_SoulFood.mp3" fileSize="21622882" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/04/06/ep048-soul-food/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP048_SoulFood.mp3" length="21622882" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP048_SoulFood.mp3" fileSize="21622882" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/04/06/ep048-soul-food/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP049: Union Dues - Off White Lies</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=144</link>
 		<comments>https://www.escapepod.org/2006/04/13/ep049-union-dues-off-white-lies/#comments</comments>
@@ -3639,7 +3639,7 @@ The first Union Dues story (thanks, Aaron!)
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP049_OffWhiteLies.mp3" fileSize="27623471" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/04/13/ep049-union-dues-off-white-lies/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP049_OffWhiteLies.mp3" length="27623471" type="audio/mpeg"/><media:content url="https://traffic.libsyn.com/escapepod/EP049_OffWhiteLies.mp3" fileSize="27623471" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/04/13/ep049-union-dues-off-white-lies/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP050: The Malcontent</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=145</link>
 		<comments>https://www.escapepod.org/2006/04/20/ep050-the-malcontent/#comments</comments>
@@ -3752,7 +3752,7 @@ Escape Archive
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
 
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP051_IsYouIs.mp3" fileSize="25859109" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/04/27/ep051-is-you-isis-you-aint/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP051_IsYouIs.mp3" length="25859109" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP051_IsYouIs.mp3" fileSize="25859109" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/04/27/ep051-is-you-isis-you-aint/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP052: Single White Farmhouse</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=147</link>
 		<comments>https://www.escapepod.org/2006/05/04/ep052-single-white-farmhouse/#comments</comments>
@@ -3813,7 +3813,7 @@ Escape Pod Classic
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
 
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP052_SingleWhiteFarmhouse.mp3" fileSize="25943117" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/04/ep052-single-white-farmhouse/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP052_SingleWhiteFarmhouse.mp3" length="25943117" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP052_SingleWhiteFarmhouse.mp3" fileSize="25943117" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/04/ep052-single-white-farmhouse/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>Jeff VanderMeer&#8217;s Exhaustive Reading List</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=148</link>
 		<comments>https://www.escapepod.org/2006/05/06/jeff-vandermeers-exhaustive-reading-list/#comments</comments>
@@ -4082,7 +4082,7 @@ Thanks for a great year, everyone!  This coming year will be bigger and better. 
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts</itunes:keywords>
 
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP_Metacast002.mp3" fileSize="15623437" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/09/ep-metacast-2/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP_Metacast002.mp3" length="15623437" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP_Metacast002.mp3" fileSize="15623437" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/09/ep-metacast-2/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>The Dragon Page Expands the Reach of Podcasting</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=152</link>
 		<comments>https://www.escapepod.org/2006/05/09/the-dragon-page-expands-the-reach-of-podcasting/#comments</comments>
@@ -4284,7 +4284,7 @@ Rock &#8216;N&#8217; Roll Monster Bash 2006
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G Hugo Nominees</itunes:keywords>
 
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP053_SeventyFiveYears.mp3" fileSize="18323303" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/11/ep053-seventy-five-years/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP053_SeventyFiveYears.mp3" length="18323303" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP053_SeventyFiveYears.mp3" fileSize="18323303" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/11/ep053-seventy-five-years/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP054: Tk&#8217;tk&#8217;tk</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=155</link>
 		<comments>https://www.escapepod.org/2006/05/18/ep054-tktktk/#comments</comments>
@@ -4354,7 +4354,7 @@ Rescuing Recess
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG Hugo Nominees</itunes:keywords>
 
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP054_TkTkTk.mp3" fileSize="38663074" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/18/ep054-tktktk/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP054_TkTkTk.mp3" length="38663074" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP054_TkTkTk.mp3" fileSize="38663074" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/18/ep054-tktktk/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>Tiptree Longlist Controversy</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=157</link>
 		<comments>https://www.escapepod.org/2006/05/19/tiptree-award-controversy/#comments</comments>
@@ -4516,7 +4516,7 @@ Hooting Yard Benevolent Fund for Distressed Out of Print Pamphleteers
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G Hugo Nominees</itunes:keywords>
 
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP055_DownMemoryLane.mp3" fileSize="27562859" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/25/ep055-down-memory-lane/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP055_DownMemoryLane.mp3" length="27562859" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP055_DownMemoryLane.mp3" fileSize="27562859" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/05/25/ep055-down-memory-lane/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>Pern Movie!</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=160</link>
 		<comments>https://www.escapepod.org/2006/05/25/pern-movie/#comments</comments>
@@ -4657,7 +4657,7 @@ Rock &amp; Roll Monster Bash
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R Hugo Nominees</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP056_ClockworkAtomBomb.mp3" fileSize="37942771" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/06/01/ep056-the-clockwork-atom-bomb/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP056_ClockworkAtomBomb.mp3" length="37942771" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP056_ClockworkAtomBomb.mp3" fileSize="37942771" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/06/01/ep056-the-clockwork-atom-bomb/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP057: Chuckles Mulrooney, Attorney for the Damned</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=164</link>
 		<comments>https://www.escapepod.org/2006/06/08/ep057-chuckles-mulrooney-attorney-for-the-damned/#comments</comments>
@@ -4712,7 +4712,7 @@ Infection - A Podcast Novel
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP057_ChucklesMulrooney.mp3" fileSize="27923201" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/06/08/ep057-chuckles-mulrooney-attorney-for-the-damned/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP057_ChucklesMulrooney.mp3" length="27923201" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP057_ChucklesMulrooney.mp3" fileSize="27923201" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/06/08/ep057-chuckles-mulrooney-attorney-for-the-damned/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP058:  Shadowboxer</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=166</link>
 		<comments>https://www.escapepod.org/2006/06/15/ep-058-shadowboxer/#comments</comments>
@@ -4877,7 +4877,7 @@ Chronigma (David Walton&#8217;s puzzles)
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP059_AnyoneCanWhistle.mp3" fileSize="30622905" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/06/23/ep059-anyone-can-whistle/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP059_AnyoneCanWhistle.mp3" length="30622905" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP059_AnyoneCanWhistle.mp3" fileSize="30622905" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/06/23/ep059-anyone-can-whistle/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Flash: Paul Bunyan and the Photocopier</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=169</link>
 		<comments>https://www.escapepod.org/2006/06/24/ep-flash-paul-bunyan-and-the-photocopier/#comments</comments>
@@ -4947,7 +4947,7 @@ Download the Escape Pod Review.
 src="/media/xmen3.jpg"/><br />A film by Brett Ratner.</a></b><br />
 Reviewed by Jonathon Sullivan.</p>
 
-<p><a rel="enclosure" href='https://traffic.libsyn.com/escapepod/EPReview007_XMen3.mp3' title='EPReview007XMen3'>
+<p><a rel="enclosure" href='https://www.escapepod.org/media/EPReview007_XMen3.mp3' title='EPReview007XMen3'>
 <img src="https://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Review.</a></p>
 ]]></content:encoded>
 			<wfw:commentRSS>https://www.escapepod.org/2006/06/26/ep-review-x-men-3/feed/</wfw:commentRSS>
@@ -5038,7 +5038,7 @@ Listen to this week&#8217;s Escape Pod!
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP060_CreatureForHire.mp3" fileSize="22102495" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/06/29/ep060-creature-for-hire/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP060_CreatureForHire.mp3" length="22102495" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP060_CreatureForHire.mp3" fileSize="22102495" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/06/29/ep060-creature-for-hire/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Flash: Stuck In An Elevator With Mandy Patinkin</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=173</link>
 		<comments>https://www.escapepod.org/2006/07/03/ep-flash-stuck-in-an-elevator/#comments</comments>
@@ -5096,7 +5096,7 @@ Download the Escape Pod Flash.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG Flash</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash021_StuckInAnElevator.mp3" fileSize="4407472" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/03/ep-flash-stuck-in-an-elevator/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash021_StuckInAnElevator.mp3" length="4407472" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EPFlash021_StuckInAnElevator.mp3" fileSize="4407472" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/03/ep-flash-stuck-in-an-elevator/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP061: I Look Forward To Remembering You</title>
 		<link>https://feeds.feedburner.com/EscapePod?m=174</link>
 		<comments>https://www.escapepod.org/2006/07/06/ep061-i-look-forward-to-remembering-you/#comments</comments>
@@ -5165,7 +5165,7 @@ Not Done Living
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP061_ILookForward.mp3" fileSize="25823060" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/06/ep061-i-look-forward-to-remembering-you/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP061_ILookForward.mp3" length="25823060" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP061_ILookForward.mp3" fileSize="25823060" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/06/ep061-i-look-forward-to-remembering-you/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP062: Union Dues - The Baby and the Bathwater</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/http%3A%2F%2Fwww.escapepod.org%2F2006%2F07%2F13%2Fep062-union-dues-the-baby-and-the-bathwater%2F</link>
 		<comments>https://www.escapepod.org/2006/07/13/ep062-union-dues-the-baby-and-the-bathwater/#comments</comments>
@@ -5226,7 +5226,7 @@ Pseudopod Submission Guidelines
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP062_BabyAndTheBathwater.mp3" fileSize="21983389" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/13/ep062-union-dues-the-baby-and-the-bathwater/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP062_BabyAndTheBathwater.mp3" length="21983389" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP062_BabyAndTheBathwater.mp3" fileSize="21983389" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/13/ep062-union-dues-the-baby-and-the-bathwater/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP063: Observations From the City of Angels</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/http%3A%2F%2Fwww.escapepod.org%2F2006%2F07%2F20%2Fep063-observations-from-the-city-of-angels%2F</link>
 		<comments>https://www.escapepod.org/2006/07/20/ep063-observations-from-the-city-of-angels/#comments</comments>
@@ -5312,7 +5312,7 @@ EP BitTorrent Archive
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP063_CityOfAngels.mp3" fileSize="27983186" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/20/ep063-observations-from-the-city-of-angels/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP063_CityOfAngels.mp3" length="27983186" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP063_CityOfAngels.mp3" fileSize="27983186" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/20/ep063-observations-from-the-city-of-angels/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Review: Superman Returns</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/http%3A%2F%2Fwww.escapepod.org%2F2006%2F07%2F22%2Fep-review-superman-returns%2F</link>
 		<comments>https://www.escapepod.org/2006/07/22/ep-review-superman-returns/#comments</comments>
@@ -5334,7 +5334,7 @@ Download the Escape Pod Review.
 src="/media/supermanI.jpg"/><br />A film by Bryan Singer.</a></b><br />
 Reviewed by Jonathon Sullivan.</p>
 
-<p><a rel="enclosure" href='https://traffic.libsyn.com/escapepod/EPReview008_Supermanreturns_01.mp3' title='EP Review: Superman Returns'>
+<p><a rel="enclosure" href='https://www.escapepod.org/media/EPReview008_Supermanreturns_01.mp3' title='EP Review: Superman Returns'>
 <img src="https://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Review.</a></p>
 
 <p><a href="https://feeds.feedburner.com/~a/EscapePod?a=1mU6Bq"><img src="https://feeds.feedburner.com/~a/EscapePod?i=1mU6Bq" border="0"></img></a></p>]]></content:encoded>
@@ -5437,7 +5437,7 @@ EP055: Down Memory Lane
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP064_HeadOfState.mp3" fileSize="27543061" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/27/ep064-head-of-state/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP064_HeadOfState.mp3" length="27543061" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP064_HeadOfState.mp3" fileSize="27543061" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/07/27/ep064-head-of-state/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP065: A Green Thumb</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/8791081/</link>
 		<comments>https://www.escapepod.org/2006/08/03/ep065-a-green-thumb/#comments</comments>
@@ -5497,7 +5497,7 @@ Podcast &amp; Portable Media Expo: Ontario, CA, September 29&#8211;30
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP065_AGreenThumb.mp3" fileSize="17062532" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/03/ep065-a-green-thumb/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP065_AGreenThumb.mp3" length="17062532" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP065_AGreenThumb.mp3" fileSize="17062532" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/03/ep065-a-green-thumb/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Review: A Scanner Darkly</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/9712360/</link>
 		<comments>https://www.escapepod.org/2006/08/07/ep-review-a-scanner-darkly/#comments</comments>
@@ -5519,7 +5519,7 @@ Download the Escape Pod Review.
 src="/media/scandark.jpeg"/><br />A film by Richard Linklater.</a></b><br />
 Reviewed by Paul R. Potts and Jonathon Sullivan.</p>
 
-<p><a rel="enclosure" href='https://traffic.libsyn.com/escapepod/EPReview009_ScanDark.mp3' title='EP Review: A Scanner Darkly'>
+<p><a rel="enclosure" href='https://www.escapepod.org/media/EPReview009_ScanDark.mp3' title='EP Review: A Scanner Darkly'>
 <img src="https://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Review.</a></p>
 
 <p><a href="https://feeds.feedburner.com/~a/EscapePod?a=lNfxU1"><img src="https://feeds.feedburner.com/~a/EscapePod?i=lNfxU1" border="0"></img></a></p>]]></content:encoded>
@@ -5608,7 +5608,7 @@ Dragon*Con: Atlanta, GA, September 1&#8211;4
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP066_TheKingsTail.mp3" fileSize="17662514" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/10/ep066-the-kings-tail/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP066_TheKingsTail.mp3" length="17662514" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP066_TheKingsTail.mp3" fileSize="17662514" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/10/ep066-the-kings-tail/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Flash: The Uncanny Valley</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/12396878/</link>
 		<comments>https://www.escapepod.org/2006/08/14/ep-flash-the-uncanny-valley/#comments</comments>
@@ -5679,7 +5679,7 @@ Download the Escape Pod Flash.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G Flash</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash022_UncannyValley.mp3" fileSize="2182772" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/14/ep-flash-the-uncanny-valley/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EPFlash022_UncannyValley.mp3" length="2182772" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EPFlash022_UncannyValley.mp3" fileSize="2182772" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/14/ep-flash-the-uncanny-valley/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP067: Life in Stone</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/13755352/</link>
 		<comments>https://www.escapepod.org/2006/08/17/ep067-life-in-stone/#comments</comments>
@@ -5753,7 +5753,7 @@ Dragon*Con: Atlanta, GA, September 1&#8211;4
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP067_LifeInStone.mp3" fileSize="25582622" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/17/ep067-life-in-stone/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP067_LifeInStone.mp3" length="25582622" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP067_LifeInStone.mp3" fileSize="25582622" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/17/ep067-life-in-stone/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Review: Snakes on a Plane</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/14143275/</link>
 		<comments>https://www.escapepod.org/2006/08/18/ep-review-snakes-on-a-plane/#comments</comments>
@@ -5800,7 +5800,7 @@ Download the Escape Pod Review.
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Reviews</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EPReview010_SnakesOnAPlane.mp3" fileSize="1702550" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/18/ep-review-snakes-on-a-plane/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EPReview010_SnakesOnAPlane.mp3" length="1702550" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EPReview010_SnakesOnAPlane.mp3" fileSize="1702550" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/18/ep-review-snakes-on-a-plane/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Review: Full Metal Yakuza, Robocop and Other Frankensteins.</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/15269208/</link>
 		<comments>https://www.escapepod.org/2006/08/21/ep-review-full-metal-yakuza-robocop-and-other-frankensteins/#comments</comments>
@@ -5896,7 +5896,7 @@ Dragon*Con: Atlanta, GA, September 1&#8211;4
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP068_DepthOfField.mp3" fileSize="21262707" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/24/ep068-depth-of-field/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP068_DepthOfField.mp3" length="21262707" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP068_DepthOfField.mp3" fileSize="21262707" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/24/ep068-depth-of-field/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Interview: Worldcon Survey</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/17603404/</link>
 		<comments>https://www.escapepod.org/2006/08/30/ep-interview-worldcon-survey/#comments</comments>
@@ -6015,7 +6015,7 @@ Dragon*Con: Atlanta, GA, September 1&#8211;4
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP069_Her.mp3" fileSize="13282709" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/31/ep069-her/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP069_Her.mp3" length="13282709" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP069_Her.mp3" fileSize="13282709" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/08/31/ep069-her/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP070: Squonk the Dragon</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/20280137/</link>
 		<comments>https://www.escapepod.org/2006/09/07/ep070-squonk/#comments</comments>
@@ -6071,7 +6071,7 @@ Variant Frequencies
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP070_SquonkTheDragon.mp3" fileSize="29206648" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/09/07/ep070-squonk/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP070_SquonkTheDragon.mp3" length="29206648" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP070_SquonkTheDragon.mp3" fileSize="29206648" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/09/07/ep070-squonk/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP071: The Capo of Darkness</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/22190109/</link>
 		<comments>https://www.escapepod.org/2006/09/14/ep071-the-capo-of-darkness/#comments</comments>
@@ -6130,7 +6130,7 @@ Destructomundo
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP071_CapoOfDarkness.mp3" fileSize="24862594" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/09/14/ep071-the-capo-of-darkness/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP071_CapoOfDarkness.mp3" length="24862594" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP071_CapoOfDarkness.mp3" fileSize="24862594" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/09/14/ep071-the-capo-of-darkness/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP072: Joe Steele</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/25285274/</link>
 		<comments>https://www.escapepod.org/2006/09/21/ep072-joe-steele/#comments</comments>
@@ -6203,7 +6203,7 @@ Turtledove Wiki
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP072_JoeSteele.mp3" fileSize="33035099" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/09/21/ep072-joe-steele/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP072_JoeSteele.mp3" length="33035099" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP072_JoeSteele.mp3" fileSize="33035099" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/09/21/ep072-joe-steele/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP073: Barnaby in Exile</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/28697260/</link>
 		<comments>https://www.escapepod.org/2006/09/28/ep073-barnaby-in-exile/#comments</comments>
@@ -6296,7 +6296,7 @@ Referenced sites:
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated G</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP073_BarnabyInExile.mp3" fileSize="26422726" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/09/28/ep073-barnaby-in-exile/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP073_BarnabyInExile.mp3" length="26422726" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP073_BarnabyInExile.mp3" fileSize="26422726" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/09/28/ep073-barnaby-in-exile/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP074: Paradox &amp; Greenblatt, Attorneys at Law</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/32730317/</link>
 		<comments>https://www.escapepod.org/2006/10/05/ep074-paradox-greenblatt-attorneys-at-law/#comments</comments>
@@ -6363,7 +6363,7 @@ The Rookie by Scott Sigler
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP074_ParadoxAndGreenblatt.mp3" fileSize="28702911" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/10/05/ep074-paradox-greenblatt-attorneys-at-law/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP074_ParadoxAndGreenblatt.mp3" length="28702911" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP074_ParadoxAndGreenblatt.mp3" fileSize="28702911" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/10/05/ep074-paradox-greenblatt-attorneys-at-law/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP075: Nano Comes to Clifford Falls</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/36383312/</link>
 		<comments>https://www.escapepod.org/2006/10/12/ep075-nano-comes-to-clifford-falls/#comments</comments>
@@ -6432,7 +6432,7 @@ Referenced sites:
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP075_NanoComesToCliffordFalls.mp3" fileSize="33503052" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/10/12/ep075-nano-comes-to-clifford-falls/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP075_NanoComesToCliffordFalls.mp3" length="33503052" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP075_NanoComesToCliffordFalls.mp3" fileSize="33503052" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/10/12/ep075-nano-comes-to-clifford-falls/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP076: The Dinner Game</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/38754406/</link>
 		<comments>https://www.escapepod.org/2006/10/19/ep076-the-dinner-game/#comments</comments>
@@ -6499,7 +6499,7 @@ Silent Universe
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated R</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP076_TheDinnerGame.mp3" fileSize="25702685" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/10/19/ep076-the-dinner-game/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP076_TheDinnerGame.mp3" length="25702685" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP076_TheDinnerGame.mp3" fileSize="25702685" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/10/19/ep076-the-dinner-game/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP077: A Single Shadow</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/41799045/</link>
 		<comments>https://www.escapepod.org/2006/10/26/ep077-a-single-shadow/#comments</comments>
@@ -6584,7 +6584,7 @@ Retrieval Detachment
 
 <p>Reviewed by Jonathon Sullivan.</p>
 
-<p><a rel="enclosure" href='https://traffic.libsyn.com/escapepod/EPReview013_Renaissance.mp3' title='EP Review: Renaissance'>
+<p><a rel="enclosure" href='https://escapepod.org/media/EPReview013_Renaissance.mp3' title='EP Review: Renaissance'>
 <img src="https://escapepod.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Review.</a><strong></strong><strong></strong><strong></strong></p>
 ]]></content:encoded>
 			<wfw:commentRSS>https://www.escapepod.org/2006/10/29/ep-review-renaissance/feed/</wfw:commentRSS>
@@ -6719,7 +6719,7 @@ Listen to this week&#8217;s Escape Pod!
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP078_TheShouldersOfGiants.mp3" fileSize="33362009" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/11/02/ep078-the-shoulders-of-giants/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP078_TheShouldersOfGiants.mp3" length="33362009" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP078_TheShouldersOfGiants.mp3" fileSize="33362009" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/11/02/ep078-the-shoulders-of-giants/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Review: The Prestige</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/45826175/</link>
 		<comments>https://www.escapepod.org/2006/11/06/ep-review-the-prestige/#comments</comments>
@@ -6737,7 +6737,7 @@ Listen to this week&#8217;s Escape Pod!
 
 <p>Reviewed by Mark Anderson.</p>
 
-<p><a rel="enclosure" href='https://traffic.libsyn.com/escapepod/EPReview014_Prestige.mp3' title='EP Review: Prestige'>
+<p><a rel="enclosure" href='https://escapepod.org/media/EPReview014_Prestige.mp3' title='EP Review: Prestige'>
 <img src="https://escapepod.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Review.</a><strong></strong><strong></strong><strong></strong></p>
 ]]></content:encoded>
 			<wfw:commentRSS>https://www.escapepod.org/2006/11/06/ep-review-the-prestige/feed/</wfw:commentRSS>
@@ -6813,7 +6813,7 @@ Listen to this week&#8217;s Escape Pod!
         <itunes:block>No</itunes:block>
         <itunes:keywords>Podcasts Rated PG</itunes:keywords>
         
-	<enclosure url="https://traffic.libsyn.com/escapepod/EP079_MountainMan.mp3" fileSize="26662527" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/11/09/ep079-mountain-man/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<enclosure url="https://traffic.libsyn.com/escapepod/EP079_MountainMan.mp3" length="26662527" type="audio/mpeg"/><media:content xmlns:media="https://traffic.libsyn.com/escapepod/EP079_MountainMan.mp3" fileSize="26662527" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>https://www.escapepod.org/2006/11/09/ep079-mountain-man/</feedburner:origLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="https://search.yahoo.com/mrss" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP080: Union Dues - Cleanup in Aisle Five</title>
 		<link>https://feeds.feedburner.com/~r/EscapePod/~3/50035710/</link>
 		<comments>https://www.escapepod.org/2006/11/16/ep080-union-dues-cleanup-in-aisle-five/#comments</comments>
@@ -9287,7 +9287,7 @@ Rated R.  Contains sexual scenes and other deep biological imperatives.
 		<itunes:author>Heather Lindsley</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP111_Mayfly.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP111_Mayfly.mp3" fileSize="20482798" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F06%2F21%2Fep111-mayfly%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/06/21/ep111-mayfly/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP111_Mayfly.mp3" length="20482798" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/226/0/EP111_Mayfly.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP112: The Giving Plague</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/128545508/</link>
 		<comments>https://escapepod.org/2007/06/28/ep112-the-giving-plague/#comments</comments>
@@ -9354,7 +9354,7 @@ Heinlein Society Blood Drives</itunes:summary>
 		<itunes:author>David Brin</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP112_TheGivingPlague.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP112_TheGivingPlague.mp3" fileSize="37822676" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F06%2F28%2Fep112-the-giving-plague%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/06/28/ep112-the-giving-plague/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP112_TheGivingPlague.mp3" length="37822676" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/227/0/EP112_TheGivingPlague.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP113: Ishmael in Love</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/130713933/</link>
 		<comments>https://escapepod.org/2007/07/05/ep113-ishmael-in-love/#comments</comments>
@@ -9413,7 +9413,7 @@ Steve's LiveJournal (cleaning updates)
 		<itunes:author>Stephen Eley</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP113_IshmaelInLove.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP113_IshmaelInLove.mp3" fileSize="28462798" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F07%2F05%2Fep113-ishmael-in-love%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/07/05/ep113-ishmael-in-love/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP113_IshmaelInLove.mp3" length="28462798" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/228/0/EP113_IshmaelInLove.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP114: Cloud Dragon Skies</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/133045044/</link>
 		<comments>https://escapepod.org/2007/07/12/ep114-cloud-dragon-skies/#comments</comments>
@@ -9475,7 +9475,7 @@ Serve It Cold
 		<itunes:author>N.K. Jemisin</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP114_CloudDragonSkies.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP114_CloudDragonSkies.mp3" fileSize="26847488" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F07%2F12%2Fep114-cloud-dragon-skies%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/07/12/ep114-cloud-dragon-skies/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP114_CloudDragonSkies.mp3" length="26847488" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/229/0/EP114_CloudDragonSkies.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP115: Conversations With and About My Electric Toothbrush</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/135197957/</link>
 		<comments>https://escapepod.org/2007/07/19/ep115-conversations-with-and-about-my-electric-toothbrush/#comments</comments>
@@ -9555,7 +9555,7 @@ Senses Five Press
 		<itunes:author>Derek Zumsteg</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP115_Conversations.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP115_Conversations.mp3" fileSize="16223090" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F07%2F19%2Fep115-conversations-with-and-about-my-electric-toothbrush%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/07/19/ep115-conversations-with-and-about-my-electric-toothbrush/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP115_Conversations.mp3" length="16223090" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/230/0/EP115_Conversations.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP116: Ej-Es</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/137711629/</link>
 		<comments>https://escapepod.org/2007/07/26/ep116-ej-es/#comments</comments>
@@ -9622,7 +9622,7 @@ Three Laws Unsafe
 		<itunes:author>Stephen Eley</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP116_EJ-ES.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP116_EJ-ES.mp3" fileSize="38902567" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F07%2F26%2Fep116-ej-es%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/07/26/ep116-ej-es/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP116_EJ-ES.mp3" length="38902567" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/231/0/EP116_EJ-ES.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP117: Reggie vs. Kaiju Storm Chimera Wolf</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/140083240/</link>
 		<comments>https://escapepod.org/2007/08/02/ep117-reggie-vs-kaiju-storm-chimera-wolf/#comments</comments>
@@ -9696,7 +9696,7 @@ Knitwitch's Sci-Fi  Fantasy Zone on Talkshoe
 		<itunes:author>Matthew Wayne Selznick</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP117_ReggieVsKaiju.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP117_ReggieVsKaiju.mp3" fileSize="28102946" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F02%2Fep117-reggie-vs-kaiju-storm-chimera-wolf%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/08/02/ep117-reggie-vs-kaiju-storm-chimera-wolf/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP117_ReggieVsKaiju.mp3" length="28102946" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/232/0/EP117_ReggieVsKaiju.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP Review: Sunshine</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/140186211/</link>
 		<comments>https://escapepod.org/2007/08/03/ep-review-sunshine/#comments</comments>
@@ -9725,7 +9725,7 @@ Knitwitch's Sci-Fi  Fantasy Zone on Talkshoe
 		<itunes:author>Stephen Eley</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EPReview022_Sunshine.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EPReview022_Sunshine.mp3" fileSize="5615237" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F03%2Fep-review-sunshine%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/08/03/ep-review-sunshine/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EPReview022_Sunshine.mp3" length="5615237" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/233/0/EPReview022_Sunshine.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP BONUS: Ecru - The Butcher of Balis</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/142509164/</link>
 		<comments>https://escapepod.org/2007/08/09/ep-bonus-ecru-the-butcher-of-balis/#comments</comments>
@@ -9869,7 +9869,7 @@ Casio GW-300 (Steve's Watch)
 		<itunes:author>Neal Asher</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP118_TheVeteran.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP118_TheVeteran.mp3" fileSize="25222768" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F09%2Fep118-the-veteran%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/08/09/ep118-the-veteran/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP118_TheVeteran.mp3" length="25222768" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/235/0/EP118_TheVeteran.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP119: Aliens Want Our Women</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/144828052/</link>
 		<comments>https://escapepod.org/2007/08/16/ep119-aliens-want-our-women/#comments</comments>
@@ -9936,7 +9936,7 @@ The DrabbleCast </itunes:summary>
 		<itunes:author>Ramona Louise Wheeler</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP119_AliensWantOurWomen.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP119_AliensWantOurWomen.mp3" fileSize="21262730" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F16%2Fep119-aliens-want-our-women%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/08/16/ep119-aliens-want-our-women/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP119_AliensWantOurWomen.mp3" length="21262730" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/236/0/EP119_AliensWantOurWomen.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP120: The Sundial Brigade</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/147173530/</link>
 		<comments>https://escapepod.org/2007/08/23/ep120-the-sundial-brigade/#comments</comments>
@@ -10031,7 +10031,7 @@ Stranger Things
 		<itunes:author>Stephen Eley</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP120_TheSundialBrigade.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP120_TheSundialBrigade.mp3" fileSize="39599740" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F23%2Fep120-the-sundial-brigade%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/08/23/ep120-the-sundial-brigade/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP120_TheSundialBrigade.mp3" length="39599740" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/237/0/EP120_TheSundialBrigade.mp3</feedburner:origEnclosureLink></item><item xmlns:dtvmedia="https://participatoryculture.org/RSSModules/dtv/1.0" xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP121: The Snow Woman&#8217;s Daughter</title>
 		<link>https://feeds.escapepod.org/~r/EscapePod/~3/149992930/</link>
 		<comments>https://escapepod.org/2007/08/30/ep121-the-snow-womans-daughter/#comments</comments>
@@ -10090,7 +10090,7 @@ Dragon*Con 2007</itunes:summary>
 		<itunes:author>Eugie Foster</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>No</itunes:block>
-	<media:content url="https://traffic.libsyn.com/escapepod/EP121_TheSnowWomansDaughter.mp3</feedburner:origEnclosureLink></item><item xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
+	<media:content url="https://traffic.libsyn.com/escapepod/EP121_TheSnowWomansDaughter.mp3" fileSize="16163190" type="audio/mpeg"/><feedburner:awareness>https://api.feedburner.com/awareness/1.0/GetItemData?uri=EscapePod&amp;itemurl=http%3A%2F%2Fescapepod.org%2F2007%2F08%2F30%2Fep121-the-snow-womans-daughter%2F</feedburner:awareness><feedburner:origLink>https://escapepod.org/2007/08/30/ep121-the-snow-womans-daughter/</feedburner:origLink><enclosure url="https://traffic.libsyn.com/escapepod/EP121_TheSnowWomansDaughter.mp3" length="16163190" type="audio/mpeg"/><feedburner:origEnclosureLink>https://escapepod.org/podpress_trac/feed/238/0/EP121_TheSnowWomansDaughter.mp3</feedburner:origEnclosureLink></item><item xmlns:creativeCommons="https://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="https://rssnamespace.org/feedburner/ext/1.0">
 		<title>EP at Dragon*Con 2007</title>
 		<link>https://escapepod.org/2007/08/31/ep-at-dragoncon-2007/</link>
 		<comments>https://escapepod.org/2007/08/31/ep-at-dragoncon-2007/#comments</comments>
@@ -36744,7 +36744,7 @@ Jessica shushes me when I mutter things like that, but the doctor doesn&#8217;t 
 		<link>https://escapepod.org/2013/02/21/ep384-the-tamarisk-hunter/</link>
 		<comments>https://escapepod.org/2013/02/21/ep384-the-tamarisk-hunter/#comments</comments>
 		<pubDate>Thu, 21 Feb 2013 05:01:51 +0000</pubDate>
-		<dc:creator>Mat</dc:creator>
+		<dc:creator><![CDATA[Mat]]></dc:creator>
 				<category><![CDATA[10 and Up]]></category>
 		<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[apocalyptic]]></category>
@@ -36759,7 +36759,9 @@ Jessica shushes me when I mutter things like that, but the doctor doesn&#8217;t 
 		<category><![CDATA[water rights]]></category>
 
 		<guid isPermaLink="false">https://escapepod.org/?p=4103</guid>
-		<description><![CDATA[By&#160;Paolo Bacigalupi Read by&#160;Caith Donovan Discuss on our forums.&#160; For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page &#160; The Tamarisk Hunter by Paolo Bacigalupi &#160;&#8220;The Tamarisk Hunter&#8221; originally appeared in the environmental journal High Country News. It was inspired by the only thing that really matters in the [...]]]></description>
+		<description><![CDATA[<p>By&#160;Paolo Bacigalupi Read by&#160;Caith Donovan Discuss on our forums.&#160; For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page &#160; The Tamarisk Hunter by Paolo Bacigalupi &#160;&#8220;The Tamarisk Hunter&#8221; originally appeared in the environmental journal High Country News. It was inspired by the only thing that really matters in the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://escapepod.org/2013/02/21/ep384-the-tamarisk-hunter/">EP384: The Tamarisk Hunter</a> appeared first on <a rel="nofollow" href="https://escapepod.org">Escape Pod</a>.</p>
+]]></description>
 		<wfw:commentRss>https://escapepod.org/2013/02/21/ep384-the-tamarisk-hunter/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 			<enclosure url="https://traffic.libsyn.com/escapepod/EP384_TheTamariskHunter.mp3" length="28420639" type="audio/mpeg"/>
@@ -36768,11 +36770,11 @@ Jessica shushes me when I mutter things like that, but the doctor doesn&#8217;t 
 Read by&#160;Caith Donovan
 
 
-Discuss on our forums.&#160;
+Discuss on our forums.
 
 For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
 
-&#160;
+
 The Tamarisk Hunter
 by Paolo Bacigalupi
 
@@ -36781,11 +36783,11 @@ by Paolo Bacigalupi
 Read by&#160;Caith Donovan
 
 
-Discuss on our forums.&#160;
+Discuss on our forums.
 
 For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
 
-&#160;
+
 The Tamarisk Hunter
 by Paolo Bacigalupi
 
@@ -36811,7 +36813,7 @@ It takes Maggie&#8217;s rolling bleating camel stride a week to make it back to 
 		<link>https://escapepod.org/2013/02/28/ep385-the-very-pulse-of-the-machine/</link>
 		<comments>https://escapepod.org/2013/02/28/ep385-the-very-pulse-of-the-machine/#comments</comments>
 		<pubDate>Fri, 01 Mar 2013 03:03:55 +0000</pubDate>
-		<dc:creator>Mat</dc:creator>
+		<dc:creator><![CDATA[Mat]]></dc:creator>
 				<category><![CDATA[13 and Up]]></category>
 		<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[amy elk]]></category>
@@ -36826,32 +36828,33 @@ It takes Maggie&#8217;s rolling bleating camel stride a week to make it back to 
 		<category><![CDATA[the very pulse of the machine]]></category>
 
 		<guid isPermaLink="false">https://escapepod.org/?p=4108</guid>
-		<description><![CDATA[By&#160;Michael Swanwick Read by&#160;Amy Elk Discuss on our forums.&#160; For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page Special thanks to user&#160;ERH&#160;at&#160;FreeSound.org&#160;who created and/or recorded the sound effect used in this episode! &#160; &#8220;The Very Pulse of the Machine&#8221; by Michael Swanwick &#160; Click. The radio came on. &#8220;Hell.&#8221; [...]]]></description>
+		<description><![CDATA[<p>By&#160;Michael Swanwick Read by&#160;Amy Robinson Discuss on our forums.&#160; For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page Special thanks to user&#160;ERH&#160;at&#160;FreeSound.org&#160;who created and/or recorded the sound effect used in this episode! &#160; &#8220;The Very Pulse of the Machine&#8221; by Michael Swanwick Click. The radio came on. &#8220;Hell.&#8221; Martha [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://escapepod.org/2013/02/28/ep385-the-very-pulse-of-the-machine/">EP385: The Very Pulse of the Machine</a> appeared first on <a rel="nofollow" href="https://escapepod.org">Escape Pod</a>.</p>
+]]></description>
 		<wfw:commentRss>https://escapepod.org/2013/02/28/ep385-the-very-pulse-of-the-machine/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 			<enclosure url="https://traffic.libsyn.com/escapepod/EP385_TheVeryPulseoftheMachine.mp3" length="38514040" type="audio/mpeg"/>
 		<itunes:duration>0:53:21</itunes:duration>
 		<itunes:subtitle>By&#160;Michael Swanwick
-Read by&#160;Amy Elk
+Read by&#160;Amy Robinson
 
 
-Discuss on our forums.&#160;
+Discuss on our forums.
 
 For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
-Special thanks to user&#160;ERH&#160;at&#160;FreeSound.org&#160;who created and/or recorded the sound effect us[...]</itunes:subtitle>
+Special thanks to user&#160;ERH&#160;at&#160;FreeSound.org&#160;who created and/or recorded the sound effe[...]</itunes:subtitle>
 		<itunes:summary>By&#160;Michael Swanwick
-Read by&#160;Amy Elk
+Read by&#160;Amy Robinson
 
 
-Discuss on our forums.&#160;
+Discuss on our forums.
 
 For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
 Special thanks to user&#160;ERH&#160;at&#160;FreeSound.org&#160;who created and/or recorded the sound effect used in this episode!
 
-&#160;
+
 &#8220;The Very Pulse of the Machine&#8221;
 by Michael Swanwick
-&#160;
 Click.
 The radio came on.
 &#8220;Hell.&#8221;
@@ -36878,7 +36881,7 @@ Then Martha did some serious thinking.
 For all the fury of the blizzard, there was no turbulence. Because there was no atmosphere to have turbulence in. The sulfur dioxide gushed out straight from the sudden crack that had opened in the rock, falling to the surface miles away in strict obedience to the laws of ballistics. Most of what struck the boulder they&#8217;d crashed against would simply stick to it, and the rest would be bounced down to the ground at its feet. So that&#8212;this was how she&#8217;d gotten out in the first place&#8212;it was possible to crawl under the near-horizontal spray and back to the ruins of the moonrover. If she went slowly, the helmet light and her sense of feel ought to be sufficient for a little judicious salvage.
 Martha got down on her hands and knees. And as she did, just as quickly as the blizzard had begun&#8212;it stopped.
 She stood, feeling strangely foolish.
-Still, she couldn&#8217;t rely on the blizzard staying quiescent. B[...]</itunes:summary>
+Still, she couldn&#8217;t rely on the blizzard staying quiescent. Bet[...]</itunes:summary>
 		<itunes:keywords>Podcasts</itunes:keywords>
 		<itunes:author>Michael Swanwick</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
@@ -36888,7 +36891,7 @@ Still, she couldn&#8217;t rely on the blizzard staying quiescent. B[...]</itunes
 		<link>https://escapepod.org/2013/03/04/book-review-the-mirage-by-matt-ruff/</link>
 		<comments>https://escapepod.org/2013/03/04/book-review-the-mirage-by-matt-ruff/#comments</comments>
 		<pubDate>Mon, 04 Mar 2013 15:00:39 +0000</pubDate>
-		<dc:creator>Josh Roseman</dc:creator>
+		<dc:creator><![CDATA[Josh Roseman]]></dc:creator>
 				<category><![CDATA[Blog]]></category>
 		<category><![CDATA[Books]]></category>
 		<category><![CDATA[Reviews]]></category>
@@ -36901,7 +36904,9 @@ Still, she couldn&#8217;t rely on the blizzard staying quiescent. B[...]</itunes
 		<category><![CDATA[the mirage]]></category>
 
 		<guid isPermaLink="false">https://escapepod.org/?p=4111</guid>
-		<description><![CDATA[Sometimes, alternate history doesn't require telling the reader what the crisis point was that got changed. Sometimes, the reader just needs to know things are different. And that's where <i>The Mirage</i> by Matt Ruff begins.]]></description>
+		<description><![CDATA[<p>Sometimes, alternate history doesn't require telling the reader what the crisis point was that got changed. Sometimes, the reader just needs to know things are different. And that's where <i>The Mirage</i> by Matt Ruff begins.</p>
+<p>The post <a rel="nofollow" href="https://escapepod.org/2013/03/04/book-review-the-mirage-by-matt-ruff/">Book Review: <i>The Mirage</i> by Matt Ruff</a> appeared first on <a rel="nofollow" href="https://escapepod.org">Escape Pod</a>.</p>
+]]></description>
 		<wfw:commentRss>https://escapepod.org/2013/03/04/book-review-the-mirage-by-matt-ruff/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item><item>
@@ -36909,7 +36914,7 @@ Still, she couldn&#8217;t rely on the blizzard staying quiescent. B[...]</itunes
 		<link>https://escapepod.org/2013/03/07/ep386-finished/</link>
 		<comments>https://escapepod.org/2013/03/07/ep386-finished/#comments</comments>
 		<pubDate>Thu, 07 Mar 2013 05:39:46 +0000</pubDate>
-		<dc:creator>Mat</dc:creator>
+		<dc:creator><![CDATA[Mat]]></dc:creator>
 				<category><![CDATA[13 and Up]]></category>
 		<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[finished]]></category>
@@ -36921,7 +36926,9 @@ Still, she couldn&#8217;t rely on the blizzard staying quiescent. B[...]</itunes
 		<category><![CDATA[Science Future]]></category>
 
 		<guid isPermaLink="false">https://escapepod.org/?p=4121</guid>
-		<description><![CDATA[By&#160;Robert Reed Read by&#160;Joel Nisbet Discuss on our forums.&#160; For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page &#160; Finished by Robert Reed&#160; What did I plan?&#160; Very little, in truth.&#160; An evening walk accompanied by the scent of flowers and dampened earth, the lingering heat of the day [...]]]></description>
+		<description><![CDATA[<p>By&#160;Robert Reed Read by&#160;Joel Nisbet Discuss on our forums.&#160; For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page &#160; Finished by Robert Reed&#160; What did I plan?&#160; Very little, in truth.&#160; An evening walk accompanied by the scent of flowers and dampened earth, the lingering heat of the day [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://escapepod.org/2013/03/07/ep386-finished/">EP386: Finished</a> appeared first on <a rel="nofollow" href="https://escapepod.org">Escape Pod</a>.</p>
+]]></description>
 		<wfw:commentRss>https://escapepod.org/2013/03/07/ep386-finished/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 			<enclosure url="https://traffic.libsyn.com/escapepod/EP386_Finished.mp3" length="33220169" type="audio/mpeg"/>
@@ -36930,25 +36937,25 @@ Still, she couldn&#8217;t rely on the blizzard staying quiescent. B[...]</itunes
 Read by&#160;Joel Nisbet
 
 
-Discuss on our forums.&#160;
+Discuss on our forums.
 
 For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
 
-&#160;
+
 Finished
-by Robert Reed&#160;
+by Robert Reed
 What did I plan?&#160; Very little, in truth.&#160; An evening walk a[...]</itunes:subtitle>
 		<itunes:summary>By&#160;Robert Reed
 Read by&#160;Joel Nisbet
 
 
-Discuss on our forums.&#160;
+Discuss on our forums.
 
 For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
 
-&#160;
+
 Finished
-by Robert Reed&#160;
+by Robert Reed
 What did I plan?&#160; Very little, in truth.&#160; An evening walk accompanied by the scent of flowers and dampened earth, the lingering heat of the day taken as a reassurance, ancient and holy.&#160; I was genuinely happy, as usual.&#160; Like a hundred other contented walkers, I wandered through the linear woods, past lovers&#8217; groves and pocket-sized sanctuaries and ornamental ponds jammed full of golden orfes and platinum lungfish.&#160; When I felt as if I should be tired, I sat on a hard steel bench to rest.&#160; People smiled as they passed, or they didn&#8217;t smile.&#160; But I showed everyone a wide grin, and sometimes I offered a pleasant word, and one or two of the strangers paused long enough to begin a brief conversation.
 One man&#8212;a rather old man, and I remember little else&#8212;asked, &#8220;And how are you today?&#8221;
 Ignoring the implication, I said, &#8220;Fine.&#8221;
@@ -43155,7 +43162,7 @@ Zinhle&#8217;s mother looks at her father, seeking an ally. Her father is a gent
 <p>The post <a rel="nofollow" href="https://escapepod.org/2014/06/24/ep451-aliens-made-glass/">EP451: The Aliens Made of Glass</a> appeared first on <a rel="nofollow" href="https://escapepod.org">Escape Pod</a>.</p>
 ]]></description>
 		<wfw:commentRss>https://escapepod.org/2014/06/24/ep451-aliens-made-glass/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
+		<slash:comments>0</slash:comments>
 			<enclosure url="https://traffic.libsyn.com/escapepod/EP451_TheAliensMadeofGlass.mp3" length="28221272" type="audio/mpeg"/>
 		<itunes:duration>0:39:03</itunes:duration>
 		<itunes:subtitle>by&#160;Helena Bell
@@ -43198,273 +43205,6 @@ Instead of sports, a man in a checkered suit announces the decision of all space
 		<itunes:keywords>Podcasts</itunes:keywords>
 		<itunes:author>Helena Bell</itunes:author>
 		<itunes:explicit>yes</itunes:explicit>
-		<itunes:block>no</itunes:block>
-	</item><item>
-		<title>EP452: Repo</title>
-		<link>https://escapepod.org/2014/06/28/ep452-repo/</link>
-		<comments>https://escapepod.org/2014/06/28/ep452-repo/#comments</comments>
-		<pubDate>Sat, 28 Jun 2014 04:44:08 +0000</pubDate>
-		<dc:creator><![CDATA[Mat]]></dc:creator>
-				<category><![CDATA[13 and Up]]></category>
-		<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[aaron gallagher]]></category>
-		<category><![CDATA[Alasdair Stuart]]></category>
-		<category><![CDATA[fiction]]></category>
-		<category><![CDATA[free fiction]]></category>
-		<category><![CDATA[m.k. hobson]]></category>
-		<category><![CDATA[repo]]></category>
-		<category><![CDATA[sci fi]]></category>
-		<category><![CDATA[science]]></category>
-		<category><![CDATA[science fiction]]></category>
-		<category><![CDATA[Science Future]]></category>
-		<category><![CDATA[space]]></category>
-		<category><![CDATA[space ship]]></category>
-
-		<guid isPermaLink="false">https://escapepod.org/?p=4810</guid>
-		<description><![CDATA[<p>by&#160;Aaron Gallagher read by&#160;M.K. Hobson Links for this episode: This piece was published in Analog, May 2014. Discuss on our forums.&#160; For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page about the narrator&#8230; M.K. Hobson recently decided to follow a time-honored authorial tradition and become a bitter recluse. She [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://escapepod.org/2014/06/28/ep452-repo/">EP452: Repo</a> appeared first on <a rel="nofollow" href="https://escapepod.org">Escape Pod</a>.</p>
-]]></description>
-		<wfw:commentRss>https://escapepod.org/2014/06/28/ep452-repo/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-			<enclosure url="https://traffic.libsyn.com/escapepod/EP452_Repo.mp3" length="35387810" type="audio/mpeg"/>
-		<itunes:duration>0:49:00</itunes:duration>
-		<itunes:subtitle>by&#160;Aaron Gallagher
-read by&#160;M.K. Hobson
-Links for this episode:
-
-
-This piece was published in Analog, May 2014.
-Discuss on our forums.
-For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
-
-
-narrator M.K. Hob[...]</itunes:subtitle>
-		<itunes:summary>by&#160;Aaron Gallagher
-read by&#160;M.K. Hobson
-Links for this episode:
-
-
-This piece was published in Analog, May 2014.
-Discuss on our forums.
-For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
-
-
-narrator M.K. Hobson
-
-about the narrator&#8230;
-M.K. Hobson recently decided to follow a time-honored authorial tradition and become a bitter recluse. She swore off all social media and left her website to go to seed. At the moment, she exists only as a voice on short fiction podcasts such asPodcastle&#160;and&#160;Cast of Wonders.&#160;She leavens the tedium of her vastly expanded free time with misanthropy, paranoia, and weight lifting.
-
-Repo
-by Aaron Gallagher
-It took concentration to perform delicate work in the cumbersome gloves of the suit. The rounded fingers were metal-tipped, and bulky. Elise painted the tips of her gloves with luminous paint for ease when working outside.
-The octopus found the wires and shorted the alarm. The device glowed green and she triggered the manual release. The door popped, expelling a breath or two of oxygen.
-Elise slipped into the airlock and closed it behind her, shutting the door on the endless black of space. The inside porthole looked into the cargo hold. She glided through the cargo room with three kicks.
-The head-up on her helmet showed schematics in blue. She found the environmental control room.
-She flipped open the airtight seal on a container holding a large slab of green gel. She snapped open a metal vial sprayed dark liquid onto the slab. She sealed the container, turned the machinery to full, and crouched by the door out of sight.
-At thirty minutes, Elise headed upstairs for the cockpit. Empty. She looked for the captain&#8217;s cabin. In the cabin&#8217;s refresher, she found his body slumped in a large rubber bag.
-Great. He passed out in the shower.
-Elise wrestled the naked man out of the rubber shower. Round globules of water drifted around them. She pulled a sedative pad out of her bag and slapped it onto Holland&#8217;s arm. The chemicals seeped into his bloodstream.
-He&#8217;d sleep twenty-four hours in a chemical coma. She left him in his bunk pouch, cinch closed around his neck. His balding head bobbed in the breeze from the vent.
-Back in the environmental control room, she worked the o2 scrubbers at full blast for thirty minutes. She broke seal on her helmet and sniffed the air, ready to clamp the helmet down the moment she felt dizzy.
-Clean.
-The ship was hers.
-Elise floated through the ship to familiarize herself. It didn&#8217;t take long. It was a small Beech Skimmer, cargo capacity of around five metric tons. The craft was cylindrical, with two floors. Cargo, environmental, and engine room below. Main floor above was one long corridor, sixty meters long, with the cockpit at the fore, two staterooms to each side, a combination kitchen, dining room, and recreation area at the other end. The ship was roomy for one, comfortable with eight, rated for a maximum of sixteen.
-Down below she examined the engines, because no pilot she knew ran a ship within recommended specs. The big Beech was tuned up to 122% efficiency. She studied the specs to learn what he had done. She shook her head. Sure, he&#8217;d managed to coax more power from the big engine, but it would need an overhaul twice as often. She shut off the display with a shrug. They never thought of the bottom line.
-She finished her inspection and sealed her helmet. As she kicked out of the airlock, she paused to admire the view. It was worth admiring. Pluto, with her single, sickly colony. The dock in orbit, half-full of ships in port, lit like Vegas, and shining like diamonds on velvet.
-She slipped under Adage to where her Betty was Remora&#8217;d to the hull and went inside. She plopped into the pilot&#8217;s couch. All her controls were custom, larger than normal. She spent a lot of time in her suit. Only two hours had passed since she used thrusters to come alongside the bigger ship. She watched the displays as she worked the controls[...]</itunes:summary>
-		<itunes:keywords>Podcasts</itunes:keywords>
-		<itunes:author>Aaron Gallagher</itunes:author>
-		<itunes:explicit>yes</itunes:explicit>
-		<itunes:block>no</itunes:block>
-	</item><item>
-		<title>EP453: The Grotto of the Dancing Deer</title>
-		<link>https://escapepod.org/2014/07/07/ep453-grotto-dancing-deer/</link>
-		<comments>https://escapepod.org/2014/07/07/ep453-grotto-dancing-deer/#comments</comments>
-		<pubDate>Mon, 07 Jul 2014 05:37:02 +0000</pubDate>
-		<dc:creator><![CDATA[Mat]]></dc:creator>
-				<category><![CDATA[10 and Up]]></category>
-		<category><![CDATA[13 and Up]]></category>
-		<category><![CDATA[17 and Up]]></category>
-		<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[clifford simak]]></category>
-		<category><![CDATA[Hugo Awards]]></category>
-		<category><![CDATA[Hugo Winner]]></category>
-		<category><![CDATA[nebula award winner]]></category>
-		<category><![CDATA[Norm Sherman]]></category>
-		<category><![CDATA[sci fi]]></category>
-		<category><![CDATA[science]]></category>
-		<category><![CDATA[science fiction]]></category>
-		<category><![CDATA[Science Future]]></category>
-		<category><![CDATA[the grotto of the dancing Deer]]></category>
-
-		<guid isPermaLink="false">https://escapepod.org/?p=4815</guid>
-		<description><![CDATA[<p>by Clifford Simak narrated by Norm Sherman &#160; This story&#160;won the 1980 Nebula Award for Best Short Story and the 1981 Hugo Award for Best Short Story. Discuss on our forums.&#160; For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page &#160; about the author&#8230; (source:&#160;wikipedia) &#8220;Clifford Donald Simak&#160;(August 3, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://escapepod.org/2014/07/07/ep453-grotto-dancing-deer/">EP453: The Grotto of the Dancing Deer</a> appeared first on <a rel="nofollow" href="https://escapepod.org">Escape Pod</a>.</p>
-]]></description>
-		<wfw:commentRss>https://escapepod.org/2014/07/07/ep453-grotto-dancing-deer/feed/</wfw:commentRss>
-		<slash:comments>10</slash:comments>
-			<enclosure url="https://traffic.libsyn.com/escapepod/EP453_TheGrottooftheDancingDeer.mp3" length="41736821" type="audio/mpeg"/>
-		<itunes:duration>0:57:49</itunes:duration>
-		<itunes:subtitle>by Clifford Simak
-narrated by Norm Sherman
-
-
-This story&#160;won the 1980 Nebula Award for Best Short Story and the 1981 Hugo Award for Best Short Story.
-Discuss on our forums.
-For a list of all Escape Pod stories, authors and narrators,&#160;visit our[...]</itunes:subtitle>
-		<itunes:summary>by Clifford Simak
-narrated by Norm Sherman
-
-
-This story&#160;won the 1980 Nebula Award for Best Short Story and the 1981 Hugo Award for Best Short Story.
-Discuss on our forums.
-For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
-
-
-about the author&#8230;
-
-author Clifford Simak
-
-(source:&#160;wikipedia) &#8220;Clifford Donald Simak&#160;(August 3, 1904 &#8211; April 25, 1988) was an&#160;American&#160;science fiction&#160;writer. He was honored by fans with three&#160;Hugo Awards&#160;and by colleagues with one&#160;Nebula Award. The&#160;Science Fiction Writers of America&#160;made him its third&#160;SFWA Grand Master and the&#160;Horror Writers Association&#160;made him one of three inaugural winners of the&#160;Bram Stoker Award for Lifetime Achievement.
-Simak was born in&#160;Millville,&#160;Wisconsin&#160;in 1904, son of John Lewis and Margaret (Wiseman) Simak. He married Agnes Kuchenberg on April 13, 1929 and they had two children, Richard (Dick) Scott (d. 2012) and Shelley Ellen. Simak attended the&#160;University of Wisconsin&#8211;Madison&#160;and later worked at various newspapers in the&#160;Midwest. He began a lifelong association with the&#160;Minneapolis Star and Tribune&#160;(inMinneapolis,&#160;Minnesota) in 1939, which continued until his retirement in 1976. He became&#160;Minneapolis Star&#8217;s news editor in 1949 and coordinator of&#160;Minneapolis Tribune&#8217;s&#160;Science Reading Series&#160;in 1961. In a blurb in&#160;Time and Again&#160;he wrote, &#8220;I have been happily married to the same woman for thirty three years and have two children. My favorite recreation is fishing (the lazy way, lying in a boat and letting them come to me). Hobbies: Chess, stamp collecting, growing roses.&#8221; He dedicated the book to his wife Kay, &#8220;without whom I&#8217;d never have written a line&#8221;. He was well liked by many of his science fiction cohorts, especially&#160;Isaac Asimov. He died in Minneapolis in 1988.
-Simak became interested in science fiction after reading the works of&#160;H. G. Wells&#160;as a child. His first contribution to the literature was &#8220;The World of the Red Sun&#8221;, published by&#160;Hugo Gernsback&#160;in the December 1931 issue of&#160;Wonder Stories&#160;with one opening illustration by&#160;Frank R. Paul. Within a year he placed three more stories in Gernsback&#8217;s&#160;pulp magazines&#160;and one in&#160;Astounding Stories, then edited by Harry Bates. But his only science fiction publication between 1932 and 1938 was&#160;The Creator&#160;(Marvel Tales&#160;#4, March&#8211;April 1935), a notable story with religious implications, which was then rare in the genre.
-Once&#160;John W. Campbell, at the helm of&#160;Astounding&#160;from October 1937, began redefining the field, Simak returned and was a regular contributor to&#160;Astounding Science Fiction&#160;(as it was renamed in 1938) throughout the&#160;Golden Age of Science Fiction&#160;(1938&#8211;1950). At first, as in the 1939 serial novel&#160;Cosmic Engineers, he wrote in the tradition of the earlier &#8220;superscience&#8221; subgenre that&#160;E. E. &#8220;Doc&#8221; Smith&#160;perfected, but he soon developed his own style, which is usually described as gentle and&#160;pastoral. During this period, Simak also published a number of war and western stories in pulp magazines. His best-known novel may be&#160;City, a collection of short stories with a common theme of mankind&#8217;s eventual exodus from Earth.
-Simak continued to produce award-nominated novels throughout the 1950s and 1960s. Aided by a friend, he continued writing and publishing science fiction and, later, fantasy, into his 80s. He believed that science fiction not rooted in scientific fact was responsible for the failure of the genre to be taken seriously, and stated his aim was to make the genre a part of what he called &#8220;realistic fiction.&#8221;
-The post EP453: The Grotto of the Dancing Deer appeared first on Escape Pod.
-The post EP453: The Grotto of the Dancing Deer appeared first on Escape Pod.</itunes:summary>
-		<itunes:keywords>Podcasts</itunes:keywords>
-		<itunes:author>Clifford Simak</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:block>no</itunes:block>
-	</item><item>
-		<title>EP454: Stop Me if You&#8217;ve Heard This One</title>
-		<link>https://escapepod.org/2014/07/14/ep454-stop-youve-heard-one/</link>
-		<comments>https://escapepod.org/2014/07/14/ep454-stop-youve-heard-one/#comments</comments>
-		<pubDate>Mon, 14 Jul 2014 15:11:27 +0000</pubDate>
-		<dc:creator><![CDATA[Mat]]></dc:creator>
-				<category><![CDATA[17 and Up]]></category>
-		<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[Dani Cutler]]></category>
-		<category><![CDATA[KC Ball]]></category>
-		<category><![CDATA[Stop Me if You've Heard This One]]></category>
-
-		<guid isPermaLink="false">https://escapepod.org/?p=4822</guid>
-		<description><![CDATA[<p>by KC Ball read by Dani Cutler Links for this episode: Discuss on our forums.&#160; For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page about the author&#8230; I live in Seattle, a stone&#8217;s throw from Puget Sound, with my life partner, Rachael. I began writing fiction professionally in 2008 [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://escapepod.org/2014/07/14/ep454-stop-youve-heard-one/">EP454: Stop Me if You&#8217;ve Heard This One</a> appeared first on <a rel="nofollow" href="https://escapepod.org">Escape Pod</a>.</p>
-]]></description>
-		<wfw:commentRss>https://escapepod.org/2014/07/14/ep454-stop-youve-heard-one/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-			<enclosure url="https://traffic.libsyn.com/escapepod/EP454_StopMeIfYouveHeardThisOne.mp3" length="14802588" type="audio/mpeg"/>
-		<itunes:duration>0:20:25</itunes:duration>
-		<itunes:subtitle>by KC Ball
-read by Dani Cutler
-Links for this episode:
-
-Discuss on our forums.
-For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
-
-about the author&#8230;
-
-I live in Seattle, a stone&#8217;s throw from Puget Sound, w[...]</itunes:subtitle>
-		<itunes:summary>by KC Ball
-read by Dani Cutler
-Links for this episode:
-
-Discuss on our forums.
-For a list of all Escape Pod stories, authors and narrators,&#160;visit our sortable Wikipedia page
-
-about the author&#8230;
-
-I live in Seattle, a stone&#8217;s throw from Puget Sound, with my life partner, Rachael.
-I began writing fiction professionally in 2008 and now write full-time.&#160; I&#8217;ve sold almost fifty short stories, for publication in various print and online magazines, including&#160;Analog,&#160;Lightspeed,&#160;Flash Fiction Online&#160;and&#160;Murky Depths, the award-winning but now defunct British fantasy magazine.
-In addition, my novel,&#160;&#160;Lifting Up Veronica, was published in January 2012 by Every Day Publishers as an online serial. E-book and print versions are forthcoming.&#160; My first short-story collection,&#160;Snapshots from a Black Hole&#160; &amp; Other Oddities, was published in January 2012 by Hydra House Books.
-I won the 2009 Writers of the Future competition with my short story,Coward&#8217;s Steel,&#160;graduated the Clarion West writers workshop July 2010 and attended Mike Brotherton&#8217;s Launch Pad workshop July 2011 at the University of Wyoming. I have also studied with SFWA Grand Master Jim Gunn.
-I am fanatic about the written word, oral story-telling, corny jokes, traditional jazz, open water, lighthouses, sad country songs and all things to do with motion pictures.
-about the narrator&#8230;
-
-Narrator Dani Cutler
-
-Dani Cutler last narrated for EP in 389: Keeping Tabs. She has been part of the podcasting community since 2006, hosting and producing her own podcast through 2013. She currently works for KWSS independent radio in Phoenix as their midday announcer, and also organizes a technology conference each year for Phoenix residents to connect with others in the podcast, video, and online community.
-
-
-Stop Me if You&#8217;ve Heard This One
-by KC Ball
-Lori Meeker pushed her hair out of her eyes and leaned back against the sink. She squeezed the cold porcelain edge to still her trembling hands and focused on the pair of plainclothes cops shoehorned into the women&#8217;s can with her.
-The space was hardly bigger than a closet but the restrooms were the only private spaces in the bar, and the detectives had insisted on questioning her alone.
-&#8220;The restrooms always this clean?&#8221; Detective Gayle asked.
-&#8220;Yeah. Augie&#8217;s bat-shit crazy about dirt and germs.&#8221;
-Gayle raised an eyebrow. &#8220;Bat-shit crazy, huh? Is that your professional opinion?&#8221;
-&#8220;Pardon my French,&#8221; Lori snapped.
-Lori had met women just like Gayle. Always judging, always pretending they could do anything a man could do. Always looking down their perfect nose at girls who had to work in joints like Augie&#8217;s Bar &amp; Grill.
-And Augie was bat-shit crazy about germs. A damned phobia, that&#8217;s what she should have said. It was a bar, for god&#8217;s sake, not some fancy restaurant. The place was cleaner than it had any need to be.
-&#8220;Tell us what you saw and heard,&#8221; Detective Osbourne said.
-Osbourne looked like a nice man, the kind of guy who would listen without judging. Lori decided to talk to him. She weighed how much to tell him, though. She was afraid he might call her crazy, might laugh and stop listening to her, if she said she didn&#8217;t think the dead body out on the bar floor was human.
-Lori fished her cigarettes from her sweater pocket, shook a fresh one from the pack and sparked it with her butane lighter. Gayle turned her head away and coughed. Lori smiled.
-&#8220;You going to talk to us?&#8221; Gayle asked.
-Lori blew more smoke toward Gayle and focused on Osbourne&#8217;s big, brown hound-dog eyes.
-&#8220;I unlocked the door at eleven,&#8221; she said. &#8220;Right off, this little guy strolled in, just like he owned the place. Augie gave him the once over, went back to stocking the cooler with a case of Red Hook.&#8221;
-&#8220;What did you make of him?&#8221; Osbourne asked.
-&#8220;I saw right off that he was slumming. I can tell the type. But A[...]</itunes:summary>
-		<itunes:keywords>Podcasts</itunes:keywords>
-		<itunes:author>K. C. Ball</itunes:author>
-		<itunes:explicit>yes</itunes:explicit>
-		<itunes:block>no</itunes:block>
-	</item><item>
-		<title>EP455: Keep Your Shape</title>
-		<link>https://escapepod.org/2014/07/21/ep455-keep-shape/</link>
-		<comments>https://escapepod.org/2014/07/21/ep455-keep-shape/#comments</comments>
-		<pubDate>Mon, 21 Jul 2014 13:29:56 +0000</pubDate>
-		<dc:creator><![CDATA[Mat]]></dc:creator>
-				<category><![CDATA[10 and Up]]></category>
-		<category><![CDATA[13 and Up]]></category>
-		<category><![CDATA[17 and Up]]></category>
-		<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[fiction]]></category>
-		<category><![CDATA[free fiction]]></category>
-		<category><![CDATA[keep your shape]]></category>
-		<category><![CDATA[Nathaniel Lee]]></category>
-		<category><![CDATA[Norm Sherman]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[robert sheckley]]></category>
-		<category><![CDATA[sci fi]]></category>
-		<category><![CDATA[science]]></category>
-		<category><![CDATA[science fiction]]></category>
-
-		<guid isPermaLink="false">https://escapepod.org/?p=4832</guid>
-		<description><![CDATA[<p>by Robert Sheckley read by Nathaniel Lee about the author&#8230; (from Wikipedia) Robert Sheckley was born in Brooklyn, New York. In 1931 the family moved to Maplewood, New Jersey. Sheckley attended Columbia High School, where he discovered science fiction. He graduated in 1946 and hitchhiked to California the same year, where he tried numerous jobs: [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://escapepod.org/2014/07/21/ep455-keep-shape/">EP455: Keep Your Shape</a> appeared first on <a rel="nofollow" href="https://escapepod.org">Escape Pod</a>.</p>
-]]></description>
-		<wfw:commentRss>https://escapepod.org/2014/07/21/ep455-keep-shape/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-			<enclosure url="https://traffic.libsyn.com/escapepod/EP455_KeepYourShape.mp3" length="29446311" type="audio/mpeg"/>
-		<itunes:duration>0:40:45</itunes:duration>
-		<itunes:subtitle>by Robert Sheckley
-read by Nathaniel Lee
-
-author Robert Sheckley
-
-about the author&#8230;
-(from Wikipedia) Robert Sheckley was born in Brooklyn, New York. In 1931 the family moved to Maplewood, New Jersey. Sheckley attended Columbia High School, whe[...]</itunes:subtitle>
-		<itunes:summary>by Robert Sheckley
-read by Nathaniel Lee
-
-author Robert Sheckley
-
-about the author&#8230;
-(from Wikipedia) Robert Sheckley was born in Brooklyn, New York. In 1931 the family moved to Maplewood, New Jersey. Sheckley attended Columbia High School, where he discovered science fiction. He graduated in 1946 and hitchhiked to California the same year, where he tried numerous jobs: landscape gardener, pretzel salesman, barman, milkman, warehouseman, and general laborer &#8220;board man&#8221; in a hand-painted necktie studio. Finally, still in 1946, he joined the U.S. Army and was sent to Korea. During his time in the army he served as a guard, an army newspaper editor, a payroll clerk, and guitarist in an army band. He left the service in 1948.
-Sheckley then attended New York University, where he received an undergraduate degree in 1951. The same year he married for the first time, to Barbara Scadron. The couple had one son, Jason. Sheckley worked in an aircraft factory and as an assistant metallurgist for a short time, but his breakthrough came quickly: in late 1951 he sold his first story, Final Examination, to Imagination magazine. He quickly gained prominence as a writer, publishing stories in Imagination, Galaxy, and other science fiction magazines. The 1950s saw the publication of Sheckley&#8217;s first four books: short story collections Untouched by Human Hands (Ballantine, 1954), Citizen in Space (1955), and Pilgrimage to Earth (Bantam, 1957), and a novel, Immortality, Inc. (first published as a serial in Galaxy, 1958).
-Sheckley and Scadron divorced in 1956. The writer married journalist Ziva Kwitney in 1957. The newly married couple lived in Greenwich Village. Their daughter, Alisa Kwitney, born in 1964, would herself become a successful writer. Applauded by critic Kingsley Amis, Sheckley was now selling many of his deft, satiric stories to mainstream magazines such as Playboy. In addition to his science fiction stories, in 1960s Sheckley started writing suspense fiction. More short story collections and novels appeared in the 1960s, and a film adaptation of an early story by Sheckley, The 10th Victim, was released in 1965.
-Sheckley spent much of 1970s living on Ibiza. He and Kwitney divorced in 1972 and the same year Sheckley married Abby Schulman, whom he had met in Ibiza. The couple had two children, Anya and Jed. The couple separated while living in London. In 1980, the writer returned to the United States and became fiction editor of the newly established OMNI magazine. Sheckley left OMNI in 1981 with his fourth wife, writer Jay Rothbell a.k.a. Jay Sheckley, and they subsequently traveled widely in Europe, finally ending up in Portland, Oregon, where they separated. He married Gail Dana of Portland in 1990. Sheckley continued publishing further science fiction and espionage/mystery stories, and collaborated with other writers such as Roger Zelazny and Harry Harrison.
-During a 2005 visit to Ukraine for the Ukrainian Sci-Fi Computer Week, an international event for science fiction writers, Sheckley fell ill and had to be hospitalized in Kiev on April 27. His condition was very serious for one week, but he appeared to be slowly recovering. Sheckley&#8217;s official website ran a fundraising campaign to help cover Sheckley&#8217;s treatment and his return to the United States. Sheckley settled in Red Hook, in northern Dutchess County, New York, to be near his daughters Anya and Alisa. On November 20 he had surgery for a brain aneurysm; he died in a Poughkeepsie hospital on December 9, 2005.
-about the narrator&#8230;
-Nathaniel Lee is Escape Pod&#8217;s assistant editor and sometime contributor. &#160;His writing can be found at various online venues, including Daily Science Fiction, Intergalactic Medicine Show, and all of the EA podcasts. &#160;He lives somewhat unwillingly in North Carolina with his wife and son and their obligatory authorial cats.
-
-Keep Your Shape
-by Robert Sheckley
-Pid the Pilot slowed the ship almost to a stands[...]</itunes:summary>
-		<itunes:keywords>Podcasts</itunes:keywords>
-		<itunes:author>Robert Sheckley</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>no</itunes:block>
 	</item></channel>
 </rss>

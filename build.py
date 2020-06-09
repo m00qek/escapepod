@@ -6,7 +6,7 @@ from re import compile
 
 import glob
 
-regex = compile(r'https://.*/EP(?P<episode>.+)\.mp3')
+regex = compile(r'"https://(?:(?!/EP).)+/EP(?P<episode>(?:(?!\.mp3").)+)\.mp3"')
 
 def load_episodes(feed, from_dir):
     episodes = sorted(glob.glob(from_dir + '/*.xml'))
@@ -17,7 +17,7 @@ def use_https(text):
     return text.replace('http://', 'https://')
 
 def renew_links(text):
-    return regex.sub(r'https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3', text)
+    return regex.sub(r'"https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3"', text)
 
 if __name__ == "__main__":
     generated_file = 'generated/feeds/old-episodes.xml'
