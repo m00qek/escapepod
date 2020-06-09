@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-
-import xml.etree.ElementTree as ET
-import glob
-
+from lxml.etree import ElementTree, XMLParser, parse
 from tempfile import TemporaryDirectory
 from collections import OrderedDict
 from shutil import copyfile, rmtree
 from os import mkdir
+
+import glob
 
 def title_to_filename(title):
     return title.replace('/', '-')
@@ -14,10 +13,10 @@ def title_to_filename(title):
 def save_podcast(to_dir, prefix, xml):
     title = xml.findall('./title')[0]
     filename = '{0}/{1} -- {2}.xml'.format(to_dir, prefix, title_to_filename(title.text))
-    ET.ElementTree(xml).write(filename)
+    ElementTree(xml).write(filename)
 
 def split_feed(to_dir, file_index, file):
-    root = ET.parse(file).getroot()
+    root = parse(file, XMLParser(strip_cdata=False)).getroot()
     for index, item in enumerate(root.findall('./channel/item'), start=1):
         save_podcast(to_dir, '{0:02d} - {1:02d}'.format(file_index, index), item)
 
@@ -40,6 +39,6 @@ def split(from_dir, to_dir):
         deduplicate_episodes(tmp_dir, to_dir)
 
 if __name__ == "__main__":
-    mkdir('episodes') 
+    mkdir('episodes')
     split('feeds/original/rss-2', 'episodes/rss-2')
     split('feeds/original/rss-1', 'episodes/rss-1')
