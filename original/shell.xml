@@ -1,14 +1,15 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-	<title>Escape Pod Legacy</title>
+	<title>Old Episodes - Escape Pod</title>
 	<atom:link href="http://escapepod.org/feed/" rel="self" type="application/rss+xml"/>
 	<link>http://escapepod.org</link>
 	<description>The Science Fiction Podcast Magazine.  Each week Escape Pod delivers science fiction short stories from today's best authors.  Listen today, and hear the new sound of science fiction!</description>
-	<lastBuildDate>Wed, 23 Jul 2014 13:55:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Jun 2014 05:14:33 +0000</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<!-- podcast_generator="podPress/8.8.10.17" -->
 	<copyright>2005-2012 http://creativecommons.org/licenses/by-nc-nd/3.0</copyright>
 	<managingEditor>editor@escapepod.org (Escape Pod)</managingEditor>
 	<webMaster>editor@escapepod.org (Escape Pod)</webMaster>
