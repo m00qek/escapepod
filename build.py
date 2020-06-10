@@ -3,10 +3,13 @@
 from lxml.etree import XMLParser, parse
 from fileinput import FileInput
 from re import compile
+from functools import reduce
 
 import glob
 
-regex = compile(r'"https://(?:(?!/EP).)+/EP(?P<episode>(?:(?!\.mp3").)+)\.mp3"')
+patterns = [(compile(r'http://'), r'https://'),
+            (compile(r'"https://(?:(?!/EP).)+/EP(?P<episode>(?:(?!\.mp3").)+)\.mp3"'), r'"https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3"'),
+            (compile(r'"https://[^"]+/podcast-mini4\.gif"'), r'"https://escapepod.org/wp-images/podcast-mini4.gif"')]
 
 def load_episodes(feed, from_dir):
     episodes = sorted(glob.glob(from_dir + '/*.xml'))
@@ -14,10 +17,7 @@ def load_episodes(feed, from_dir):
         feed.append(parse(ep, XMLParser(strip_cdata=False)).getroot())
 
 def replace(text):
-    return text.replace('http://', 'https://').replace('https://escape.extraneous.org/wp-images/podcast-mini4.gif', 'https://escapepod.org/wp-images/podcast-mini4.gif')
-
-def renew_links(text):
-    return regex.sub(r'"https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3"', text)
+    return reduce(lambda t, pattern: pattern[0].sub(pattern[1], t), patterns, text)
 
 if __name__ == "__main__":
     generated_file = 'generated/feeds/old-episodes.xml'
@@ -32,4 +32,4 @@ if __name__ == "__main__":
 
     with FileInput(generated_file, inplace=True) as file:
         for line in file:
-            print(renew_links(replace(line)), end='')
+            print(replace(line), end='')
