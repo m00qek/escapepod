@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2enclosuresfull.xsl" type="text/xsl" media="screen"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?>
+<!-- generator="wordpress/1.5" -->
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Escape Pod</title>
+    <link>http://escape.extraneous.org</link>
+    <description>The world's first science fiction podcast magazine</description>
+    <pubDate>Thu, 19 May 2005 05:12:58 +0000</pubDate>
+    <generator>http://wordpress.org/?v=1.5</generator>
+    <language>en</language>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/2.0/</creativeCommons:license>
+    <image>
+      <link>http://creativecommons.org/licenses/by-nc-nd/2.0/</link>
+      <url>http://creativecommons.org/images/public/somerights20.gif</url>
+      <title>Some Rights Reserved</title>
+    </image>
+    <feedburner:browserFriendly>This is a podcast XML content feed. It is intended to be viewed in a podcatching application or podcast-capable newsreader or syndicated to another site.</feedburner:browserFriendly>
+    <atom:link xmlns:atom="http://purl.org/atom/ns#" rel="start" href="http://escape.extraneous.org/podcast.xml" type="application/rss+xml">http://escape.extraneous.org</atom:link>
+    <item>
+      <title>EP002: Feng Burger</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=5</link>
+      <comments>http://escape.extraneous.org/2005/05/19/ep002-feng-burger/#comments</comments>
+      <pubDate>Thu, 19 May 2005 01:09:00 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category>Podcasts</category>
+      <guid isPermaLink="false">http://escape.extraneous.org/2005/05/19/ep002-feng-burger/</guid>
+      <description><![CDATA[By John Aegard.  
+Read by Stephen Eley.
+
+The Chinese are particular about their designs, and for good reason.  A design with good feng shui -- one that satisfies the universe's sense of metaphor -- attracts chi, the energy that raises mountains and pushes rivers and draws good fortune near and keeps tax collectors far [...]]]></description>
+      <content:encoded><![CDATA[<p><b>By John Aegard.</b><br />
+Read by Stephen Eley.</p>
+
+<p><i>The Chinese are particular about their designs, and for good reason.  A design with good <u>feng shui</u> &#8212; one that satisfies the universe&#8217;s sense of metaphor &#8212; attracts <u>chi</u>, the energy that raises mountains and pushes rivers and draws good fortune near and keeps tax collectors far away.  Whether by accident or design, no one can say, but the Burger Pods have potent <u>feng shui</u>.  Where normal men would see nothing but gleaming stainless-steel cabinets and a charbroiling grill, a <u>feng shui</u> practitioner would see arms and hands, cradling the Burger Pod&#8217;s occupant and bathing her in <u>chi</u>.</i></p>
+
+<p><b>Rated PG-13.</b>  Contains sexual innuendo, mild profanity, and food service employees slacking off.</p>
+
+<p><a HREF="http://escape.extraneous.org/media/EP002_FengBurger.mp3">Download this week&#8217;s Escape Pod.</a> </p>]]></content:encoded>
+      <wfw:commentRSS>http://escape.extraneous.org/2005/05/19/ep002-feng-burger/feed/</wfw:commentRSS>
+      <enclosure url="http://escape.extraneous.org/media/EP002_FengBurger.mp3" length="13920265" type="audio/mpeg" />
+      <media:item url="http://escape.extraneous.org/media/EP002_FengBurger.mp3" fileSize="13920265" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:item>
+      <feedburner:origLink>http://escape.extraneous.org/2005/05/19/ep002-feng-burger/</feedburner:origLink>
+    </item>
+    <item>
+      <title>The Seanachai</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=4</link>
+      <comments>http://escape.extraneous.org/2005/05/16/the-seanachai/#comments</comments>
+      <pubDate>Mon, 16 May 2005 11:38:18 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category>Shoutouts</category>
+      <guid isPermaLink="false">http://escape.extraneous.org/2005/05/16/the-seanachai/</guid>
+      <description><![CDATA[[A great podcast I just discovered this morning.](http://goodwordsrightorder.com)   A seanachai was an Irish bard or storyteller, and Patrick McLean has nailed the art of packing an entertaining story into a five minute (give or take) podcast.  His voice is excellent, his sound production is clean and diverse, and above all, his stories [...]]]></description>
+      <content:encoded><![CDATA[<p><a href="http://goodwordsrightorder.com">A great podcast I just discovered this morning.</a>   A seanachai was an Irish bard or storyteller, and Patrick McLean has nailed the art of packing an entertaining story into a five minute (give or take) podcast.  His voice is excellent, his sound production is clean and diverse, and above all, his stories are <em>fun.</em>  The one about the man who stole a semi truck full of nickels (<a href="http://www.goodwordsrightorder.com.nyud.net:8090/episodes/getaway.mp3">mp3</a>) was all it took to get me hooked.</p>]]></content:encoded>
+      <wfw:commentRSS>http://escape.extraneous.org/2005/05/16/the-seanachai/feed/</wfw:commentRSS>
+      <enclosure url="http://www.goodwordsrightorder.com.nyud.net:8090/episodes/getaway.mp3" length="5908359" type="audio/mpeg" />
+      <media:item url="http://www.goodwordsrightorder.com.nyud.net:8090/episodes/getaway.mp3" fileSize="5908359" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:item>
+      <feedburner:origLink>http://escape.extraneous.org/2005/05/16/the-seanachai/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=3</link>
+      <comments>http://escape.extraneous.org/2005/05/16/schedule/#comments</comments>
+      <pubDate>Mon, 16 May 2005 09:45:12 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category>Site News</category>
+      <guid isPermaLink="false">http://escape.extraneous.org/2005/05/16/schedule/</guid>
+      <description><![CDATA[Just a clarification, as I realized it wasn't mentioned anywhere here:
+
+**Escape Pod** is a weekly podcast.  New issues will be released here on Thursdays.  Exactly *when* on Thursday may be variable, although hopefully it won't be just before midnight again.
+
+Between Thursday releases we may put up other content on an irregular basis.  [...]]]></description>
+      <content:encoded><![CDATA[<p>Just a clarification, as I realized it wasn&#8217;t mentioned anywhere here:</p>
+
+<p><strong>Escape Pod</strong> is a weekly podcast.  New issues will be released here on Thursdays.  Exactly <em>when</em> on Thursday may be variable, although hopefully it won&#8217;t be just before midnight again.</p>
+
+<p>Between Thursday releases we may put up other content on an irregular basis.  It could be simple blog posts like this one, with genre news or book reviews or mentions of other interesting sites; or we may podcast short &#8220;flash&#8221; fiction pieces, or anything else that amuses us.</p>
+
+<p>So it&#8217;s worthwhile to check here often.  But if you can&#8217;t do that, check here late Thursday or early Friday.  Even better, point your RSS newsreader or <a href="/podcasting">podcatcher</a> at us and let it all happen automagically.</p>
+
+<p>Any questions?</p>]]></content:encoded>
+      <wfw:commentRSS>http://escape.extraneous.org/2005/05/16/schedule/feed/</wfw:commentRSS>
+      <feedburner:origLink>http://escape.extraneous.org/2005/05/16/schedule/</feedburner:origLink>
+    </item>
+    <item>
+      <title>EP001: ‘Imperial’ by Jonathon Sullivan</title>
+      <link>http://feeds.feedburner.com/EscapePod?m=2</link>
+      <comments>http://escape.extraneous.org/2005/05/12/ep001-imperial-by-jonathon-sullivan/#comments</comments>
+      <pubDate>Thu, 12 May 2005 23:18:59 +0000</pubDate>
+      <dc:creator>SFEley</dc:creator>
+      <category>Podcasts</category>
+      <guid isPermaLink="false">http://escape.extraneous.org/2005/05/12/ep001-imperial-by-jonathon-sullivan/</guid>
+      <description><![CDATA[Our debut issue!
+
+Dennis blinked through his dripping eyelashes at the irresistible abomination seated on the blue-green grass two meters in front of him. The Pig smiled her bio-engineered leopard-smile at him and kept her right hand prominently in contact with the stun-gun at her hip.
+
+He stared, too choked with shock, desire and tepid river water [...]]]></description>
+      <content:encoded><![CDATA[<p>Our debut issue!</p>
+
+<p><i>Dennis blinked through his dripping eyelashes at the irresistible abomination seated on the blue-green grass two meters in front of him. The Pig smiled her bio-engineered leopard-smile at him and kept her right hand prominently in contact with the stun-gun at her hip.</i></p>
+
+<p><i>He stared, too choked with shock, desire and tepid river water to speak.</i></p>
+
+<p><strong>Warning: This story is not work-safe or family-safe.</strong>  It contains profanity, sexual content, politics, and sarcasm.  </p>
+
+<p><a href="http://escape.extraneous.org/media/EP001_Imperial.mp3">Download this week&#8217;s Escape Pod.</a></p>]]></content:encoded>
+      <wfw:commentRSS>http://escape.extraneous.org/2005/05/12/ep001-imperial-by-jonathon-sullivan/feed/</wfw:commentRSS>
+      <enclosure url="http://escape.extraneous.org/media/EP001_Imperial.mp3" length="19034011" type="audio/mpeg" />
+      <media:item url="http://escape.extraneous.org/media/EP001_Imperial.mp3" fileSize="19034011" type="audio/mpeg">
+        <media:adult>false</media:adult>
+      </media:item>
+      <feedburner:origLink>http://escape.extraneous.org/2005/05/12/ep001-imperial-by-jonathon-sullivan/</feedburner:origLink>
+    </item>
+  </channel>
+</rss>
+

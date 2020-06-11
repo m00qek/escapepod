@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2enclosuresfull.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?><!-- generator="wordpress/2.1.2" --><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Escape Pod</title>
+	<link>http://www.escapepod.org</link>
+	<description>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</description>
+	<pubDate>Tue, 03 Apr 2007 19:24:13 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.1.2</generator>
+	<language>en</language>
+		<!-- podcast_generator="podPress/7.6" -->
+		<copyright>©Stephen Eley </copyright>
+		<managingEditor>editor@escapepod.org (Stephen Eley)</managingEditor>
+		<webMaster>editor@escapepod.org</webMaster>
+		<category>science fiction</category>
+		<ttl>1440</ttl>
+		<itunes:keywords>science fiction, stories, fiction, audiobooks, fantasy, sf, authors, short stories</itunes:keywords>
+		<itunes:subtitle />
+		<itunes:summary>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We're also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</itunes:summary>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:category text="Arts">
+  <itunes:category text="Literature" />
+</itunes:category>
+<itunes:category text="Arts">
+  <itunes:category text="Performing Arts" />
+</itunes:category>
+		<itunes:owner>
+			<itunes:name>Stephen Eley</itunes:name>
+			<itunes:email>editor@escapepod.org</itunes:email>
+		</itunes:owner>
+		<itunes:block>No</itunes:block>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.escapepod.org/wp-images/pod-org-icon300.jpg" />
+		<image><link>http://escape.extraneous.org</link><url>http://escape.extraneous.org/wp-images/pod-icon128.jpg</url><title>Escape Pod</title></image>
+		<media:rating scheme="urn:simple">nonadult</media:rating><creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/2.0/</creativeCommons:license><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://escape.extraneous.org/podcast.xml" type="application/rss+xml" /><feedburner:browserFriendly>This is a podcast XML content feed. It is intended to be viewed in a podcatching application or podcast-capable newsreader or syndicated to another site.</feedburner:browserFriendly><item>
+		<title>EP Review: Echelon</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/106383597/</link>
+		<comments>http://www.escapepod.org/2007/04/03/ep-review-echelon/#comments</comments>
+		<pubDate>Tue, 03 Apr 2007 19:24:13 +0000</pubDate>
+		<dc:creator>Sullydog</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/2007/04/03/ep-review-echelon/</guid>
+		<description><![CDATA[Download Standard Podcast]]></description>
+			<content:encoded><![CDATA[<br /><a href="http://www.escapepod.org/podpress_trac/web/212/0/EPReview020_Echelon.mp3">Download Standard Podcast</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/04/03/ep-review-echelon/feed/</wfw:commentRss>
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/212/0/EPReview020_Echelon.mp3" length="5406790" type="audio/mpeg" />
+<itunes:duration>7:31</itunes:duration>
+		<itunes:subtitle>Download Standard Podcast </itunes:subtitle>
+		<itunes:summary>Download Standard Podcast</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG,,Reviews</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://www.escapepod.org/podpress_trac/feed/212/0/EPReview020_Echelon.mp3" fileSize="5406790" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/04/03/ep-review-echelon/</feedburner:origLink></item>
+		<item>
+		<title>EP099: Start the Clock</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/105101588/</link>
+		<comments>http://www.escapepod.org/2007/03/29/ep099-start-the-clock/#comments</comments>
+		<pubDate>Thu, 29 Mar 2007 08:00:19 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/2007/03/29/ep099-start-the-clock/</guid>
+		<description><![CDATA[By Benjamin Rosenbaum.
+Read by Chris Fisher (of The Adult Space Childfree Podcast).
+First appeared in The Magazine of Fantasy &#38; Science Fiction, August 2004.
+
+Frankly, we were excited. This move was what our Pack needed &#8212; the four of us, at least, were sure of it. We were all tired of living in the ghetto &#8212; we [...]]]></description>
+			<content:encoded><![CDATA[By Benjamin Rosenbaum.
+Read by Chris Fisher (of The Adult Space Childfree Podcast).
+First appeared in The Magazine of Fantasy &amp; Science Fiction, August 2004.
+
+Frankly, we were excited. This move was what our Pack needed &#8212; the four of us, at least, were sure of it. We were all tired of living in the ghetto &#8212; we were in three twentieth-century townhouses in Billings, in an &#8220;age-mixed&#8221; area full of marauding Thirteens and Fourteens and Fifteens. Talk about a people damned by CDAS &#8212; when the virus hit them, it had stuck their pituitaries and thyroids like throttles jammed open. It wasn&#8217;t just the giantism and health problems caused by a thirty-year overdose on growth hormones, testosterone, estrogen, and androgen. They suffered more from their social problems &#8212; criminality, violence, orgies, jealousy &#8212; and their endless self-pity.
+
+Okay, Max liked them. And most of the rest of us had been at least entertained by living in the ghetto. At birthday parties, we could always shock the other Packs with our address. But that was when all eight of us were there, before Katrina and Ogbu went south. With eight of us, we&#8217;d felt like a full Pack &#8212; invincible, strong enough to laugh at anyone.
+
+Rated R.  Contains graphic sexual content and children who are a bit too grown up.  Literally.
+
+Today&#8217;s Sponsor:
+
+
+Referenced Sites:
+Contest: Name the Fantasy Podcast
+WHOIS Gateway Service
+<br /><a href="http://www.escapepod.org/podpress_trac/web/209/0/EP099_StartTheClock.mp3">Download EP099: Start the Clock</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/03/29/ep099-start-the-clock/feed/</wfw:commentRss>
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/209/0/EP099_StartTheClock.mp3" length="29782496" type="audio/mpeg" />
+<itunes:duration>41:20</itunes:duration>
+		<itunes:subtitle>By Benjamin Rosenbaum.
+Read by Chris Fisher (of The Adult Space Childfree Podcast).
+First appeared in The Magazine of Fantasy  Science Fiction, August 2004.
+
+
+Frankly, we were ...</itunes:subtitle>
+		<itunes:summary>By Benjamin Rosenbaum.
+Read by Chris Fisher (of The Adult Space Childfree Podcast).
+First appeared in The Magazine of Fantasy  Science Fiction, August 2004.
+
+
+Frankly, we were excited. This move was what our Pack needed -- the four of us, at least, were sure of it. We were all tired of living in the ghetto -- we were in three twentieth-century townhouses in Billings, in an "age-mixed" area full of marauding Thirteens and Fourteens and Fifteens. Talk about a people damned by CDAS -- when the virus hit them, it had stuck their pituitaries and thyroids like throttles jammed open. It wasn't just the giantism and health problems caused by a thirty-year overdose on growth hormones, testosterone, estrogen, and androgen. They suffered more from their social problems -- criminality, violence, orgies, jealousy -- and their endless self-pity.
+
+Okay, Max liked them. And most of the rest of us had been at least entertained by living in the ghetto. At birthday parties, we could always shock the other Packs with our address. But that was when all eight of us were there, before Katrina and Ogbu went south. With eight of us, we'd felt like a full Pack -- invincible, strong enough to laugh at anyone.
+
+
+Rated R.  Contains graphic sexual content and children who are a bit too grown up.  Literally.
+
+Today's Sponsor:
+
+
+Referenced Sites:
+Contest: Name the Fantasy Podcast
+WHOIS Gateway ServiceDownload EP099: Start the Clock</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+		<itunes:author>Benjamin Rosenbaum</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://www.escapepod.org/podpress_trac/feed/209/0/EP099_StartTheClock.mp3" fileSize="29782496" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/03/29/ep099-start-the-clock/</feedburner:origLink></item>
+		<item>
+		<title>EP098: Just Do It</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/103517731/</link>
+		<comments>http://www.escapepod.org/2007/03/22/ep098-just-do-it/#comments</comments>
+		<pubDate>Thu, 22 Mar 2007 06:50:55 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/2007/03/22/ep098-just-do-it/</guid>
+		<description><![CDATA[By Heather Lindsley.
+Read by The Word Whore (of Air Out My Shorts).
+First appeared in The Magazine of Fantasy &#38; Science Fiction, July 2006.
+
+&#8220;What do you see?&#8221; he asks.
+
+I want to say a menace, but instead I tap the delivery barrel and give the context-appropriate answer.  &#8220;Unused ad space.&#8221;
+
+Suddenly he&#8217;s a schoolmaster who has finally [...]]]></description>
+			<content:encoded><![CDATA[By Heather Lindsley.
+Read by The Word Whore (of Air Out My Shorts).
+First appeared in The Magazine of Fantasy &amp; Science Fiction, July 2006.
+
+&#8220;What do you see?&#8221; he asks.
+
+I want to say a menace, but instead I tap the delivery barrel and give the context-appropriate answer.  &#8220;Unused ad space.&#8221;
+
+Suddenly he&#8217;s a schoolmaster who has finally found a bright pupil in a classroom full of dunces.
+
+&#8220;Exactly, Ms. Monroe.  Exactly.  No square millimeter wasted, that&#8217;s what I say.&#8221;  He leans across the table and whispers conspiratorially, &#8220;We&#8217;re looking at co-branding an AOL-Time-Warner-Starbucks Lattepaloosa Crave with a Forever Fitness session discount.&#8221;
+
+Rated R.  Contains sexual innuendo, advertising warfare, and better living through chemistry.
+<br /><a href="http://www.escapepod.org/podpress_trac/web/208/0/EP098_JustDoIt.mp3">Download EP098: Just Do It</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/03/22/ep098-just-do-it/feed/</wfw:commentRss>
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/208/0/EP098_JustDoIt.mp3" length="28102607" type="audio/mpeg" />
+<itunes:duration>39:00</itunes:duration>
+		<itunes:subtitle>By Heather Lindsley.
+Read by The Word Whore (of Air Out My Shorts).
+First appeared in The Magazine of Fantasy  Science Fiction, July 2006.
+
+
+"What do you ...</itunes:subtitle>
+		<itunes:summary>By Heather Lindsley.
+Read by The Word Whore (of Air Out My Shorts).
+First appeared in The Magazine of Fantasy  Science Fiction, July 2006.
+
+
+"What do you see?" he asks.
+
+I want to say a menace, but instead I tap the delivery barrel and give the context-appropriate answer.  "Unused ad space."
+
+Suddenly he's a schoolmaster who has finally found a bright pupil in a classroom full of dunces.
+
+"Exactly, Ms. Monroe.  Exactly.  No square millimeter wasted, that's what I say."  He leans across the table and whispers conspiratorially, "We're looking at co-branding an AOL-Time-Warner-Starbucks Lattepaloosa Crave with a Forever Fitness session discount."
+
+
+Rated R.  Contains sexual innuendo, advertising warfare, and better living through chemistry.
+Download EP098: Just Do It</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://www.escapepod.org/podpress_trac/feed/208/0/EP098_JustDoIt.mp3" fileSize="28102607" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/03/22/ep098-just-do-it/</feedburner:origLink></item>
+		<item>
+		<title>EP BONUS: Ancestor by Scott Sigler</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/102712294/</link>
+		<comments>http://www.escapepod.org/2007/03/19/ep-bonus-ancestor-by-scott-sigler/#comments</comments>
+		<pubDate>Mon, 19 Mar 2007 04:01:20 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[SF/F News]]></category>
+
+		<category><![CDATA[Shoutouts]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/2007/03/19/ep-bonus-ancestor-by-scott-sigler/</guid>
+		<description><![CDATA[
+
+As part of Scott&#8217;s &#8220;Monday Bloody Monday&#8221; campaign, we&#8217;re giving you the full text of his novel for free.
+
+The paperback will be available on April 1st.  Scott wants to hit #1 that day by having everyone order from Amazon at noon Pacific time.  So if you like what you&#8217;re reading, support him by [...]]]></description>
+			<content:encoded><![CDATA[
+
+As part of Scott&#8217;s &#8220;Monday Bloody Monday&#8221; campaign, we&#8217;re giving you the full text of his novel for free.
+
+The paperback will be available on April 1st.  Scott wants to hit #1 that day by having everyone order from Amazon at noon Pacific time.  So if you like what you&#8217;re reading, support him by buying the book!
+<br /><a href="http://www.escapepod.org/podpress_trac/web/201/0/Ancestor_ScottSigler.pdf">Download Ancestor</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/03/19/ep-bonus-ancestor-by-scott-sigler/feed/</wfw:commentRss>
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/201/0/Ancestor_ScottSigler.pdf" length="1" type="application/pdf" />
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>As part of Scott's _"Monday Bloody Monday"_ campaign, we're giving you the full text of his novel for free.  
+
+The paperback will be available ...</itunes:subtitle>
+		<itunes:summary>As part of Scott's _"Monday Bloody Monday"_ campaign, we're giving you the full text of his novel for free.  
+
+The paperback will be available on April 1st.  Scott wants to hit #1 that day by having everyone order from Amazon at noon Pacific time.  So if you like what you're reading, support him by buying the book!
+Download Ancestor</itunes:summary>
+		<itunes:keywords>SF/F,News,,Shoutouts</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://www.escapepod.org/podpress_trac/feed/201/0/Ancestor_ScottSigler.pdf" fileSize="1" type="application/pdf" /><feedburner:origLink>http://www.escapepod.org/2007/03/19/ep-bonus-ancestor-by-scott-sigler/</feedburner:origLink></item>
+		<item>
+		<title>EP Review: 300</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/102339563/</link>
+		<comments>http://www.escapepod.org/2007/03/17/ep-review-300/#comments</comments>
+		<pubDate>Sat, 17 Mar 2007 15:36:47 +0000</pubDate>
+		<dc:creator>Sullydog</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/2007/03/17/ep-review-300/</guid>
+		<description><![CDATA[Download Standard Podcast]]></description>
+			<content:encoded><![CDATA[<br /><a href="http://www.escapepod.org/podpress_trac/web/207/0/EPReview019_300.mp3">Download Standard Podcast</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/03/17/ep-review-300/feed/</wfw:commentRss>
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/207/0/EPReview019_300.mp3" length="6074779" type="audio/mpeg" />
+<itunes:duration>8:26</itunes:duration>
+		<itunes:subtitle>Download Standard Podcast </itunes:subtitle>
+		<itunes:summary>Download Standard Podcast</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG,,Reviews</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://www.escapepod.org/podpress_trac/feed/207/0/EPReview019_300.mp3" fileSize="6074779" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/03/17/ep-review-300/</feedburner:origLink></item>
+		<item>
+		<title>EP97: Cinderella Suicide</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/101984814/</link>
+		<comments>http://www.escapepod.org/2007/03/15/ep97-cinderella-suicide/#comments</comments>
+		<pubDate>Thu, 15 Mar 2007 19:55:13 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/2007/03/15/ep97-cinderella-suicide/</guid>
+		<description><![CDATA[(Technical Note: There was an encoding error in the original that resulted in a few skipped seconds at 15:00.  I&#8217;ve corrected it.  If this bothered you, please download the file again.  If you just want to know what you missed: Suicide asks &#8220;Split?&#8221; and Tintype replies &#8220;Each.&#8221;  Sorry for the inconvenience, [...]]]></description>
+			<content:encoded><![CDATA[(Technical Note: There was an encoding error in the original that resulted in a few skipped seconds at 15:00.  I&#8217;ve corrected it.  If this bothered you, please download the file again.  If you just want to know what you missed: Suicide asks &#8220;Split?&#8221; and Tintype replies &#8220;Each.&#8221;  Sorry for the inconvenience, and thanks to Thaurismunths for pointing out the problem.)
+
+By Samantha Henderson.
+Read by MarBelle (of Director&#8217;s Notes).
+First appeared in Strange Horizons, May 2006.
+
+List, then. 1788, New Holland becomes New South Wales, and dear England starts to send her slithies there, her dribs and drabs and pick-pocks and whores and cutthroats, to drain the cesspool Britannia&#8217;s become. And then we pin the gravitational constant, and solve Pringle&#8217;s Mysterious Logarithm, and then just when we&#8217;re ready for it there&#8217;s an explosion of a different sort (I&#8217;m a proud product of my state school, whoreboy though I became). From the skies over Van Diemen&#8217;s Land streaks a merry flaming angel arcing down to earth and boom! Kills most of the slithies, and their Bulls, and the Murri and the Nunga in their Dreamtime too, far as any know. Sky goes red from Yangtze to Orkney. A few Nunga are left, fishing the Outer Isles. And more slithies come soon, for England&#8217;s still all-of-cess, and we&#8217;d just as soon have them die.
+
+But! Scattered all about, like Father Christmas tossing pennies, rare earth, yttrium and scandium in luscious ashy chunks. And soon there are Magnetic Clocks, and Automatons, and Air-Cars, and good Queen Vickie trulls about in a Magnetic Carriage like everybody else. But still there is cess, and ever will be, pretend as they might at home, so still the slithies are transported.
+
+And a good thing for Merrie Olde too, because nowhere is there as much rare earth as Australia, being that&#8217;s where the Great Boom happened, and nothing so useful for gathering ore and jellies as a big jolly family of convicts. Work for the Squatters when you&#8217;re Docked; work for them after you serve your time and are pensioned, but on your own terms. Or whore-about. Or prentice to the tech gnomes. Or mine gold, which never goes out of style. Or wander the Nullarbor, looking for the Source, and die. Or fish with the Nunga, if they&#8217;d have you, which they won&#8217;t. Stick with your duet/triune mates, if you would live out the year.
+
+Always something to do.
+
+But don&#8217;t fly, not much, because the variable-mag will crash you deep, and don&#8217;t depend on Carriages to work all the time. Beware your metal, for it can betray you.
+
+Rated PG.  Contains violence, unsavory characters, and opaque slang.
+
+Referenced Links:
+Scott Sigler
+Podiobooks.com
+<br /><a href="http://www.escapepod.org/podpress_trac/web/200/0/EP097_CinderellaSuicide.mp3">Download EP097: Cinderella Suicide</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/03/15/ep97-cinderella-suicide/feed/</wfw:commentRss>
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/200/0/EP097_CinderellaSuicide.mp3" length="30622597" type="audio/mpeg" />
+<itunes:duration>42:30</itunes:duration>
+		<itunes:subtitle>(Technical Note: There was an encoding error in the original that resulted in a few skipped seconds at 15:00.  I've corrected it.  If ...</itunes:subtitle>
+		<itunes:summary>(Technical Note: There was an encoding error in the original that resulted in a few skipped seconds at 15:00.  I've corrected it.  If this bothered you, please download the file again.  If you just want to know what you missed: Suicide asks "Split?" and Tintype replies "Each."  Sorry for the inconvenience, and thanks to Thaurismunths for pointing out the problem.)
+
+By Samantha Henderson.
+Read by MarBelle (of Director's Notes).
+First appeared in Strange Horizons, May 2006.
+
+
+List, then. 1788, New Holland becomes New South Wales, and dear England starts to send her slithies there, her dribs and drabs and pick-pocks and whores and cutthroats, to drain the cesspool Britannia's become. And then we pin the gravitational constant, and solve Pringle's Mysterious Logarithm, and then just when we're ready for it there's an explosion of a different sort (I'm a proud product of my state school, whoreboy though I became). From the skies over Van Diemen's Land streaks a merry flaming angel arcing down to earth and boom! Kills most of the slithies, and their Bulls, and the Murri and the Nunga in their Dreamtime too, far as any know. Sky goes red from Yangtze to Orkney. A few Nunga are left, fishing the Outer Isles. And more slithies come soon, for England's still all-of-cess, and we'd just as soon have them die.
+
+But! Scattered all about, like Father Christmas tossing pennies, rare earth, yttrium and scandium in luscious ashy chunks. And soon there are Magnetic Clocks, and Automatons, and Air-Cars, and good Queen Vickie trulls about in a Magnetic Carriage like everybody else. But still there is cess, and ever will be, pretend as they might at home, so still the slithies are transported.
+
+And a good thing for Merrie Olde too, because nowhere is there as much rare earth as Australia, being that's where the Great Boom happened, and nothing so useful for gathering ore and jellies as a big jolly family of convicts. Work for the Squatters when you're Docked; work for them after you serve your time and are pensioned, but on your own terms. Or whore-about. Or prentice to the tech gnomes. Or mine gold, which never goes out of style. Or wander the Nullarbor, looking for the Source, and die. Or fish with the Nunga, if they'd have you, which they won't. Stick with your duet/triune mates, if you would live out the year.
+
+Always something to do.
+
+But don't fly, not much, because the variable-mag will crash you deep, and don't depend on Carriages to work all the time. Beware your metal, for it can betray you.
+
+
+Rated PG.  Contains violence, unsavory characters, and opaque slang.
+
+Referenced Links:
+Scott Sigler
+Podiobooks.comDownload EP097: Cinderella Suicide</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://www.escapepod.org/podpress_trac/feed/200/0/EP097_CinderellaSuicide.mp3" fileSize="30622597" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/03/15/ep97-cinderella-suicide/</feedburner:origLink></item>
+		<item>
+		<title>EP096: Job Qualifications</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/100192004/</link>
+		<comments>http://www.escapepod.org/2007/03/08/ep096-job-qualifications/#comments</comments>
+		<pubDate>Thu, 08 Mar 2007 09:00:36 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=199</guid>
+		<description><![CDATA[By Kevin J. Anderson.
+Read by Steve Anderson.
+
+And do I agree with everything they say?
+
+The statements are very much in line with your platform, sir.  Rana formed a paternal smile.  You are, however, welcome to read any of them you like &#8212; in fact, I encourage it.  The experience would be valuable for [...]]]></description>
+			<content:encoded><![CDATA[By Kevin J. Anderson.
+Read by Steve Anderson.
+
+And do I agree with everything they say?
+
+The statements are very much in line with your platform, sir.  Rana formed a paternal smile.  You are, however, welcome to read any of them you like &#8212; in fact, I encourage it.  The experience would be valuable for you.
+
+Candidate Berthold gave a dismissive wave.  That wont be necessary.  Im already tired of the incessant paperwork, and I havent even been elected yet.  He laboriously began to sign each one.  Ill have plenty of time to learn after I get into office.
+
+Rated PG.  Contains moderate violence, suffering, and politics.
+<br /><a href="http://www.escapepod.org/podpress_trac/web/199/0/EP096_JobQualifications.mp3">Download EP096: Job Qualifications</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/03/08/ep096-job-qualifications/feed/</wfw:commentRss>
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/199/0/EP096_JobQualifications.mp3" length="20182498" type="audio/mpeg" />
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>By Kevin J. Anderson.
+Read by Steve Anderson.
+
+
+And do I agree with everything they say?
+
+The statements are very much in line with your platform, sir.  ...</itunes:subtitle>
+		<itunes:summary>By Kevin J. Anderson.
+Read by Steve Anderson.
+
+
+And do I agree with everything they say?
+
+The statements are very much in line with your platform, sir.  Rana formed a paternal smile.  You are, however, welcome to read any of them you like -- in fact, I encourage it.  The experience would be valuable for you.
+
+Candidate Berthold gave a dismissive wave.  That wont be necessary.  Im already tired of the incessant paperwork, and I havent even been elected yet.  He laboriously began to sign each one.  Ill have plenty of time to learn after I get into office.
+
+
+Rated PG.  Contains moderate violence, suffering, and politics.
+Download EP096: Job Qualifications</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://www.escapepod.org/podpress_trac/feed/199/0/EP096_JobQualifications.mp3" fileSize="20182498" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/03/08/ep096-job-qualifications/</feedburner:origLink></item>
+		<item>
+		<title>EP095: Blink. Don’t Blink.</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/97724471/</link>
+		<comments>http://www.escapepod.org/2007/03/01/ep095-blink-dont-blink/#comments</comments>
+		<pubDate>Thu, 01 Mar 2007 05:01:13 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=198</guid>
+		<description><![CDATA[By Ramona Louise Wheeler.
+Read by Salim Fadhley.
+
+&#8220;Blink. Dont blink. Dont blink. Blink.&#8221; The human voice was familiar this time, expected. New orders did not come from computer voices. &#8220;This one will have to happen in a hurry, while were airlifting you to the crash site. It will be rougher than the first.&#8221;
+
+It was. William listened [...]]]></description>
+			<content:encoded><![CDATA[By Ramona Louise Wheeler.
+Read by Salim Fadhley.
+
+&#8220;Blink. Dont blink. Dont blink. Blink.&#8221; The human voice was familiar this time, expected. New orders did not come from computer voices. &#8220;This one will have to happen in a hurry, while were airlifting you to the crash site. It will be rougher than the first.&#8221;
+
+It was. William listened to the hard drone of the aircraft engines in flight. He let that sound become the direction he followed while the pain made him into another shape so swiftly that even he did not know what he was becoming. His nanites had been commanded to emergency pitch. William was certain he could feel them racing through his cells.
+
+Rated PG.  Contains violent crime and unusual punishment.
+
+Listen to this week&#8217;s Escape Pod!
+
+Referenced Sites:
+Stranger Things
+<br /><a href="http://www.escapepod.org/podpress_trac/web/198/0/EP095_BlinkDontBlink.mp3">Download EP095: Blink Don&amp;#039;t Blink</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/03/01/ep095-blink-dont-blink/feed/</wfw:commentRss>
+<enclosure url="http://escapepod.org/media/EP095_BlinkDontBlink.mp3" length="19042730" type="audio/mpeg" />
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/198/0/EP095_BlinkDontBlink.mp3" length="19042730" type="audio/mpeg" />
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>By Ramona Louise Wheeler.
+Read by Salim Fadhley.
+
+
+"Blink. Dont blink. Dont blink. Blink." The human voice was familiar this time, expected. New orders did not come ...</itunes:subtitle>
+		<itunes:summary>By Ramona Louise Wheeler.
+Read by Salim Fadhley.
+
+
+"Blink. Dont blink. Dont blink. Blink." The human voice was familiar this time, expected. New orders did not come from computer voices. "This one will have to happen in a hurry, while were airlifting you to the crash site. It will be rougher than the first."
+ 
+It was. William listened to the hard drone of the aircraft engines in flight. He let that sound become the direction he followed while the pain made him into another shape so swiftly that even he did not know what he was becoming. His nanites had been commanded to emergency pitch. William was certain he could feel them racing through his cells.
+
+
+Rated PG.  Contains violent crime and unusual punishment.
+
+Listen to this week's Escape Pod!
+
+Referenced Sites:
+Stranger Things
+Download EP095: Blink Donamp;#039;t Blink</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>Ramona Louise Wheeler</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://escapepod.org/media/EP095_BlinkDontBlink.mp3" fileSize="19042730" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/03/01/ep095-blink-dont-blink/</feedburner:origLink></item>
+		<item>
+		<title>Interviews with Steve</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/94767174/</link>
+		<comments>http://www.escapepod.org/2007/02/23/interviews-with-steve/#comments</comments>
+		<pubDate>Fri, 23 Feb 2007 14:29:25 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Site News]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=197</guid>
+		<description><![CDATA[I&#8217;m usually not much for self-promotion (to a fault, I&#8217;ve been told) but if anyone here really wants to hear more about how the sausage is made, I did a couple of interviews recently that were released this week:
+
+
+Rusty Tanton of the Georgia Podcast Network spoke with me for about ten minutes about Escape Pod [...]]]></description>
+			<content:encoded><![CDATA[I&#8217;m usually not much for self-promotion (to a fault, I&#8217;ve been told) but if anyone here really wants to hear more about how the sausage is made, I did a couple of interviews recently that were released this week:
+
+
+Rusty Tanton of the Georgia Podcast Network spoke with me for about ten minutes about Escape Pod at the SoCon 2007 unconference last week:
+Listen here.
+
+Bazooka Joe of the Small World Podcast did a much longer and more detailed interview that covered Escape Pod in depth and some of my other opinions on science fiction as a whole:
+Listen here.
+
+]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/02/23/interviews-with-steve/feed/</wfw:commentRss>
+		<feedburner:origLink>http://www.escapepod.org/2007/02/23/interviews-with-steve/</feedburner:origLink></item>
+		<item>
+		<title>EP094: The Last Wave</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/94438331/</link>
+		<comments>http://www.escapepod.org/2007/02/22/196/#comments</comments>
+		<pubDate>Thu, 22 Feb 2007 22:23:34 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated G]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=196</guid>
+		<description><![CDATA[By Kay Kenyon.
+Read by Frank Key (of Hooting Yard and Hooting Yard on the Air).
+
+From what I gather, there are two competing theories about me. The ones who come with binoculars and cameras believe in the monster theory. I consider myself as siding with this group. The scientists, on the other hand, with their annoying [...]]]></description>
+			<content:encoded><![CDATA[By Kay Kenyon.
+Read by Frank Key (of Hooting Yard and Hooting Yard on the Air).
+
+From what I gather, there are two competing theories about me. The ones who come with binoculars and cameras believe in the monster theory. I consider myself as siding with this group. The scientists, on the other hand, with their annoying echolocation devices, hold that Im a prehistoric Earth creature, the last of my kind, cut off from my fellows. Sentimental drivel, of course. Drifting along under their hulls at night, I eavesdrop. They think Im some kind of fish. But if they ever caught me, the DNA analysis would give them a bit of a jolt.
+
+Rated G.  Contains aquatic monsters with a penchant for memorabilia.  That&#8217;s about as scary as it gets.
+<br /><a href="http://www.escapepod.org/podpress_trac/web/196/0/EP094_TheLastWave.mp3">Download EP094: The Last Wave</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/02/22/196/feed/</wfw:commentRss>
+<enclosure url="http://escapepod.org/media/EP094_TheLastWave.mp3" length="20182486" type="audio/mpeg" />
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/196/0/EP094_TheLastWave.mp3" length="20182486" type="audio/mpeg" />
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>By Kay Kenyon.
+Read by Frank Key (of Hooting Yard and Hooting Yard on the Air).
+
+From what I gather, there are two competing theories about me. ...</itunes:subtitle>
+		<itunes:summary>By Kay Kenyon.
+Read by Frank Key (of Hooting Yard and Hooting Yard on the Air).
+
+From what I gather, there are two competing theories about me. The ones who come with binoculars and cameras believe in the monster theory. I consider myself as siding with this group. The scientists, on the other hand, with their annoying echolocation devices, hold that Im a prehistoric Earth creature, the last of my kind, cut off from my fellows. Sentimental drivel, of course. Drifting along under their hulls at night, I eavesdrop. They think Im some kind of fish. But if they ever caught me, the DNA analysis would give them a bit of a jolt.
+
+
+Rated G.  Contains aquatic monsters with a penchant for memorabilia.  That's about as scary as it gets.
+Download EP094: The Last Wave</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,G</itunes:keywords>
+		<itunes:author>Stephen Eley</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://escapepod.org/media/EP094_TheLastWave.mp3" fileSize="20182486" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/02/22/196/</feedburner:origLink></item>
+		<item>
+		<title>EP093: {Now + n, Now - n}</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/91086988/</link>
+		<comments>http://www.escapepod.org/2007/02/15/ep093-now-n-now-n/#comments</comments>
+		<pubDate>Thu, 15 Feb 2007 08:30:40 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=195</guid>
+		<description><![CDATA[By Robert Silverberg.
+Read by Stephen Eley.
+
+All had been so simple, so elegant, so profitable for ourselves.  And then we met the lovely Selene and nearly were undone.  She came into our lives during our regular transmission hour on Wednesday, October 7, 1987, between six and seven P.M. Central European Time.  The moneymaking [...]]]></description>
+			<content:encoded><![CDATA[By Robert Silverberg.
+Read by Stephen Eley.
+
+All had been so simple, so elegant, so profitable for ourselves.  And then we met the lovely Selene and nearly were undone.  She came into our lives during our regular transmission hour on Wednesday, October 7, 1987, between six and seven P.M. Central European Time.  The moneymaking hour.  I was in satisfactory contact with myself and also with myself.  (Now " n was due on the line first, and then I would hear from (now + n).
+
+Rated R.  Contains sex, nudity, and explicit finance.
+
+Listen to this week&#8217;s Escape Pod!
+<br /><a href="http://www.escapepod.org/podpress_trac/web/195/0/EP093_NowPlusN.mp3">Download EP093: {Now + n, Now - n}</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/02/15/ep093-now-n-now-n/feed/</wfw:commentRss>
+<enclosure url="http://escapepod.org/media/EP093_NowPlusN.mp3" length="38542714" type="audio/mpeg" />
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/195/0/EP093_NowPlusN.mp3" length="38542714" type="audio/mpeg" />
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>By Robert Silverberg.
+Read by Stephen Eley.
+
+All had been so simple, so elegant, so profitable for ourselves.  And then we met the lovely Selene and ...</itunes:subtitle>
+		<itunes:summary>By Robert Silverberg.
+Read by Stephen Eley.
+
+All had been so simple, so elegant, so profitable for ourselves.  And then we met the lovely Selene and nearly were undone.  She came into our lives during our regular transmission hour on Wednesday, October 7, 1987, between six and seven P.M. Central European Time.  The moneymaking hour.  I was in satisfactory contact with myself and also with myself.  (Now " n was due on the line first, and then I would hear from (now + n).
+
+
+Rated R.  Contains sex, nudity, and explicit finance.
+
+Listen to this week's Escape Pod!
+Download EP093: {Now + n, Now - n}</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,R</itunes:keywords>
+		<itunes:author>Robert Silverberg</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://escapepod.org/media/EP093_NowPlusN.mp3" fileSize="38542714" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/02/15/ep093-now-n-now-n/</feedburner:origLink></item>
+		<item>
+		<title>EP092: The Boy Who Yelled “Dragon!”</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/88181708/</link>
+		<comments>http://www.escapepod.org/2007/02/08/ep092-the-boy-who-yelled-dragon/#comments</comments>
+		<pubDate>Thu, 08 Feb 2007 19:30:21 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated G]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=194</guid>
+		<description><![CDATA[By Mike Resnick.
+Read by Matthew Wayne Selznick (of Brave Men Run and Five Minute Memoir).
+First appeared in Young Warriors, ed. Tamora Pierce &#38; Josepha Sherman.
+
+Now, this Land was the home of exceptionally brave warriors 
+and beautiful damsels (and occasionally they were the same person, 
+since beautiful damsels were pretty assertive back then). Each 
+young boy [...]]]></description>
+			<content:encoded><![CDATA[By Mike Resnick.
+Read by Matthew Wayne Selznick (of Brave Men Run and Five Minute Memoir).
+First appeared in Young Warriors, ed. Tamora Pierce &amp; Josepha Sherman.
+
+Now, this Land was the home of exceptionally brave warriors 
+and beautiful damsels (and occasionally they were the same person, 
+since beautiful damsels were pretty assertive back then). Each 
+young boy and girl was taught all the arts of warfare, and were 
+soon adept with sword, mace, lance, bow and arrow, dagger, and the 
+off-putting snide remark. They were schooled in horsemanship, 
+camouflage, and military strategy. They learned eye-gouging, ear-biting, kidney-punching, and &#8212; since they were destined to become 
+knights and ladies &#8212; gentility.
+
+So successful was their training that before long enemy 
+armies were afraid to attack them. Within the borders of the Land 
+justice was so swift that there was not a single criminal left. It 
+would have been a very peaceful and idyllic kingdom indeed &#8212; 
+except for the dragons. 
+
+Rated G.  It&#8217;s a children&#8217;s story.  Not recommended for cynical audiences.
+
+Listen to this week&#8217;s Escape Pod!
+
+Today&#8217;s Sponsor:
+
+<br /><a href="http://www.escapepod.org/podpress_trac/web/194/0/EP092_BoyWhoYelledDragon.mp3">Download Standard Podcast</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/02/08/ep092-the-boy-who-yelled-dragon/feed/</wfw:commentRss>
+<enclosure url="http://escapepod.org/media/EP092_BoyWhoYelledDragon.mp3" length="15329662" type="audio/mpeg" />
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/194/0/EP092_BoyWhoYelledDragon.mp3" length="15329662" type="audio/mpeg" />
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>By Mike Resnick.
+Read by Matthew Wayne Selznick (of Brave Men Run and Five Minute Memoir).
+First appeared in Young Warriors, ed. Tamora Pierce  Josepha Sherman.
+
+
+Now, ...</itunes:subtitle>
+		<itunes:summary>By Mike Resnick.
+Read by Matthew Wayne Selznick (of Brave Men Run and Five Minute Memoir).
+First appeared in Young Warriors, ed. Tamora Pierce  Josepha Sherman.
+
+
+Now, this Land was the home of exceptionally brave warriors 
+and beautiful damsels (and occasionally they were the same person, 
+since beautiful damsels were pretty assertive back then). Each 
+young boy and girl was taught all the arts of warfare, and were 
+soon adept with sword, mace, lance, bow and arrow, dagger, and the 
+off-putting snide remark. They were schooled in horsemanship, 
+camouflage, and military strategy. They learned eye-gouging, ear-biting, kidney-punching, and -- since they were destined to become 
+knights and ladies -- gentility.
+
+So successful was their training that before long enemy 
+armies were afraid to attack them. Within the borders of the Land 
+justice was so swift that there was not a single criminal left. It 
+would have been a very peaceful and idyllic kingdom indeed -- 
+except for the dragons. 
+
+
+Rated G.  It's a children's story.  Not recommended for cynical audiences.
+
+Listen to this week's Escape Pod!
+
+Today's Sponsor:
+
+Download Standard Podcast</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,G</itunes:keywords>
+		<itunes:author>Mike Resnick</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://escapepod.org/media/EP092_BoyWhoYelledDragon.mp3" fileSize="15329662" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/02/08/ep092-the-boy-who-yelled-dragon/</feedburner:origLink></item>
+		<item>
+		<title>EP091: The Acid Test</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/85085276/</link>
+		<comments>http://www.escapepod.org/2007/02/01/ep091-the-acid-test/#comments</comments>
+		<pubDate>Thu, 01 Feb 2007 22:00:24 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=193</guid>
+		<description><![CDATA[By Kay Kenyon.
+Read by cunning minx (of Polyamory Weekly).
+First appeared in Talebones, Winter 2004.
+
+Its my husband. Hell go. He wants to go.
+
+The alien looked down the hall as though hed rather be home nursing a beer than dealing with a disgruntled housewife at 4:00 p.m. on a Friday afternoon.
+
+Please. She tried not to sound desperate. [...]]]></description>
+			<content:encoded><![CDATA[By Kay Kenyon.
+Read by cunning minx (of Polyamory Weekly).
+First appeared in Talebones, Winter 2004.
+
+Its my husband. Hell go. He wants to go.
+
+The alien looked down the hall as though hed rather be home nursing a beer than dealing with a disgruntled housewife at 4:00 p.m. on a Friday afternoon.
+
+Please. She tried not to sound desperate. Hes young and healthy. College degree, business administration. She thought that last might not help. With a math minor.
+
+Rated PG.  Contains some sexual innuendo, relationship issues, and unpleasant cheese odors.
+
+Listen to this week&#8217;s Escape Pod!
+
+Referenced Sites:
+Aliens You Will Meet
+EP Flash Fiction Contest
+<br /><a href="http://www.escapepod.org/podpress_trac/web/193/0/EP091_AcidTest.mp3">Download Standard Podcast</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/02/01/ep091-the-acid-test/feed/</wfw:commentRss>
+<enclosure url="http://escapepod.org/media/EP091_AcidTest.mp3" length="17302643" type="audio/mpeg" />
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/193/0/EP091_AcidTest.mp3" length="17302643" type="audio/mpeg" />
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>By Kay Kenyon.
+Read by cunning minx (of Polyamory Weekly).
+First appeared in Talebones, Winter 2004.
+
+
+Its my husband. Hell go. He wants to go.
+
+The alien looked down ...</itunes:subtitle>
+		<itunes:summary>By Kay Kenyon.
+Read by cunning minx (of Polyamory Weekly).
+First appeared in Talebones, Winter 2004.
+
+
+Its my husband. Hell go. He wants to go.
+
+The alien looked down the hall as though hed rather be home nursing a beer than dealing with a disgruntled housewife at 4:00 p.m. on a Friday afternoon.
+
+Please. She tried not to sound desperate. Hes young and healthy. College degree, business administration. She thought that last might not help. With a math minor.
+
+
+Rated PG.  Contains some sexual innuendo, relationship issues, and unpleasant cheese odors.
+
+Listen to this week's Escape Pod!
+
+Referenced Sites:
+Aliens You Will Meet
+EP Flash Fiction Contest
+Download Standard Podcast</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>Kay Kenyon</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://escapepod.org/media/EP091_AcidTest.mp3" fileSize="17302643" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/02/01/ep091-the-acid-test/</feedburner:origLink></item>
+		<item>
+		<title>EP090: How Lonesome a Life Without Nerve Gas</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/81522714/</link>
+		<comments>http://www.escapepod.org/2007/01/25/ep090-how-lonesome-a-life/#comments</comments>
+		<pubDate>Thu, 25 Jan 2007 19:50:24 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=192</guid>
+		<description><![CDATA[By James Trimarco.
+Read by Frank Key (of Hooting Yard and Hooting Yard on the Air).
+First appeared in Afterburn SF.
+
+After the first week of practice, I knew how to anticipate Mickey&#8217;s
+every move. I knew how to sense weariness in the jogging of his spine
+and would inject increased levels of oxygen into his airflow when I
+did. I [...]]]></description>
+			<content:encoded><![CDATA[By James Trimarco.
+Read by Frank Key (of Hooting Yard and Hooting Yard on the Air).
+First appeared in Afterburn SF.
+
+After the first week of practice, I knew how to anticipate Mickey&#8217;s
+every move. I knew how to sense weariness in the jogging of his spine
+and would inject increased levels of oxygen into his airflow when I
+did. I knew that his heartbeat grew irregular when the platoon crossed
+a rope bridge high over the practice-room floor, and for that exercise
+I would work a calming agent into his stream. I liked to chant
+patriotic slogans in his ear as we practiced. &#8220;Oh the children of
+empire are marching,&#8221; I sang, &#8220;to crush the rebel threat.&#8221;
+
+Although my programmers intended these songs to stimulate high levels
+of patriotism, Mickey didn&#8217;t like them. Perhaps that&#8217;s when the first
+droplets of doubt moistened the soil where the pendulous flowers of my
+confusion would one day bud. . . .
+
+I&#8217;m sorry, your honor, if my poetry offends you. That&#8217;s when I first
+questioned his loyalty, I should have said.
+
+Rated PG.  Contains battle scenes, Imperial propaganda, overenthusiastic chemistry, and bad poetry.
+
+Listen to this week&#8217;s Escape Pod!
+
+Referenced Sites:
+Befuddled by Cormorants by Frank Key
+EP Flash Fiction Contest
+<br /><a href="http://www.escapepod.org/podpress_trac/web/192/0/EP090_HowLonesomeALife.mp3">Download EP090: How Lonesome a Life</a><br />]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/01/25/ep090-how-lonesome-a-life/feed/</wfw:commentRss>
+<enclosure url="http://escapepod.org/media/EP090_HowLonesomeALife.mp3" length="27107035" type="audio/mpeg" />
+			<enclosure url="http://www.escapepod.org/podpress_trac/feed/192/0/EP090_HowLonesomeALife.mp3" length="27107035" type="audio/mpeg" />
+<itunes:duration>00:01:01</itunes:duration>
+		<itunes:subtitle>By James Trimarco.
+Read by Frank Key (of Hooting Yard and Hooting Yard on the Air).
+First appeared in Afterburn SF.
+
+
+After the first week of practice, I ...</itunes:subtitle>
+		<itunes:summary>By James Trimarco.
+Read by Frank Key (of Hooting Yard and Hooting Yard on the Air).
+First appeared in Afterburn SF.
+
+
+After the first week of practice, I knew how to anticipate Mickey's
+every move. I knew how to sense weariness in the jogging of his spine
+and would inject increased levels of oxygen into his airflow when I
+did. I knew that his heartbeat grew irregular when the platoon crossed
+a rope bridge high over the practice-room floor, and for that exercise
+I would work a calming agent into his stream. I liked to chant
+patriotic slogans in his ear as we practiced. "Oh the children of
+empire are marching," I sang, "to crush the rebel threat."
+
+Although my programmers intended these songs to stimulate high levels
+of patriotism, Mickey didn't like them. Perhaps that's when the first
+droplets of doubt moistened the soil where the pendulous flowers of my
+confusion would one day bud. . . .
+
+I'm sorry, your honor, if my poetry offends you. That's when I first
+questioned his loyalty, I should have said.
+
+
+Rated PG.  Contains battle scenes, Imperial propaganda, overenthusiastic chemistry, and bad poetry.
+
+Listen to this week's Escape Pod!
+
+Referenced Sites:
+Befuddled by Cormorants by Frank Key
+EP Flash Fiction Contest
+Download EP090: How Lonesome a Life</itunes:summary>
+		<itunes:keywords>Podcasts,,Rated,PG</itunes:keywords>
+		<itunes:author>James Trimarco</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>No</itunes:block>
+	<media:content url="http://escapepod.org/media/EP090_HowLonesomeALife.mp3" fileSize="27107035" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/01/25/ep090-how-lonesome-a-life/</feedburner:origLink></item>
+		<item>
+		<title>EP Review: Pan’s Labyrinth</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/81443061/</link>
+		<comments>http://www.escapepod.org/2007/01/25/ep-review-pans-labyrinth/#comments</comments>
+		<pubDate>Thu, 25 Jan 2007 16:33:33 +0000</pubDate>
+		<dc:creator>Sullydog</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated G]]></category>
+
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=191</guid>
+		<description />
+			<content:encoded />
+			<wfw:commentRss>http://www.escapepod.org/2007/01/25/ep-review-pans-labyrinth/feed/</wfw:commentRss>
+		<feedburner:origLink>http://www.escapepod.org/2007/01/25/ep-review-pans-labyrinth/</feedburner:origLink></item>
+		<item>
+		<title>EP089: Bean There</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/77550100/</link>
+		<comments>http://www.escapepod.org/2007/01/18/ep089-bean-there/#comments</comments>
+		<pubDate>Thu, 18 Jan 2007 23:00:18 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=190</guid>
+		<description><![CDATA[By Jack Skillingstead.
+Read by Jim Van Verth (of The Vintage Gamer).
+First appeared in Asimov&#8217;s Science Fiction, April/May 2005.
+
+&#8220;You call it crazy,&#8221; Aimee said.  &#8220;I call it Evolution.&#8221;
+
+With a capital E.  The famous newsclip seen around the world.  The aliens arrived neither as an invading force nor as beneficent galactic pals.  By [...]]]></description>
+			<content:encoded><![CDATA[By Jack Skillingstead.
+Read by Jim Van Verth (of The Vintage Gamer).
+First appeared in Asimov&#8217;s Science Fiction, April/May 2005.
+
+&#8220;You call it crazy,&#8221; Aimee said.  &#8220;I call it Evolution.&#8221;
+
+With a capital E.  The famous newsclip seen around the world.  The aliens arrived neither as an invading force nor as beneficent galactic pals.  By their own description they were &#8216;Harbingers.&#8217;
+
+Famous network interviewer:  &#8220;Harbingers of what?&#8221;
+
+Alien:  &#8220;Evolution.&#8221;
+
+Rated R.  Contains sexual imagery and themes, and lots of caffeine.
+
+Listen to this week&#8217;s Escape Pod!
+
+Today&#8217;s Sponsor:
+
+]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/01/18/ep089-bean-there/feed/</wfw:commentRss>
+		<feedburner:origLink>http://www.escapepod.org/2007/01/18/ep089-bean-there/</feedburner:origLink></item>
+		<item>
+		<title>EP Flash: Nightshift in the Automart</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/76325951/</link>
+		<comments>http://www.escapepod.org/2007/01/16/ep-flash-nightshift-in-the-automart/#comments</comments>
+		<pubDate>Wed, 17 Jan 2007 04:42:35 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<category><![CDATA[Flash]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=189</guid>
+		<description><![CDATA[By Andrew Gudgel.
+Read by Jared Axelrod (of The Voice of Free Planet X).
+
+The doors whooshed open and the Goddess Kali strode up to the counter. She stopped in front of him, grinning wickedly. Straight platinum-blonde hair spilled down over her shoulders and high bare breasts, contrasting with her inky black skin. Jeremy noticed a necklace [...]]]></description>
+			<content:encoded><![CDATA[By Andrew Gudgel.
+Read by Jared Axelrod (of The Voice of Free Planet X).
+
+The doors whooshed open and the Goddess Kali strode up to the counter. She stopped in front of him, grinning wickedly. Straight platinum-blonde hair spilled down over her shoulders and high bare breasts, contrasting with her inky black skin. Jeremy noticed a necklace of tiny, perfectly-formed ceramic skulls hung around her neck.
+
+&#8220;Hi, Jeremy.&#8221;
+
+&#8220;&#8216;Lo, Suzy.&#8221;
+
+The Goddess Kali&#8217;s eyes flashed red with anger. &#8220;Don&#8217;t call me that!&#8221; Behind her, a whole pantheon wandered the aisles, looking for late-night snacks.
+
+Rated R.  Contains partial nudity, some language, petty crime, and a few gods&#8217; names taken in vain.
+
+Download the Escape Pod Flash.
+]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/01/16/ep-flash-nightshift-in-the-automart/feed/</wfw:commentRss>
+		<feedburner:origLink>http://www.escapepod.org/2007/01/16/ep-flash-nightshift-in-the-automart/</feedburner:origLink></item>
+		<item>
+		<title>EP Review: Children of Men</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/75339444/</link>
+		<comments>http://www.escapepod.org/2007/01/14/ep-review-children-of-men/#comments</comments>
+		<pubDate>Mon, 15 Jan 2007 00:26:30 +0000</pubDate>
+		<dc:creator>Sullydog</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=188</guid>
+		<description />
+			<content:encoded />
+			<wfw:commentRss>http://www.escapepod.org/2007/01/14/ep-review-children-of-men/feed/</wfw:commentRss>
+		<feedburner:origLink>http://www.escapepod.org/2007/01/14/ep-review-children-of-men/</feedburner:origLink></item>
+		<item>
+		<title>EP088: Blood of Virgins</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/74007104/</link>
+		<comments>http://www.escapepod.org/2007/01/11/ep088-blood-of-virgins/#comments</comments>
+		<pubDate>Thu, 11 Jan 2007 18:22:25 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated R]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=187</guid>
+		<description><![CDATA[By David Barr Kirtley.
+Read by Stephen Eley.
+
+Other dragons cavorted on the airy currents. Those dragons were cherry red or lime green or creamy brown. Their riders steered them up the beach, or inland toward the mall, or back to campus.
+
+A slender girl on a pink dragon passed us going the opposite way, her blond hair [...]]]></description>
+			<content:encoded><![CDATA[By David Barr Kirtley.
+Read by Stephen Eley.
+
+Other dragons cavorted on the airy currents. Those dragons were cherry red or lime green or creamy brown. Their riders steered them up the beach, or inland toward the mall, or back to campus.
+
+A slender girl on a pink dragon passed us going the opposite way, her blond hair billowing. Matt waved to her. He said over his shoulder, I met that girl last night. Hold on, I want to say hi. He yanked the reins and we banked sharply. My stomach lurched. We swept around in an arc and came up alongside the girl. Her dragon had the guileless beady eyes and scrunched up cheeks of a lap dog. Matt said, Hi. Dora, right?
+
+Deirdre, she corrected. And youre &#8230; Matt? He grinned, and she said, I like your dragon.
+
+Rated R.  Contains sexual themes, third-world exploitation, and awkward freshmen.
+
+Listen to this week&#8217;s Escape Pod!
+
+Referenced sites:
+Foster on Film (Pre-screening giveaway)
+]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/01/11/ep088-blood-of-virgins/feed/</wfw:commentRss>
+		<feedburner:origLink>http://www.escapepod.org/2007/01/11/ep088-blood-of-virgins/</feedburner:origLink></item>
+		<item>
+		<title>EP Flash: Printcrime</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/73001082/</link>
+		<comments>http://www.escapepod.org/2007/01/09/ep-flash-printcrime/#comments</comments>
+		<pubDate>Tue, 09 Jan 2007 17:55:06 +0000</pubDate>
+		<dc:creator>SFEley</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[Rated PG]]></category>
+
+		<category><![CDATA[Flash]]></category>
+
+		<guid isPermaLink="false">http://www.escapepod.org/?p=186</guid>
+		<description><![CDATA[By Cory Doctorow.
+Read by Karen Roman.
+
+Da. What they did to him. When he was done, he looked like he&#8217;d been brawling with an entire rugby side. They brought him out the door and let the newsies get a good look at him as they tossed him in the car. All the while a spokesman told [...]]]></description>
+			<content:encoded><![CDATA[By Cory Doctorow.
+Read by Karen Roman.
+
+Da. What they did to him. When he was done, he looked like he&#8217;d been brawling with an entire rugby side. They brought him out the door and let the newsies get a good look at him as they tossed him in the car. All the while a spokesman told the world that my Da&#8217;s organized-crime bootlegging operation had been responsible for at least 20 million in contraband, and that my Da, the desperate villain, had resisted arrest.
+
+Rated PG.  Contains moderate violence and very slippery slopes.
+
+Download the Escape Pod Flash.
+]]></content:encoded>
+			<wfw:commentRss>http://www.escapepod.org/2007/01/09/ep-flash-printcrime/feed/</wfw:commentRss>
+		<feedburner:origLink>http://www.escapepod.org/2007/01/09/ep-flash-printcrime/</feedburner:origLink></item>
+	<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetFeedData?uri=EscapePod</feedburner:awareness></channel>
+</rss><!-- Dynamic Page Served (once) in 1.716 seconds -->

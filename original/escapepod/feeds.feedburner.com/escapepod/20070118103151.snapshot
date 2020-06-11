@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2enclosuresfull.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?><!-- generator="wordpress/1.5.2" --><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Escape Pod</title>
+	<link>http://www.escapepod.org</link>
+	<description>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</description>
+
+	<pubDate>Wed, 17 Jan 2007 04:43:56 +0000</pubDate>
+	<generator>http://wordpress.org/?v=1.5.2</generator>
+	<language>en</language>
+
+    <copyright>Stephen Eley 2003-2006</copyright>
+    <managingEditor>editor@extraneous.org (Stephen Eley)</managingEditor>
+    <webMaster>editor@extraneous.org</webMaster>
+
+    <category>Science Fiction</category>
+<itunes:category text="Arts &amp; Entertainment"><itunes:category text="Science Fiction" />
+</itunes:category>
+<itunes:category text="Arts &amp; Entertainment"><itunes:category text="Books" />
+</itunes:category>
+<itunes:category text="Arts &amp; Entertainment"><itunes:category text="Performing Arts" />
+</itunes:category>
+    <itunes:subtitle>The Science Fiction Podcast Magazine.  
+
+Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</itunes:subtitle>
+    <itunes:summary>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</itunes:summary>
+    <itunes:author>Stephen Eley</itunes:author>    
+    <itunes:owner>
+        <itunes:name>Stephen Eley</itunes:name>
+        <itunes:email>editor@extraneous.org</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://www.escapepod.info/wp-images/pod-org-icon300.jpg" />
+ 
+    <image><link>http://escape.extraneous.org</link><url>http://escape.extraneous.org/wp-images/pod-icon128.jpg</url><title>Escape Pod</title></image>
+
+    
+		<media:rating xmlns:media="http://search.yahoo.com/mrss/" scheme="urn:simple">nonadult</media:rating><creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/2.0/</creativeCommons:license><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://escape.extraneous.org/podcast.xml" type="application/rss+xml" /><feedburner:browserFriendly>This is a podcast XML content feed. It is intended to be viewed in a podcatching application or podcast-capable newsreader or syndicated to another site.</feedburner:browserFriendly><item>
+		<title>Welcome!</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/75872450/</link>
+		<comments>http://www.escapepod.org/2006/06/02/welcome/#comments</comments>
+		<pubDate>Fri, 02 Jun 2006 16:36:44 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Site News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/06/02/welcome/</guid>
+		<description><![CDATA[window.document.getElementById('post-134').parentNode.className += ' adhesive_post';Escape Pod is a weekly podcast bringing you fun short science fiction and fantasy.  You can listen at your computer, on any MP3 player, or subscribe to receive each episode.  We pay our authors, but we&#8217;re always free to listen.
+
+
+For all of our past podcasts, click here.
+For the 2006 Hugo [...]]]></description>
+			<content:encoded><![CDATA[<script type="text/javascript">window.document.getElementById('post-134').parentNode.className += ' adhesive_post';</script><p>Escape Pod is a weekly <a href="http://escapepod.org/podcasting">podcast</a> bringing you <i>fun</i> short science fiction and fantasy.  You can listen at your computer, on any MP3 player, or <a href="http://escapepod.org/subscribe">subscribe</a> to receive each episode.  We pay our authors, but we&#8217;re always free to listen.</p>
+
+<ul>
+<li>For all of our past podcasts, <a href="http://escapepod.org/category/podcasts/">click here</a>.</li>
+<li>For the 2006 Hugo Nominees, <a href="http://escapepod.org/category/podcasts/hugo-nominees/">click here</a>.</li>
+</ul>  
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/06/02/welcome/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>window.document.getElementById('post-134').parentNode.className += ' adhesive_post';Escape Pod is a weekly podcast bringing you fun short science fiction and fantasy.  You can listen at your computer, on ...</itunes:subtitle>
+        <itunes:summary>window.document.getElementById('post-134').parentNode.className += ' adhesive_post';Escape Pod is a weekly podcast bringing you fun short science fiction and fantasy.  You can listen at your computer, on any MP3 player, or subscribe to receive each episode.  We pay our authors, but we’re always free to listen.
+
+
+For all of our past podcasts, click here.
+For the 2006 Hugo Nominees, click here.
+  
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Site News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/06/02/welcome/</feedburner:origLink></item>
+		<item>
+		<title>EP Flash: Nightshift in the Automart</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/76325951/</link>
+		<comments>http://www.escapepod.org/2007/01/16/ep-flash-nightshift-in-the-automart/#comments</comments>
+		<pubDate>Wed, 17 Jan 2007 04:42:35 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2007/01/16/ep-flash-nightshift-in-the-automart/</guid>
+		<description><![CDATA[By Andrew Gudgel.
+Read by Jared Axelrod (of The Voice of Free Planet X).
+
+The doors whooshed open and the Goddess Kali strode up to the counter. She stopped in front of him, grinning wickedly. Straight platinum-blonde hair spilled down over her shoulders and high bare breasts, contrasting with her inky black skin. Jeremy noticed a necklace [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.andrewgudgel.com/">By Andrew Gudgel.</a></b><br />
+Read by Jared Axelrod (of <a href="http://planetx.libsyn.com/">The Voice of Free Planet X</a>).</p>
+
+<p><i>The doors whooshed open and the Goddess Kali strode up to the counter. She stopped in front of him, grinning wickedly. Straight platinum-blonde hair spilled down over her shoulders and high bare breasts, contrasting with her inky black skin. Jeremy noticed a necklace of tiny, perfectly-formed ceramic skulls hung around her neck.</i></p>
+
+<p><i>&#8220;Hi, Jeremy.&#8221;</i></p>
+
+<p><i>&#8220;&#8216;Lo, Suzy.&#8221;</i></p>
+
+<p><i>The Goddess Kali&#8217;s eyes flashed red with anger. &#8220;Don&#8217;t call me that!&#8221; Behind her, a whole pantheon wandered the aisles, looking for late-night snacks.</i></p>
+
+<p><b>Rated R.</b>  Contains partial nudity, some language, petty crime, and a few gods&#8217; names taken in vain.</p>
+
+<p><a rel="enclosure" href="http://www.escapepod.org/media/EPFlash025_Nightshift.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Flash.</a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2007/01/16/ep-flash-nightshift-in-the-automart/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://www.escapepod.org/media/EPFlash025_Nightshift.mp3" length="7043104" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Andrew Gudgel.
+Read by Jared Axelrod (of The Voice of Free Planet X).
+
+The doors whooshed open and the Goddess Kali strode up to the counter. ...</itunes:subtitle>
+        <itunes:summary>By Andrew Gudgel.
+Read by Jared Axelrod (of The Voice of Free Planet X).
+
+The doors whooshed open and the Goddess Kali strode up to the counter. She stopped in front of him, grinning wickedly. Straight platinum-blonde hair spilled down over her shoulders and high bare breasts, contrasting with her inky black skin. Jeremy noticed a necklace of tiny, perfectly-formed ceramic skulls hung around her neck.
+
+“Hi, Jeremy.”
+
+“‘Lo, Suzy.”
+
+The Goddess Kali’s eyes flashed red with anger. “Don’t call me that!” Behind her, a whole pantheon wandered the aisles, looking for late-night snacks.
+
+Rated R.  Contains partial nudity, some language, petty crime, and a few gods’ names taken in vain.
+
+Download the Escape Pod Flash.
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R Flash</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.escapepod.org/media/EPFlash025_Nightshift.mp3" fileSize="7043104" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/01/16/ep-flash-nightshift-in-the-automart/</feedburner:origLink></item>
+		<item>
+		<title>EP Review: Children of Men</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/75339444/</link>
+		<comments>http://www.escapepod.org/2007/01/14/ep-review-children-of-men/#comments</comments>
+		<pubDate>Mon, 15 Jan 2007 00:26:30 +0000</pubDate>
+		<dc:creator>Jonathon Sullivan</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+	<category>Reviews</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2007/01/14/ep-review-children-of-men/</guid>
+		<description />
+			<content:encoded><![CDATA[<p><b><a href="http://www.imdb.com/title/tt0206634/"><img border="0"
+<img src="/media/ChildMen.jpg" alt='' /><br />A film by Alfonso Cuarón.</a></b><br /></p>
+
+<p>Reviewed by &#8220;Eva,&#8221; Ramona Broussard, and Jonathon Sullivan.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EPReview017a_CoMen.mp3" title="EP Review: Children of Men">
+<img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Review.</a><strong></strong><strong></strong><strong></strong></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2007/01/14/ep-review-children-of-men/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EPReview017a_CoMen.mp3" length="9361232" type="audio/mpeg" />
+        
+                
+        <itunes:author>Jonathon Sullivan</itunes:author>
+        <itunes:subtitle> </itunes:subtitle>
+        <itunes:summary />
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG Reviews</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EPReview017a_CoMen.mp3" fileSize="9361232" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/01/14/ep-review-children-of-men/</feedburner:origLink></item>
+		<item>
+		<title>EP088: Blood of Virgins</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/74007104/</link>
+		<comments>http://www.escapepod.org/2007/01/11/ep088-blood-of-virgins/#comments</comments>
+		<pubDate>Thu, 11 Jan 2007 18:22:25 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2007/01/11/ep088-blood-of-virgins/</guid>
+		<description><![CDATA[By David Barr Kirtley.
+Read by Stephen Eley.
+
+Other dragons cavorted on the airy currents. Those dragons were cherry red or lime green or creamy brown. Their riders steered them up the beach, or inland toward the mall, or back to campus.
+
+A slender girl on a pink dragon passed us going the opposite way, her blond hair [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.davidbarrkirtley.com">By David Barr Kirtley.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><i>Other dragons cavorted on the airy currents. Those dragons were cherry red or lime green or creamy brown. Their riders steered them up the beach, or inland toward the mall, or back to campus.</i></p>
+
+<p><i>A slender girl on a pink dragon passed us going the opposite way, her blond hair billowing. Matt waved to her. He said over his shoulder, “I met that girl last night. Hold on, I want to say hi.” He yanked the reins and we banked sharply. My stomach lurched. We swept around in an arc and came up alongside the girl. Her dragon had the guileless beady eyes and scrunched up cheeks of a lap dog. Matt said, “Hi. Dora, right?”</i></p>
+
+<p><i>“Deirdre,” she corrected. “And you’re &#8230; Matt?” He grinned, and she said, “I like your dragon.”</i></p>
+
+<p><b>Rated R</b>.  Contains sexual themes, third-world exploitation, and awkward freshmen.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP088_BloodOfVirgins.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.fosteronfilm.com">Foster on Film</a> (<a href="http://www.fosteronfilm.com/ads/adpagetx.htm">Pre-screening giveaway</a>)<br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2007/01/11/ep088-blood-of-virgins/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EP088_BloodOfVirgins.mp3" length="24263242" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By David Barr Kirtley.
+Read by Stephen Eley.
+
+Other dragons cavorted on the airy currents. Those dragons were cherry red or lime green or creamy brown. Their ...</itunes:subtitle>
+        <itunes:summary>By David Barr Kirtley.
+Read by Stephen Eley.
+
+Other dragons cavorted on the airy currents. Those dragons were cherry red or lime green or creamy brown. Their riders steered them up the beach, or inland toward the mall, or back to campus.
+
+A slender girl on a pink dragon passed us going the opposite way, her blond hair billowing. Matt waved to her. He said over his shoulder, “I met that girl last night. Hold on, I want to say hi.” He yanked the reins and we banked sharply. My stomach lurched. We swept around in an arc and came up alongside the girl. Her dragon had the guileless beady eyes and scrunched up cheeks of a lap dog. Matt said, “Hi. Dora, right?”
+
+“Deirdre,” she corrected. “And you’re … Matt?” He grinned, and she said, “I like your dragon.”
+
+Rated R.  Contains sexual themes, third-world exploitation, and awkward freshmen.
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+Foster on Film (Pre-screening giveaway)
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP088_BloodOfVirgins.mp3" fileSize="24263242" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/01/11/ep088-blood-of-virgins/</feedburner:origLink></item>
+		<item>
+		<title>EP Flash: Printcrime</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/73001082/</link>
+		<comments>http://www.escapepod.org/2007/01/09/ep-flash-printcrime/#comments</comments>
+		<pubDate>Tue, 09 Jan 2007 17:55:06 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+	<category>Flash</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2007/01/09/ep-flash-printcrime/</guid>
+		<description><![CDATA[By Cory Doctorow.
+Read by Karen Roman.
+
+Da. What they did to him. When he was done, he looked like he&#8217;d been brawling with an entire rugby side. They brought him out the door and let the newsies get a good look at him as they tossed him in the car. All the while a spokesman told [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.craphound.com/">By Cory Doctorow.</a></b><br />
+Read by Karen Roman.</p>
+
+<p><i>Da. What they did to him. When he was done, he looked like he&#8217;d been brawling with an entire rugby side. They brought him out the door and let the newsies get a good look at him as they tossed him in the car. All the while a spokesman told the world that my Da&#8217;s organized-crime bootlegging operation had been responsible for at least 20 million in contraband, and that my Da, the desperate villain, had resisted arrest.</i></p>
+
+<p><b>Rated PG.</b>  Contains moderate violence and very slippery slopes.</p>
+
+<p><a rel="enclosure" href="http://www.escapepod.org/media/EPFlash024_Printcrime.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Flash.</a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2007/01/09/ep-flash-printcrime/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://www.escapepod.org/media/EPFlash024_Printcrime.mp3" length="4042577" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Cory Doctorow.
+Read by Karen Roman.
+
+Da. What they did to him. When he was done, he looked like he’d been brawling with an entire rugby ...</itunes:subtitle>
+        <itunes:summary>By Cory Doctorow.
+Read by Karen Roman.
+
+Da. What they did to him. When he was done, he looked like he’d been brawling with an entire rugby side. They brought him out the door and let the newsies get a good look at him as they tossed him in the car. All the while a spokesman told the world that my Da’s organized-crime bootlegging operation had been responsible for at least 20 million in contraband, and that my Da, the desperate villain, had resisted arrest.
+
+Rated PG.  Contains moderate violence and very slippery slopes.
+
+Download the Escape Pod Flash.
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG Flash</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.escapepod.org/media/EPFlash024_Printcrime.mp3" fileSize="4042577" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/01/09/ep-flash-printcrime/</feedburner:origLink></item>
+		<item>
+		<title>300 Word Flash Contest!</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/71459937/</link>
+		<comments>http://www.escapepod.org/2007/01/06/300-word-flash-contest/#comments</comments>
+		<pubDate>Sat, 06 Jan 2007 05:19:47 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Site News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2007/01/06/300-word-flash-contest/</guid>
+		<description><![CDATA[Hi all,
+
+I announced this in the intro to last week&#8217;s episode, but got distracted and didn&#8217;t put it into written form here.  Until now.
+
+With the aid of an anonymous donor, Escape Pod is presenting a contest for the best SF story of 300 words or less.  There are no restrictions on theme, plot, [...]]]></description>
+			<content:encoded><![CDATA[<p>Hi all,</p>
+
+<p>I announced this in the intro to <a href="http://www.escapepod.org/2006/12/28/ep086-when-we-went-to-see-the-end-of-the-world/">last week&#8217;s episode</a>, but got distracted and didn&#8217;t put it into written form here.  Until now.</p>
+
+<p>With the aid of an anonymous donor, Escape Pod is presenting a contest for <b>the best SF story of 300 words or less</b>.  There are no restrictions on theme, plot, or structure.  The goal is simply to present a strong idea-based story in the minimum space possible.
+<a id="more-185"></a></p>
+
+<p>To enter, simply send your name, address, and the title and story to <a href="mailto:contest@escapepod.org">contest@escapepod.org</a>.  Please look at our <a href="http://www.escapepod.org/guidelines">submission guidelines</a> for formatting instructions.  This is effectively an Escape Pod story submission; only the selection process is different.  Please send a <i>maximum</i> of three stories to us.  If you happen to have a trunk full of really short pieces, select your three best.</p>
+
+<p>After you&#8217;ve sent your story, I&#8217;ll strip your name from it and post it to a members-only area on the <a href="http://forum.escapeartists.info">Escape Pod forum</a>.  Because it won&#8217;t be publicly viewable or searchable, it shouldn&#8217;t count as &#8216;published&#8217; by anyone&#8217;s guidelines, and you&#8217;ll retain all rights to the story.  Interested forum members will be able to review the stories and comment on them.  On February 1, I&#8217;ll create a poll (or a series of polls, if there are too many entries) and invite people to select their favorites.  </p>
+
+<p>The highest-rated story will receive an Escape Pod contract to run their story as flash fiction at a rate of $100.  That&#8217;s five times our standard flash rate.</p>
+
+<p>The second-highest rated story will receive a contract at a rate of $50.  </p>
+
+<p>The third-highest rated story will receive a standard flash contract, and so will any others that I, as EP&#8217;s editor, think are excellent choices for Escape Pod.</p>
+
+<p>The stories will then be produced in audio and will go out on Escape Pod&#8217;s feed, and be made available for any other non-commercial use as specified in our <a href="http://creativecommons.org/licenses/by-nc-nd/2.5/">Creative Commons  license</a>.</p>
+
+<p><b>The deadline is January 31, 2007.</b>  Anything we receive after that will be forwarded back to our usual submissions process.</p>
+
+<p>Sound like fun?  Any questions?  </p>
+
+<p>Go to it, and we look forward to seeing your (very short) work!</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2007/01/06/300-word-flash-contest/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>Hi all,
+
+I announced this in the intro to last week’s episode, but got distracted and didn’t put it into written form here.  Until now.
+
+With ...</itunes:subtitle>
+        <itunes:summary>Hi all,
+
+I announced this in the intro to last week’s episode, but got distracted and didn’t put it into written form here.  Until now.
+
+With the aid of an anonymous donor, Escape Pod is presenting a contest for the best SF story of 300 words or less.  There are no restrictions on theme, plot, or structure.  The goal is simply to present a strong idea-based story in the minimum space possible.
+
+
+To enter, simply send your name, address, and the title and story to contest@escapepod.org.  Please look at our submission guidelines for formatting instructions.  This is effectively an Escape Pod story submission; only the selection process is different.  Please send a maximum of three stories to us.  If you happen to have a trunk full of really short pieces, select your three best.
+
+After you’ve sent your story, I’ll strip your name from it and post it to a members-only area on the Escape Pod forum.  Because it won’t be publicly viewable or searchable, it shouldn’t count as ‘published’ by anyone’s guidelines, and you’ll retain all rights to the story.  Interested forum members will be able to review the stories and comment on them.  On February 1, I’ll create a poll (or a series of polls, if there are too many entries) and invite people to select their favorites.  
+
+The highest-rated story will receive an Escape Pod contract to run their story as flash fiction at a rate of $100.  That’s five times our standard flash rate.
+
+The second-highest rated story will receive a contract at a rate of $50.  
+
+The third-highest rated story will receive a standard flash contract, and so will any others that I, as EP’s editor, think are excellent choices for Escape Pod.
+
+The stories will then be produced in audio and will go out on Escape Pod’s feed, and be made available for any other non-commercial use as specified in our Creative Commons  license.
+
+The deadline is January 31, 2007.  Anything we receive after that will be forwarded back to our usual submissions process.
+
+Sound like fun?  Any questions?  
+
+Go to it, and we look forward to seeing your (very short) work!
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Site News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2007/01/06/300-word-flash-contest/</feedburner:origLink></item>
+		<item>
+		<title>EP087: Authorwerx</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/70872816/</link>
+		<comments>http://www.escapepod.org/2007/01/04/ep087-authorwerx/#comments</comments>
+		<pubDate>Thu, 04 Jan 2007 21:41:12 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2007/01/04/ep087-authorwerx/</guid>
+		<description><![CDATA[By Greg van Eekhout.
+Read by Stephen Eley.
+
+I launched into my next bit, which I&#8217;d rehearsed that morning on the tram. &#8220;What I liked about your stories is that you never knew where they were going. It&#8217;d start off as a World War II military adventure, but then it would wind up being about android worms [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.sff.net/people/greg">By Greg van Eekhout.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><i>I launched into my next bit, which I&#8217;d rehearsed that morning on the tram. &#8220;What I liked about your stories is that you never knew where they were going. It&#8217;d start off as a World War II military adventure, but then it would wind up being about android worms from another dimension out to steal Earth&#8217;s dirt. It&#8217;s like other writers&#8217; stories are bridges: There&#8217;s a beginning, there&#8217;s an end, and it&#8217;s a pretty straight shot through. It might be a long bridge, or curvy, maybe, so you can&#8217;t quite see the ending coming. But the trip basically makes sense. Your stories were different, though. You always blew up your bridges halfway across, and you&#8217;d have to swim for the banks, and you&#8217;d end up on some rock with weird lizards.&#8221;</i></p>
+
+<p><i>On the verge of laughter, he looked at me. &#8220;You&#8217;re kidding, right?&#8221;</i></p>
+
+<p><b>Rated R</b>.  Contains profanity and a disturbing resemblance to Philip K. Dick.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP087_Authorwerx.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://eley.smugmug.com">Eley&#8217;s writing progress</a><br />
+<a href="http://forum.escapeartists.info">New forums (finally!)</a> <br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2007/01/04/ep087-authorwerx/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EP087_Authorwerx.mp3" length="26662528" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Greg van Eekhout.
+Read by Stephen Eley.
+
+I launched into my next bit, which I’d rehearsed that morning on the tram. “What I liked about your ...</itunes:subtitle>
+        <itunes:summary>By Greg van Eekhout.
+Read by Stephen Eley.
+
+I launched into my next bit, which I’d rehearsed that morning on the tram. “What I liked about your stories is that you never knew where they were going. It’d start off as a World War II military adventure, but then it would wind up being about android worms from another dimension out to steal Earth’s dirt. It’s like other writers’ stories are bridges: There’s a beginning, there’s an end, and it’s a pretty straight shot through. It might be a long bridge, or curvy, maybe, so you can’t quite see the ending coming. But the trip basically makes sense. Your stories were different, though. You always blew up your bridges halfway across, and you’d have to swim for the banks, and you’d end up on some rock with weird lizards.”
+
+On the verge of laughter, he looked at me. “You’re kidding, right?”
+
+Rated R.  Contains profanity and a disturbing resemblance to Philip K. Dick.
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+Eley’s writing progress
+New forums (finally!) 
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP087_Authorwerx.mp3" fileSize="26662528" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/01/04/ep087-authorwerx/</feedburner:origLink></item>
+		<item>
+		<title>EP Review: Eragon</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/69407750/</link>
+		<comments>http://www.escapepod.org/2007/01/01/ep-review-eragon/#comments</comments>
+		<pubDate>Mon, 01 Jan 2007 19:37:41 +0000</pubDate>
+		<dc:creator>Jonathon Sullivan</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+	<category>Reviews</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2007/01/01/ep-review-eragon/</guid>
+		<description />
+			<content:encoded><![CDATA[<p><b><a href="http://www.imdb.com/title/tt0449010/"><img border="0"
+<img src="/media/eragon.jpeg" alt='' /><br />A film by Stefen Fangmeier.</a></b><br /></p>
+
+<p>Reviewed by Jonathon Sullivan.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EPReview015_Eragon.mp3" title="EP Review: Eragon">
+<img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Review.</a><strong></strong><strong></strong><strong></strong></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2007/01/01/ep-review-eragon/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EPReview015_Eragon.mp3" length="5022794" type="audio/mpeg" />
+        
+                
+        <itunes:author>Jonathon Sullivan</itunes:author>
+        <itunes:subtitle> </itunes:subtitle>
+        <itunes:summary />
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG Reviews</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EPReview015_Eragon.mp3" fileSize="5022794" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2007/01/01/ep-review-eragon/</feedburner:origLink></item>
+		<item>
+		<title>EP086: When We Went to See the End of the World</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/67735599/</link>
+		<comments>http://www.escapepod.org/2006/12/28/ep086-when-we-went-to-see-the-end-of-the-world/#comments</comments>
+		<pubDate>Thu, 28 Dec 2006 19:42:54 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/12/28/ep086-when-we-went-to-see-the-end-of-the-world/</guid>
+		<description><![CDATA[By Robert Silverberg.
+Read by J.C. Hutchins (of The 7th Son Trilogy).
+
+Mike offered Nick some pot.  &#8220;That&#8217;s really something,&#8221; he said.  &#8220;To have gone to the end of the world.  Hey, Ruby, maybe we&#8217;ll talk to the travel agent about it.&#8221;
+
+Nick took a deep drag and passed the joint to Jane.  He [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.majipoor.com/">By Robert Silverberg.</a></b><br />
+Read by J.C. Hutchins (of <a href="http://www.jchutchins.net/">The 7th Son Trilogy</a>).</p>
+
+<p><i>Mike offered Nick some pot.  &#8220;That&#8217;s really something,&#8221; he said.  &#8220;To have gone to the end of the world.  Hey, Ruby, maybe we&#8217;ll talk to the travel agent about it.&#8221;</i></p>
+
+<p><i>Nick took a deep drag and passed the joint to Jane.  He felt pleased with himself about the way he had told the story.  They had all been very impressed.  That swollen red sun, that scuttling crab.  The trip had cost more than a month in Japan, but it had been a good investment.  He and Jane were the first in the neighborhood who had gone.  That was important.</i></p>
+
+<p><b>Rated R</b>.  Contains drugs, swinging, and frequent gratuitous apocalypses.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP086_EndOfTheWorld.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.podiobooks.com">Podiobooks.com</a><br />
+<a href="http://www.starshipsofa.com">Starship Sofa</a> (incl.: <a href="http://starshipsofa.libsyn.com/index.php?post_id=138691">Robert Silverberg</a>)<br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/12/28/ep086-when-we-went-to-see-the-end-of-the-world/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EP086_EndOfTheWorld.mp3" length="18863109" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Robert Silverberg.
+Read by J.C. Hutchins (of The 7th Son Trilogy).
+
+Mike offered Nick some pot.  “That’s really something,” he said.  “To have gone ...</itunes:subtitle>
+        <itunes:summary>By Robert Silverberg.
+Read by J.C. Hutchins (of The 7th Son Trilogy).
+
+Mike offered Nick some pot.  “That’s really something,” he said.  “To have gone to the end of the world.  Hey, Ruby, maybe we’ll talk to the travel agent about it.”
+
+Nick took a deep drag and passed the joint to Jane.  He felt pleased with himself about the way he had told the story.  They had all been very impressed.  That swollen red sun, that scuttling crab.  The trip had cost more than a month in Japan, but it had been a good investment.  He and Jane were the first in the neighborhood who had gone.  That was important.
+
+Rated R.  Contains drugs, swinging, and frequent gratuitous apocalypses.
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+Podiobooks.com
+Starship Sofa (incl.: Robert Silverberg)
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP086_EndOfTheWorld.mp3" fileSize="18863109" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/12/28/ep086-when-we-went-to-see-the-end-of-the-world/</feedburner:origLink></item>
+		<item>
+		<title>EP085: Merry Christmas from the Heartbreakers</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/64520208/</link>
+		<comments>http://www.escapepod.org/2006/12/21/ep085-merry-christmas-from-the-heartbreakers/#comments</comments>
+		<pubDate>Thu, 21 Dec 2006 07:00:40 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/12/21/ep085-merry-christmas-from-the-heartbreakers/</guid>
+		<description><![CDATA[By Mur Lafferty.
+Read by Stephen and Anna Eley.
+Musical guest: Twisted Sister.  
+
+&#8220;Look, I think I know where this is going,&#8221; Kris Kringle said, but Gingermuffin cut him off.
+
+&#8220;Do you? The Heartbreakers have been making Tom Petty sound good for years, and no one gives a damn. Tom Petty gets all of the credit.&#8221;
+
+Kris wondered [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.murlafferty.com/">By Mur Lafferty</a>.</b><br />
+Read by Stephen and Anna Eley.<br />
+Musical guest: <a href="http://www.twistedsister.com">Twisted Sister</a>.  </p>
+
+<p><i>&#8220;Look, I think I know where this is going,&#8221; Kris Kringle said, but Gingermuffin cut him off.</i></p>
+
+<p><i>&#8220;Do you? The Heartbreakers have been making Tom Petty sound good for years, and no one gives a damn. Tom Petty gets all of the credit.&#8221;</i></p>
+
+<p><i>Kris wondered if he was sober enough to have this discussion. &#8220;You&#8217;re not talking about Tom Petty.&#8221;</i></p>
+
+<p><i>Gingermuffin slammed his hand down on the table. &#8220;Damn right I&#8217;m not!&#8221;  Kris&#8217;s carefully stacked poker chips fell over in a clatter of
+Christmas.</i></p>
+
+<p><b>Rated R</b>.  Contains profanity, violence, and the puncturing of childhood myths.  Merry Christmas! </p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP085_MerryXmasHeartbreakers.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.rif.org">Reading is Fundamental</a><br />
+<a href="http://www.childsplaycharity.org">Child&#8217;s Play</a><br />
+<a href="http://www.ishouldbewriting.com">I Should Be Writing</a><br />
+<a href="http://www.geekfuactiongrip.com">Geek Fu Action Grip</a><br />
+<a href="http://www.podsafemusicnetwork.com">Podsafe Music Network</a> (<a href="http://music.podshow.com/music/producerTerms.htm">Terms of Use</a>)<br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/12/21/ep085-merry-christmas-from-the-heartbreakers/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EP085_MerryXmasHeartbreakers.mp3" length="15596568" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Mur Lafferty.
+Read by Stephen and Anna Eley.
+Musical guest: Twisted Sister.  
+
+“Look, I think I know where this is going,” Kris Kringle said, but ...</itunes:subtitle>
+        <itunes:summary>By Mur Lafferty.
+Read by Stephen and Anna Eley.
+Musical guest: Twisted Sister.  
+
+“Look, I think I know where this is going,” Kris Kringle said, but Gingermuffin cut him off.
+
+“Do you? The Heartbreakers have been making Tom Petty sound good for years, and no one gives a damn. Tom Petty gets all of the credit.”
+
+Kris wondered if he was sober enough to have this discussion. “You’re not talking about Tom Petty.”
+
+Gingermuffin slammed his hand down on the table. “Damn right I’m not!”  Kris’s carefully stacked poker chips fell over in a clatter of
+Christmas.
+
+Rated R.  Contains profanity, violence, and the puncturing of childhood myths.  Merry Christmas! 
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+Reading is Fundamental
+Child’s Play
+I Should Be Writing
+Geek Fu Action Grip
+Podsafe Music Network (Terms of Use)
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP085_MerryXmasHeartbreakers.mp3" fileSize="15596568" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/12/21/ep085-merry-christmas-from-the-heartbreakers/</feedburner:origLink></item>
+		<item>
+		<title>EP084: Smooth Talking</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/61217514/</link>
+		<comments>http://www.escapepod.org/2006/12/14/ep084-smooth-talking/#comments</comments>
+		<pubDate>Thu, 14 Dec 2006 06:13:49 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/12/14/ep084-smooth-talking/</guid>
+		<description><![CDATA[By Tobias S. Buckell.
+Read by Steve Anderson (SGA Creative and Great Tales Live).
+
+Roger sighed, shifted his position on the stump, and then turned back away from Marcus.
+
+&#8220;What I&#8217;m trying to do, Marcus, is talk that tree into moving.&#8221;
+
+Marcus didn&#8217;t say anything. He stood behind someone he thought he once knew and tried to figure what [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.tobiasbuckell.com/">By Tobias S. Buckell.</a></b><br />
+Read by Steve Anderson (<a href="http://www.sgacreative.com/">SGA Creative</a> and <a href="http://www.greattaleslive.com/">Great Tales Live</a>).</p>
+
+<p><i>Roger sighed, shifted his position on the stump, and then turned back away from Marcus.</i></p>
+
+<p><i>&#8220;What I&#8217;m trying to do, Marcus, is talk that tree into moving.&#8221;</i></p>
+
+<p><i>Marcus didn&#8217;t say anything. He stood behind someone he thought he once knew and tried to figure what to say next. Not a man normally tied for words, Marcus found himself in the very surreal position of being speechless.</i></p>
+
+<p><b>Rated R</b>.  For profanity and somewhat wooden anatomical descriptions.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP084_SmoothTalking.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p><b>Today&#8217;s Sponsor:</b><br />
+<a href="http://www.fundablefilms.com"><img src="http://escapepod.org/wp-images/cameraLogo_mid.gif"/></a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/12/14/ep084-smooth-talking/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EP084_SmoothTalking.mp3" length="35928375" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Tobias S. Buckell.
+Read by Steve Anderson (SGA Creative and Great Tales Live).
+
+Roger sighed, shifted his position on the stump, and then turned back away ...</itunes:subtitle>
+        <itunes:summary>By Tobias S. Buckell.
+Read by Steve Anderson (SGA Creative and Great Tales Live).
+
+Roger sighed, shifted his position on the stump, and then turned back away from Marcus.
+
+“What I’m trying to do, Marcus, is talk that tree into moving.”
+
+Marcus didn’t say anything. He stood behind someone he thought he once knew and tried to figure what to say next. Not a man normally tied for words, Marcus found himself in the very surreal position of being speechless.
+
+Rated R.  For profanity and somewhat wooden anatomical descriptions.
+
+Listen to this week’s Escape Pod!
+
+Today’s Sponsor:
+
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP084_SmoothTalking.mp3" fileSize="35928375" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/12/14/ep084-smooth-talking/</feedburner:origLink></item>
+		<item>
+		<title>EP083: Ulla</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/58029433/</link>
+		<comments>http://www.escapepod.org/2006/12/07/ep083-ulla/#comments</comments>
+		<pubDate>Thu, 07 Dec 2006 06:30:10 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/12/07/ep083-ulla/</guid>
+		<description><![CDATA[By Daniel Schwabauer.
+Read by Jared Axelrod (of The Voice of Free Planet X) and J.R. Blackwell (of Voices of Tomorrow).
+
+The world we now occupy is red, fourth from its sun, and extreme in its temperature. The atmosphere is lethal. Without  our shelters we would die. But we will not be here long. Already the [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.danschwabauer.com/">By Daniel Schwabauer.</a></b><br />
+Read by Jared Axelrod (of <a href="http://planetx.libsyn.com/">The Voice of Free Planet X</a>) and J.R. Blackwell (of <a href="http://voicesoftomorrow.libsyn.com/">Voices of Tomorrow</a>).</p>
+
+<p><i>The world we now occupy is red, fourth from its sun, and extreme in its temperature. The atmosphere is lethal. Without  our shelters we would die. But we will not be here long. Already the attack-cylinders, loaded with machinery and the weapons of destruction, stand ready in the firing tubes. Soon I shall be sending you thoughts from the third planet.</i></p>
+
+<p><i>I have loved you.</i></p>
+
+<p><b>Rated PG</b>.  Contains violence, chemical warfare, and heavy moral themes.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP083_Ulla.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p><b>Today&#8217;s Sponsor:</b><br />
+<a href="http://www.fundablefilms.com"><img src="http://escapepod.org/wp-images/cameraLogo_mid.gif"/></a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/12/07/ep083-ulla/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EP083_Ulla.mp3" length="24230518" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Daniel Schwabauer.
+Read by Jared Axelrod (of The Voice of Free Planet X) and J.R. Blackwell (of Voices of Tomorrow).
+
+The world we now occupy is ...</itunes:subtitle>
+        <itunes:summary>By Daniel Schwabauer.
+Read by Jared Axelrod (of The Voice of Free Planet X) and J.R. Blackwell (of Voices of Tomorrow).
+
+The world we now occupy is red, fourth from its sun, and extreme in its temperature. The atmosphere is lethal. Without  our shelters we would die. But we will not be here long. Already the attack-cylinders, loaded with machinery and the weapons of destruction, stand ready in the firing tubes. Soon I shall be sending you thoughts from the third planet.
+
+I have loved you.
+
+Rated PG.  Contains violence, chemical warfare, and heavy moral themes.
+
+Listen to this week’s Escape Pod!
+
+Today’s Sponsor:
+
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP083_Ulla.mp3" fileSize="24230518" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/12/07/ep083-ulla/</feedburner:origLink></item>
+		<item>
+		<title>EP082: Travels With My Cats</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/55912804/</link>
+		<comments>http://www.escapepod.org/2006/11/30/ep082-travels-with-my-cats/#comments</comments>
+		<pubDate>Thu, 30 Nov 2006 22:41:39 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/11/30/ep082-travels-with-my-cats/</guid>
+		<description><![CDATA[2005 Hugo Winner!
+
+By Mike Resnick.
+Read by Stephen Eley.
+
+That night I was faced with a major decision. I didn&#8217;t want
+to read a book called Travels With My Cats by a woman called
+Miss, but I&#8217;d spent my last nickel on it &#8212; well, the last until
+my allowance came due again next week &#8212; and I&#8217;d read all [...]]]></description>
+			<content:encoded><![CDATA[<p><b><i>2005 Hugo Winner!</i></b></p>
+
+<p><b><a href="http://www.fortunecity.com/tattooine/farmer/2/">By Mike Resnick.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><i>That night I was faced with a major decision. I didn&#8217;t want
+to read a book called </i>Travels With My Cats<i> by a woman called
+Miss, but I&#8217;d spent my last nickel on it &#8212; well, the last until
+my allowance came due again next week &#8212; and I&#8217;d read all my other
+books so often you could almost see the eyetracks all over them.</i></p>
+
+<p><i>So I picked it up without much enthusiasm, and read the first
+page, and then the next &#8212; and suddenly I was transported to Kenya
+Colony and Siam and the Amazon. Miss Priscilla Wallace had a
+way of describing things that made me wish I was there, and when I
+finished a section I felt like I&#8217;d </i>been<i> there.</i></p>
+
+<p><b>Rated PG</b>.  This product may be too disillusioning for young children.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP082_TravelsWithMyCats.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.poddisc.com">PodDisc.com</a><br />
+<a href="http://www.dragonhearthproductions.com/">DragonHearth Productions (by Tracy and Laura Hickman)</a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/11/30/ep082-travels-with-my-cats/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EP082_TravelsWithMyCats.mp3" length="35302691" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>2005 Hugo Winner!
+
+By Mike Resnick.
+Read by Stephen Eley.
+
+That night I was faced with a major decision. I didn’t want
+to read a book called Travels With ...</itunes:subtitle>
+        <itunes:summary>2005 Hugo Winner!
+
+By Mike Resnick.
+Read by Stephen Eley.
+
+That night I was faced with a major decision. I didn’t want
+to read a book called Travels With My Cats by a woman called
+Miss, but I’d spent my last nickel on it — well, the last until
+my allowance came due again next week — and I’d read all my other
+books so often you could almost see the eyetracks all over them.
+
+So I picked it up without much enthusiasm, and read the first
+page, and then the next — and suddenly I was transported to Kenya
+Colony and Siam and the Amazon. Miss Priscilla Wallace had a
+way of describing things that made me wish I was there, and when I
+finished a section I felt like I’d been there.
+
+Rated PG.  This product may be too disillusioning for young children.
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+PodDisc.com
+DragonHearth Productions (by Tracy and Laura Hickman)
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP082_TravelsWithMyCats.mp3" fileSize="35302691" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/11/30/ep082-travels-with-my-cats/</feedburner:origLink></item>
+		<item>
+		<title>EP Review: The Fountain</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/54662130/</link>
+		<comments>http://www.escapepod.org/2006/11/27/ep-review-the-fountain/#comments</comments>
+		<pubDate>Mon, 27 Nov 2006 19:08:14 +0000</pubDate>
+		<dc:creator>Jonathon Sullivan</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated G</category>
+	<category>Reviews</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/11/27/ep-review-the-fountain/</guid>
+		<description />
+			<content:encoded><![CDATA[<p><b><a href="http://www.imdb.com/title/tt0414993/"><img border="0"
+<img src='/media/fountain.jpeg' alt='' /><br />A film by Darren Aronofsky.</a></b><br /></p>
+
+<p>Reviewed by Jonathon Sullivan.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EPReview015_TheFountain.mp3" title="EP Review: The Fountain">
+<img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Review.</a><strong></strong><strong></strong><strong></strong></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/11/27/ep-review-the-fountain/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/fountain02.mp3" length="6724296" type="audio/mpeg" />
+<enclosure url="http://escapepod.org/media/EPReview015_TheFountain.mp3" length="6724296" type="audio/mpeg" />
+        
+                
+        <itunes:author>Jonathon Sullivan</itunes:author>
+        <itunes:subtitle> </itunes:subtitle>
+        <itunes:summary />
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated G Reviews</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/fountain02.mp3" fileSize="6724296" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/11/27/ep-review-the-fountain/</feedburner:origLink></item>
+		<item>
+		<title>EP081: Margin of Error</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/53105340/</link>
+		<comments>http://www.escapepod.org/2006/11/23/ep081-margin-of-error/#comments</comments>
+		<pubDate>Thu, 23 Nov 2006 09:22:18 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/11/23/ep081-margin-of-error/</guid>
+		<description><![CDATA[By Nancy Kress.
+Read by Christiana Ellis (of Nina Kimberly the Merciless and Pickle Tales)
+
+She said, &#8220;What the project needs is for you to come back and work on the same small area you did originally.  Looking for something&#8211;anything&#8211;you might have missed in the protein-coded instructions to successive generations of nanoassemblers.&#8221;
+
+&#8220;No,&#8221; I said.
+
+Rated PG.  [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.sff.net/people/nankress/">By Nancy Kress.</a></b><br />
+Read by Christiana Ellis (of <a href="http://www.ninakimberly.com/">Nina Kimberly the Merciless</a> and <a href="http://www.podcastpickle.com/index/pickletales">Pickle Tales</a>)</p>
+
+<p><i>She said, &#8220;What the project needs is for you to come back and work on the same small area you did originally.  Looking for something&#8211;anything&#8211;you might have missed in the protein-coded instructions to successive generations of nanoassemblers.&#8221;</i></p>
+
+<p><i>&#8220;No,&#8221; I said.</i></p>
+
+<p><b>Rated PG</b>.  Contains minor profanity, explicit bodily functions, and people being very, very mean..</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP081_MarginOfError.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.poddisc.com">PodDisc.com</a><br />
+<a href="http://www.podholes.com">Podholes!</a><br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/11/23/ep081-margin-of-error/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://escapepod.org/media/EP081_MarginOfError.mp3" length="16762538" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Nancy Kress.
+Read by Christiana Ellis (of Nina Kimberly the Merciless and Pickle Tales)
+
+She said, “What the project needs is for you to come back ...</itunes:subtitle>
+        <itunes:summary>By Nancy Kress.
+Read by Christiana Ellis (of Nina Kimberly the Merciless and Pickle Tales)
+
+She said, “What the project needs is for you to come back and work on the same small area you did originally.  Looking for something–anything–you might have missed in the protein-coded instructions to successive generations of nanoassemblers.”
+
+“No,” I said.
+
+Rated PG.  Contains minor profanity, explicit bodily functions, and people being very, very mean..
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+PodDisc.com
+Podholes!
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP081_MarginOfError.mp3" fileSize="16762538" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/11/23/ep081-margin-of-error/</feedburner:origLink></item>
+		<item>
+		<title>PodDisc.com is live!</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/50596090/</link>
+		<comments>http://www.escapepod.org/2006/11/17/poddisccom-is-live/#comments</comments>
+		<pubDate>Fri, 17 Nov 2006 12:03:05 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Site News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/11/17/poddisccom-is-live/</guid>
+		<description><![CDATA[As promised in the past couple of episodes, our online storefront for selling podcast archive CDs is (finally!) up and running at PodDisc.com.  This is your chance to get all of your holiday shopping done in one place &#8212; provided everyone you know wants over 45 hours of science fiction short stories on CD.
+
+What [...]]]></description>
+			<content:encoded><![CDATA[<p>As promised in the past couple of episodes, our online storefront for selling podcast archive CDs is (finally!) up and running at <a href="http://poddisc.com">PodDisc.com</a>.  This is your chance to get all of your holiday shopping done in one place &#8212; provided everyone you know wants over 45 hours of science fiction short stories on CD.</p>
+
+<p>What do the discs look like?  I&#8217;m glad you asked.  They look like this:</p>
+
+<p><img src='/media/EP_Collection3.jpg' alt='Escape Pod Collection 3' width='350' height='350' /></p>
+
+<p>Beautiful, isn&#8217;t it?  And for a very slight fee, you can have your own personal message put on the CD.  You can buy each disc for $10 or a bundle of all three collections for $25.  Shipping is a cheap flat rate in the U.S. (and tolerable everywhere else), and satisfaction is guaranteed.</p>
+
+<p>Right now only Escape Pod CDs are available, but once the business model proves viable I plan to open this up to producing archive discs for other podcasters.  If that&#8217;s a service you&#8217;d be interested in, <a href="mailto:eley@escapeartists.info">drop me a line</a> and I&#8217;ll give you more details.  </p>
+
+<p><i>And remember:</i> If you&#8217;ve donated $20 or more to Escape Pod this year, or if you&#8217;re a subscriber, don&#8217;t buy yet!  I&#8217;ll be sending details to you in e-mail on how you can get this stuff for free.  </p>
+
+<p>&#8230;Right after I get some sleep.</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/11/17/poddisccom-is-live/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>As promised in the past couple of episodes, our online storefront for selling podcast archive CDs is (finally!) up and running at PodDisc.com.  This ...</itunes:subtitle>
+        <itunes:summary>As promised in the past couple of episodes, our online storefront for selling podcast archive CDs is (finally!) up and running at PodDisc.com.  This is your chance to get all of your holiday shopping done in one place — provided everyone you know wants over 45 hours of science fiction short stories on CD.
+
+What do the discs look like?  I’m glad you asked.  They look like this:
+
+
+
+Beautiful, isn’t it?  And for a very slight fee, you can have your own personal message put on the CD.  You can buy each disc for $10 or a bundle of all three collections for $25.  Shipping is a cheap flat rate in the U.S. (and tolerable everywhere else), and satisfaction is guaranteed.
+
+Right now only Escape Pod CDs are available, but once the business model proves viable I plan to open this up to producing archive discs for other podcasters.  If that’s a service you’d be interested in, drop me a line and I’ll give you more details.  
+
+And remember: If you’ve donated $20 or more to Escape Pod this year, or if you’re a subscriber, don’t buy yet!  I’ll be sending details to you in e-mail on how you can get this stuff for free.  
+
+…Right after I get some sleep.
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Site News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/11/17/poddisccom-is-live/</feedburner:origLink></item>
+		<item>
+		<title>EP080: Union Dues - Cleanup in Aisle Five</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/50035710/</link>
+		<comments>http://www.escapepod.org/2006/11/16/ep080-union-dues-cleanup-in-aisle-five/#comments</comments>
+		<pubDate>Thu, 16 Nov 2006 08:50:30 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/11/16/ep080-union-dues-cleanup-in-aisle-five/</guid>
+		<description><![CDATA[By Jeffrey R. DeRego.
+Read by Rich Sigfrit (of Requiem of the Outcast and Amazing Pulp Adventures).
+
+&#8220;Which one are you?&#8221;
+
+The kid fans out a small stack of super hero trading cards, but it&#8217;s not a Union deck. Figures. &#8220;Lemme see what you got there.&#8221; I flip through and remember my old baseball card collection. I knew [...]]]></description>
+			<content:encoded><![CDATA[<p><b>By Jeffrey R. DeRego.</b><br />
+Read by Rich Sigfrit (of <a href="http://www.requiemoftheoutcast.com/">Requiem of the Outcast</a> and <a href="http://www.requiemoftheoutcast.com/pulp/">Amazing Pulp Adventures</a>).</p>
+
+<p><i>&#8220;Which one are you?&#8221;</i></p>
+
+<p><i>The kid fans out a small stack of super hero trading cards, but it&#8217;s not a Union deck. Figures. &#8220;Lemme see what you got there.&#8221; I flip through and remember my old baseball card collection. I knew there was something special about me, when at nine-years-old, I accurately calculated the probable batting stats of each player, on every team, in the 1996 season after opening only one pack. The Union recruited me five years later after my dad beat a couple of Atlantic City casinos for ten million bucks. I was caught on security camera tape telling him when and how to bet at the roulette wheel.</i></p>
+
+<p><i>&#8220;These don&#8217;t look like you.&#8221;</i><i></p>
+
+<p></i><i>The card displays a blue-costumed man leaping between buildings. I hand it back to him. &#8220;Those guys aren&#8217;t real, but I am.&#8221; Wow. Did I just say that? Maybe I&#8217;ll tell the kid that Santa and the Easter Bunny aren&#8217;t real either. He&#8217;s staring at me now, I can almost see his little brain struggling to make sense of my answer. I should tell him to buy Union Cards but, you know, he&#8217;s five.</i></p>
+
+<p><b>Rated R</b>.  Contains profanity, some violence involving children, and retail corporate exploitation.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP080_CleanupInAisleFive.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Union Dues Stories:<br />
+<a href="http://escapepod.org/2005/11/10/ep027-iron-bars-and-the-glass-jaw/">EP027: Iron Bars and the Glass Jaw</a><br />
+<a href="http://escapepod.org/2006/04/13/ep049-union-dues-off-white-lies/">EP049: Off White Lies</a><br />
+<a href="http://escapepod.org/2006/07/13/ep062-union-dues-the-baby-and-the-bathwater/">EP062: The Baby and the Bathwater</a><br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/11/16/ep080-union-dues-cleanup-in-aisle-five/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://www.escapepod.org/media/EP080_CleanupInAisleFive.mp3" length="24503044" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Jeffrey R. DeRego.
+Read by Rich Sigfrit (of Requiem of the Outcast and Amazing Pulp Adventures).
+
+“Which one are you?”
+
+The kid fans out a small stack ...</itunes:subtitle>
+        <itunes:summary>By Jeffrey R. DeRego.
+Read by Rich Sigfrit (of Requiem of the Outcast and Amazing Pulp Adventures).
+
+“Which one are you?”
+
+The kid fans out a small stack of super hero trading cards, but it’s not a Union deck. Figures. “Lemme see what you got there.” I flip through and remember my old baseball card collection. I knew there was something special about me, when at nine-years-old, I accurately calculated the probable batting stats of each player, on every team, in the 1996 season after opening only one pack. The Union recruited me five years later after my dad beat a couple of Atlantic City casinos for ten million bucks. I was caught on security camera tape telling him when and how to bet at the roulette wheel.
+
+“These don’t look like you.”
+
+The card displays a blue-costumed man leaping between buildings. I hand it back to him. “Those guys aren’t real, but I am.” Wow. Did I just say that? Maybe I’ll tell the kid that Santa and the Easter Bunny aren’t real either. He’s staring at me now, I can almost see his little brain struggling to make sense of my answer. I should tell him to buy Union Cards but, you know, he’s five.
+
+Rated R.  Contains profanity, some violence involving children, and retail corporate exploitation.
+
+Listen to this week’s Escape Pod!
+
+Union Dues Stories:
+EP027: Iron Bars and the Glass Jaw
+EP049: Off White Lies
+EP062: The Baby and the Bathwater
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.escapepod.org/media/EP080_CleanupInAisleFive.mp3" fileSize="24503044" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/11/16/ep080-union-dues-cleanup-in-aisle-five/</feedburner:origLink></item>
+		<item>
+		<title>EP079: Mountain, Man</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/47238044/</link>
+		<comments>http://www.escapepod.org/2006/11/09/ep079-mountain-man/#comments</comments>
+		<pubDate>Thu, 09 Nov 2006 20:03:57 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/11/09/ep079-mountain-man/</guid>
+		<description><![CDATA[By Heather Shaw.
+Read by Stephen Eley.
+
+&#8220;Look, miss, I&#8217;m going to have to cut your hair to do this. Is that all right?&#8221;
+
+She smiled at him from her upside-down, bent-over position, so he took that as a yes. He found an old pair of garden shears and took a hunk of her hair, gathered it into [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.hlshaw.com">By Heather Shaw.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><i>&#8220;Look, miss, I&#8217;m going to have to cut your hair to do this. Is that all right?&#8221;</i></p>
+
+<p><i>She smiled at him from her upside-down, bent-over position, so he took that as a yes. He found an old pair of garden shears and took a hunk of her hair, gathered it into a rough ponytail, and hacked it off.</i></p>
+
+<p><i>A pair of mountain bluebirds flew out from where the nest of hair had been.</i></p>
+
+<p><b>Rated PG</b>.  Contains non-explicit sex, accidental assault, and geological scatology.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP079_MountainMan.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/11/09/ep079-mountain-man/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Heather Shaw.
+Read by Stephen Eley.
+
+“Look, miss, I’m going to have to cut your hair to do this. Is that all right?”
+
+She smiled at him ...</itunes:subtitle>
+        <itunes:summary>By Heather Shaw.
+Read by Stephen Eley.
+
+“Look, miss, I’m going to have to cut your hair to do this. Is that all right?”
+
+She smiled at him from her upside-down, bent-over position, so he took that as a yes. He found an old pair of garden shears and took a hunk of her hair, gathered it into a rough ponytail, and hacked it off.
+
+A pair of mountain bluebirds flew out from where the nest of hair had been.
+
+Rated PG.  Contains non-explicit sex, accidental assault, and geological scatology.
+
+Listen to this week’s Escape Pod!
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+        
+	<enclosure url="http://escapepod.org/media/EP079_MountainMan.mp3" length="26662527" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP079_MountainMan.mp3" fileSize="26662527" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/11/09/ep079-mountain-man/</feedburner:origLink></item>
+		<item>
+		<title>EP Review: The Prestige</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/45826175/</link>
+		<comments>http://www.escapepod.org/2006/11/06/ep-review-the-prestige/#comments</comments>
+		<pubDate>Mon, 06 Nov 2006 17:13:50 +0000</pubDate>
+		<dc:creator>Jonathon Sullivan</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated G</category>
+	<category>Reviews</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/11/06/ep-review-the-prestige/</guid>
+		<description />
+			<content:encoded><![CDATA[<p><b><a href="http://www.imdb.com/title/tt0482571/"><img border="0"
+<img src='/media/Prestige.jpeg' alt='' /><br />A film by Christopher Nolan.</a></b><br /></p>
+
+<p>Reviewed by Mark Anderson.</p>
+
+<p><a rel="enclosure" href='http://escapepod.org/media/EPReview014_Prestige.mp3' title='EP Review: Prestige'>
+<img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod Review.</a><strong></strong><strong></strong><strong></strong></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/11/06/ep-review-the-prestige/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://www.escapepod.org/media/Prestige.mp3" length="3518127" type="audio/mpeg" />
+<enclosure url="http://escapepod.org/media/EPReview014_Prestige.mp3" length="3518127" type="audio/mpeg" />
+        
+                
+        <itunes:author>Jonathon Sullivan</itunes:author>
+        <itunes:subtitle> </itunes:subtitle>
+        <itunes:summary />
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated G Reviews</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.escapepod.org/media/Prestige.mp3" fileSize="3518127" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/11/06/ep-review-the-prestige/</feedburner:origLink></item>
+		<item>
+		<title>EP078: The Shoulders of Giants</title>
+		<link>http://feeds.feedburner.com/~r/EscapePod/~3/44253464/</link>
+		<comments>http://www.escapepod.org/2006/11/02/ep078-the-shoulders-of-giants/#comments</comments>
+		<pubDate>Thu, 02 Nov 2006 10:30:35 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/11/02/ep078-the-shoulders-of-giants/</guid>
+		<description><![CDATA[By Robert J. Sawyer.
+Read by Stephen Eley.
+
+The Pioneer Spirit was a colonization ship; it wasn’t intended as a diplomatic vessel. When it had left Earth, it had seemed important to get at least some humans off the mother world. Two small-scale nuclear wars—Nuke I and Nuke II, as the media had dubbed them—had already been [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.sfwriter.com">By Robert J. Sawyer.</a></b><br />
+Read by Stephen Eley.</p>
+
+<p><i>The </i>Pioneer Spirit<i> was a colonization ship; it wasn’t intended as a diplomatic vessel. When it had left Earth, it had seemed important to get at least some humans off the mother world. Two small-scale nuclear wars—Nuke I and Nuke II, as the media had dubbed them—had already been fought, one in southern Asia, the other in South America. It appeared to be only a matter of time before Nuke III, and that one might be the big one.</i></p>
+
+<p><i>SETI had detected nothing from Tau Ceti, at least not by 2051. But Earth itself had only been broadcasting for a century and a half at that point; Tau Ceti might have had a thriving civilization then that hadn’t yet started using radio. But now it was twelve hundred years later. Who knew how advanced the Tau Cetians might be?
+</i></p>
+
+<p><b>Rated PG</b>.  Contains minor profanity, and very tame references to populating new worlds.  Hey, someone&#8217;s got to.</p>
+
+<p><a rel="enclosure" href="http://escapepod.org/media/EP078_TheShouldersOfGiants.mp3"><img src="http://escapepod.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/11/02/ep078-the-shoulders-of-giants/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Robert J. Sawyer.
+Read by Stephen Eley.
+
+The Pioneer Spirit was a colonization ship; it wasn’t intended as a diplomatic vessel. When it had left Earth, ...</itunes:subtitle>
+        <itunes:summary>By Robert J. Sawyer.
+Read by Stephen Eley.
+
+The Pioneer Spirit was a colonization ship; it wasn’t intended as a diplomatic vessel. When it had left Earth, it had seemed important to get at least some humans off the mother world. Two small-scale nuclear wars—Nuke I and Nuke II, as the media had dubbed them—had already been fought, one in southern Asia, the other in South America. It appeared to be only a matter of time before Nuke III, and that one might be the big one.
+
+SETI had detected nothing from Tau Ceti, at least not by 2051. But Earth itself had only been broadcasting for a century and a half at that point; Tau Ceti might have had a thriving civilization then that hadn’t yet started using radio. But now it was twelve hundred years later. Who knew how advanced the Tau Cetians might be?
+
+
+Rated PG.  Contains minor profanity, and very tame references to populating new worlds.  Hey, someone’s got to.
+
+Listen to this week’s Escape Pod!
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+        
+	<enclosure url="http://escapepod.org/media/EP078_TheShouldersOfGiants.mp3" length="33362009" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.org/media/EP078_TheShouldersOfGiants.mp3" fileSize="33362009" type="audio/mpeg" /><feedburner:origLink>http://www.escapepod.org/2006/11/02/ep078-the-shoulders-of-giants/</feedburner:origLink></item>
+	<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetFeedData?uri=EscapePod</feedburner:awareness></channel>
+</rss><!-- Dynamic Page Served (once) in 1.801 seconds -->

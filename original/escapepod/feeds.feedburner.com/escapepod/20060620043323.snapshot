@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2enclosuresfull.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?><!-- generator="wordpress/1.5.2" --><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Escape Pod</title>
+	<link>http://www.escapepod.org</link>
+	<description>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</description>
+
+	<pubDate>Thu, 15 Jun 2006 16:30:53 +0000</pubDate>
+	<generator>http://wordpress.org/?v=1.5.2</generator>
+	<language>en</language>
+
+    <copyright>Stephen Eley 2003-2006</copyright>
+    <managingEditor>editor@extraneous.org (Stephen Eley)</managingEditor>
+    <webMaster>editor@extraneous.org</webMaster>
+
+    <category>Science Fiction</category>
+<itunes:category text="Arts &amp; Entertainment"><itunes:category text="Science Fiction" />
+</itunes:category>
+<itunes:category text="Arts &amp; Entertainment"><itunes:category text="Books" />
+</itunes:category>
+<itunes:category text="Arts &amp; Entertainment"><itunes:category text="Performing Arts" />
+</itunes:category>
+    <itunes:subtitle>The Science Fiction Podcast Magazine.  
+
+Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</itunes:subtitle>
+    <itunes:summary>The Science Fiction Podcast Magazine.  Each week Escape Pod narrates fun science fiction and fantasy short stories, with commentary and review.  We\'re also the first paying market in podcasting.  Listen today, and hear the new sound of science fiction!</itunes:summary>
+    <itunes:author>Stephen Eley</itunes:author>    
+    <itunes:owner>
+        <itunes:name>Stephen Eley</itunes:name>
+        <itunes:email>editor@extraneous.org</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://www.escapepod.info/wp-images/pod-org-icon300.jpg" />
+ 
+    <image><link>http://escape.extraneous.org</link><url>http://escape.extraneous.org/wp-images/pod-icon128.jpg</url><title>Escape Pod</title></image>
+
+    
+		<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/2.0/</creativeCommons:license><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://escape.extraneous.org/podcast.xml" type="application/rss+xml" /><feedburner:browserFriendly>This is a podcast XML content feed. It is intended to be viewed in a podcatching application or podcast-capable newsreader or syndicated to another site.</feedburner:browserFriendly><item>
+		<title>Welcome!</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=163</link>
+		<comments>http://www.escapepod.org/2006/06/02/welcome/#comments</comments>
+		<pubDate>Fri, 02 Jun 2006 16:36:44 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Site News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/06/02/welcome/</guid>
+		<description><![CDATA[window.document.getElementById('post-134').parentNode.className += ' adhesive_post';Escape Pod is a weekly podcast bringing you fun short science fiction and fantasy.  You can listen at your computer, on any MP3 player, or subscribe to receive each episode.  We pay our authors, but we&#8217;re always free to listen.
+
+
+For all of our past podcasts, click here.
+For the 2006 Hugo [...]]]></description>
+			<content:encoded><![CDATA[<script type="text/javascript">window.document.getElementById('post-134').parentNode.className += ' adhesive_post';</script><p>Escape Pod is a weekly <a href="http://www.escapepod.org/podcasting">podcast</a> bringing you <i>fun</i> short science fiction and fantasy.  You can listen at your computer, on any MP3 player, or <a href="http://www.escapepod.org/subscribe">subscribe</a> to receive each episode.  We pay our authors, but we&#8217;re always free to listen.</p>
+
+<ul>
+<li>For all of our past podcasts, <a href="http://www.escapepod.org/category/podcasts/">click here</a>.</li>
+<li>For the 2006 Hugo Nominees, <a href="http://www.escapepod.org/category/podcasts/hugo-nominees/">click here</a>.</li>
+</ul>  
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/06/02/welcome/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>window.document.getElementById('post-134').parentNode.className += ' adhesive_post';Escape Pod is a weekly podcast bringing you fun short science fiction and fantasy.  You can listen at your computer, on ...</itunes:subtitle>
+        <itunes:summary>window.document.getElementById('post-134').parentNode.className += ' adhesive_post';Escape Pod is a weekly podcast bringing you fun short science fiction and fantasy.  You can listen at your computer, on any MP3 player, or subscribe to receive each episode.  We pay our authors, but we’re always free to listen.
+
+
+For all of our past podcasts, click here.
+For the 2006 Hugo Nominees, click here.
+  
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Site News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/06/02/welcome/</feedburner:origLink></item>
+		<item>
+		<title>EP058:  Shadowboxer</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=166</link>
+		<comments>http://www.escapepod.org/2006/06/15/ep-058-shadowboxer/#comments</comments>
+		<pubDate>Thu, 15 Jun 2006 16:00:08 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/06/15/ep-058-shadowboxer/</guid>
+		<description><![CDATA[(Technical Note:  To everyone who caught the incomplete file this morning &#8212; my deep apologies.  The upload got cut off and I failed to test properly.  Here&#8217;s the full version.)
+
+By Paul Di Filippo.
+Read by Scott Fletcher (of Podcheck Review).
+Musical guest: Andy Guthrie.
+
+Generally speaking, I need only three minutes of concentrated attention to [...]]]></description>
+			<content:encoded><![CDATA[<p><i>(<b>Technical Note:</b>  To everyone who caught the incomplete file this morning &#8212; my deep apologies.  The upload got cut off and I failed to test properly.  Here&#8217;s the full version.)</i></p>
+
+<p><b><a href="http://www.pauldifilippo.com/">By Paul Di Filippo</a>.</b><br />
+Read by Scott Fletcher (of <a href="http://www.podcheck.com">Podcheck Review</a>).<br />
+Musical guest: <a href="http://www.andyguthrie.com">Andy Guthrie</a>.</p>
+
+<p><i>Generally speaking, I need only three minutes of concentrated attention to kill someone by staring at them.  If I&#8217;m feeling under the weather, or my mind is preoccupied with other matters&#8211;you know how your mind can obsess about trivial things sometimes&#8211;it might take five minutes for my power to have its effect.  On the other hand, if I focus intensely on my victim I can get the job done in as little as ninety seconds.</i></p>
+
+<p><i>&#8230;Now the nation is at war.  Or so we&#8217;re told.  I guess that changes everything.  A person like me becomes much more important.</i></p>
+
+<p><b>Rated R</b>.  Contains violence, some sexual content, and disturbing themes. </p>
+
+<p><a rel="enclosure" href="http://www.escapepod.org/media/EP058_Shadowboxer.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://music.podshow.com">Podsafe Music Network</a><br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/06/15/ep-058-shadowboxer/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://www.escapepod.org/media/EP058_Shadowboxer.mp3" length="31567070" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>(Technical Note:  To everyone who caught the incomplete file this morning — my deep apologies.  The upload got cut off and I failed ...</itunes:subtitle>
+        <itunes:summary>(Technical Note:  To everyone who caught the incomplete file this morning — my deep apologies.  The upload got cut off and I failed to test properly.  Here’s the full version.)
+
+By Paul Di Filippo.
+Read by Scott Fletcher (of Podcheck Review).
+Musical guest: Andy Guthrie.
+
+Generally speaking, I need only three minutes of concentrated attention to kill someone by staring at them.  If I’m feeling under the weather, or my mind is preoccupied with other matters–you know how your mind can obsess about trivial things sometimes–it might take five minutes for my power to have its effect.  On the other hand, if I focus intensely on my victim I can get the job done in as little as ninety seconds.
+
+…Now the nation is at war.  Or so we’re told.  I guess that changes everything.  A person like me becomes much more important.
+
+Rated R.  Contains violence, some sexual content, and disturbing themes. 
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+Podsafe Music Network
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.escapepod.org/media/EP058_Shadowboxer.mp3" fileSize="31567070" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/06/15/ep-058-shadowboxer/</feedburner:origLink></item>
+		<item>
+		<title>EP057: Chuckles Mulrooney, Attorney for the Damned</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=164</link>
+		<comments>http://www.escapepod.org/2006/06/08/ep057-chuckles-mulrooney-attorney-for-the-damned/#comments</comments>
+		<pubDate>Thu, 08 Jun 2006 08:54:46 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/06/08/ep057-chuckles-mulrooney-attorney-for-the-damned/</guid>
+		<description><![CDATA[By Scott Sigler.
+Read by Preston Buttons (of Air Out My Shorts).
+
+ After a decade of ceaseless writing struggle, Satan had come to him in â?? of all places â?? the soup aisle at Meijerâ??s grocery store. There was no fire and brimstone, no tail, no horns, not even that cool hipster pointy goatee the devil [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://scottsigler.net">By Scott Sigler</a>.</b><br />
+Read by Preston Buttons (of <a href="http://www.theitspot.com">Air Out My Shorts</a>).<br /></p>
+
+<p><i> After a decade of ceaseless writing struggle, Satan had come to him in â?? of all places â?? the soup aisle at Meijerâ??s grocery store. There was no fire and brimstone, no tail, no horns, not even that cool hipster pointy goatee the devil always sported in the movies. He was actually kind of fat, and wore a three-piece suit with Gucci shoes. He didnâ??t look at all like Satan &#8212; he looked more like Dom Delouise posing as a lawyer.</i></p>
+
+<p><b>Rated R</b>.  Contains profanity, violence, clowns, and violence against profane clowns. </p>
+
+<p><a rel="enclosure" href="http://escapepod.podlot.com/EP057_ChucklesMulrooney.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://scottsigler.podshow.com">Infection - A Podcast Novel</a><br />
+<a href="http://www.laconiv.org/2006/hugos/ballot.htm">2006 Hugo Ballot</a><br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/06/08/ep057-chuckles-mulrooney-attorney-for-the-damned/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Scott Sigler.
+Read by Preston Buttons (of Air Out My Shorts).
+
+ After a decade of ceaseless writing struggle, Satan had come to him in â?? ...</itunes:subtitle>
+        <itunes:summary>By Scott Sigler.
+Read by Preston Buttons (of Air Out My Shorts).
+
+ After a decade of ceaseless writing struggle, Satan had come to him in â?? of all places â?? the soup aisle at Meijerâ??s grocery store. There was no fire and brimstone, no tail, no horns, not even that cool hipster pointy goatee the devil always sported in the movies. He was actually kind of fat, and wore a three-piece suit with Gucci shoes. He didnâ??t look at all like Satan — he looked more like Dom Delouise posing as a lawyer.
+
+Rated R.  Contains profanity, violence, clowns, and violence against profane clowns. 
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+Infection - A Podcast Novel
+2006 Hugo Ballot
+</itunes:summary>
+        
+        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<enclosure url="http://escapepod.podlot.com/EP057_ChucklesMulrooney.mp3" length="27923201" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.podlot.com/EP057_ChucklesMulrooney.mp3" fileSize="27923201" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/06/08/ep057-chuckles-mulrooney-attorney-for-the-damned/</feedburner:origLink></item>
+		<item>
+		<title>EP056: The Clockwork Atom Bomb</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=162</link>
+		<comments>http://www.escapepod.org/2006/06/01/ep056-the-clockwork-atom-bomb/#comments</comments>
+		<pubDate>Thu, 01 Jun 2006 08:00:22 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+	<category>Hugo Nominees</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/06/01/ep056-the-clockwork-atom-bomb/</guid>
+		<description><![CDATA[By Dominic Green.
+Read by Dr. Jonathon Sullivan.
+
+The wind in here was deafening.  The girl had to shout.  &#8220;THERE IS MORE THAN ONE IN HERE.  THEY LIVE IN THE MACHINES.  THE GOVERNMENT MADE THE MACHINES, BUT NOT WITH TECHNICIANS AND ELECTRICIANS.  WITH SORCERY.&#8221;
+
+The machines did not look made by sorcery.  [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://homepage.ntlworld.com/lumfylomax/">By Dominic Green</a>.</b><br />
+Read by Dr. Jonathon Sullivan.<br /></p>
+
+<p><i>The wind in here was deafening.  The girl had to shout.  &#8220;THERE IS MORE THAN ONE IN HERE.  THEY LIVE IN THE MACHINES.  THE GOVERNMENT MADE THE MACHINES, BUT NOT WITH TECHNICIANS AND ELECTRICIANS.  WITH SORCERY.&#8221;</i></p>
+
+<p><i>The machines did not look made by sorcery.  They were entirely silent, looking like rows of gigantic, rusted steel chess pawns twice the height of a man, with no pipes or wires entering or leaving them, apparently sitting here unused for any purpose.  Mativi felt an urgent, entirely rational need to be in an another line of employment.</i></p>
+
+<p><b>Rated R</b>.  Contains profanity and some violence. </p>
+
+<p><a rel="enclosure" href="http://escapepod.podlot.net/EP056_ClockworkAtomBomb.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.laconiv.org/2006/hugos/nominees.htm">2006 Hugo Nominees</a><br />
+<a href="http://www.balticonpodcast.org">The Balticon Podcast</a><br />
+<a href="http://www.sliceofscifi.com">Michael &amp; Evo&#8217;s Slice of SciFi</a><br />
+<a href="http://www.hauntedatlanta.com/mb">Rock &amp; Roll Monster Bash</a><br /></p>
+
+<p><img src="/wp-images/UllaCard.jpg"/></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/06/01/ep056-the-clockwork-atom-bomb/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Dominic Green.
+Read by Dr. Jonathon Sullivan.
+
+The wind in here was deafening.  The girl had to shout.  “THERE IS MORE THAN ONE IN ...</itunes:subtitle>
+        <itunes:summary>By Dominic Green.
+Read by Dr. Jonathon Sullivan.
+
+The wind in here was deafening.  The girl had to shout.  “THERE IS MORE THAN ONE IN HERE.  THEY LIVE IN THE MACHINES.  THE GOVERNMENT MADE THE MACHINES, BUT NOT WITH TECHNICIANS AND ELECTRICIANS.  WITH SORCERY.”
+
+The machines did not look made by sorcery.  They were entirely silent, looking like rows of gigantic, rusted steel chess pawns twice the height of a man, with no pipes or wires entering or leaving them, apparently sitting here unused for any purpose.  Mativi felt an urgent, entirely rational need to be in an another line of employment.
+
+Rated R.  Contains profanity and some violence. 
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+2006 Hugo Nominees
+The Balticon Podcast
+Michael &amp; Evo’s Slice of SciFi
+Rock &amp; Roll Monster Bash
+
+
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R Hugo Nominees</itunes:keywords>
+        
+	<enclosure url="http://escapepod.podlot.net/EP056_ClockworkAtomBomb.mp3" length="37942771" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.podlot.net/EP056_ClockworkAtomBomb.mp3" fileSize="37942771" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/06/01/ep056-the-clockwork-atom-bomb/</feedburner:origLink></item>
+		<item>
+		<title>Return from Balticon 40 and news</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=161</link>
+		<comments>http://www.escapepod.org/2006/05/31/return-from-balticon-40-and-news/#comments</comments>
+		<pubDate>Wed, 31 May 2006 21:30:54 +0000</pubDate>
+		<dc:creator> </dc:creator>
+		    
+		
+	<category>SF/F News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/31/return-from-balticon-40-and-news/</guid>
+		<description><![CDATA[Apologies for the silence; many of us spent the weekend at Balticon 40 talking about podcasting, editing, scotch, and &#8220;Hey, I saw Neil Gaiman in the hallway!&#8221;
+
+Latest news: 
+Tour Asia in 2007! China is hosting an International SF/Fantasy Conference in Chengdu, August 24-27, 2007. This coincides nicely with WorldCon in Nippon, scheduled for August 30-September [...]]]></description>
+			<content:encoded><![CDATA[<p>Apologies for the silence; many of us spent the weekend at Balticon 40 talking about podcasting, editing, scotch, and &#8220;Hey, I saw Neil Gaiman in the hallway!&#8221;</p>
+
+<p>Latest news: 
+Tour Asia in 2007! China is hosting an International SF/Fantasy Conference in Chengdu, August 24-27, 2007. This coincides nicely with WorldCon in Nippon, scheduled for August 30-September 3. There are even direct flights from Chengdu to Tokyo. No site link, but the full press release is at the <a href="http://www.emcit.com/wordpress/?p=2612">Emerald City Weblog</a>.</p>
+
+<p>If you didn&#8217;t get to see Serenity as many times as you&#8217;d hoped in the theater, many cities are screening it again on Joss Whedon&#8217;s birthday (June 23 for all of you non-obsessed fans). <a href="http://www.cantstoptheserenity.com/">Learn more here.</a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/31/return-from-balticon-40-and-news/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author> </itunes:author>
+        <itunes:subtitle>Apologies for the silence; many of us spent the weekend at Balticon 40 talking about podcasting, editing, scotch, and “Hey, I saw Neil Gaiman in ...</itunes:subtitle>
+        <itunes:summary>Apologies for the silence; many of us spent the weekend at Balticon 40 talking about podcasting, editing, scotch, and “Hey, I saw Neil Gaiman in the hallway!”
+
+Latest news: 
+Tour Asia in 2007! China is hosting an International SF/Fantasy Conference in Chengdu, August 24-27, 2007. This coincides nicely with WorldCon in Nippon, scheduled for August 30-September 3. There are even direct flights from Chengdu to Tokyo. No site link, but the full press release is at the Emerald City Weblog.
+
+If you didn’t get to see Serenity as many times as you’d hoped in the theater, many cities are screening it again on Joss Whedon’s birthday (June 23 for all of you non-obsessed fans). Learn more here.
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>SF/F News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/05/31/return-from-balticon-40-and-news/</feedburner:origLink></item>
+		<item>
+		<title>Pern Movie!</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=160</link>
+		<comments>http://www.escapepod.org/2006/05/25/pern-movie/#comments</comments>
+		<pubDate>Fri, 26 May 2006 02:17:47 +0000</pubDate>
+		<dc:creator> </dc:creator>
+		    
+		
+	<category>SF/F News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/25/pern-movie/</guid>
+		<description><![CDATA[Anne McCaffrey&#8217;s (why is it never &#8220;Hugo-winning novelist, Anne McCaffrey&#8221;?) rich world of telepathic dragons is finally coming to a movie house near you. SciFi Wire reports that Copperheart Entertainment will be adapting it to the movies. 
+
+This makes me want to send a note back in time to my 15 year old self and [...]]]></description>
+			<content:encoded><![CDATA[<p>Anne McCaffrey&#8217;s (why is it never &#8220;Hugo-winning novelist, Anne McCaffrey&#8221;?) rich world of telepathic dragons is finally coming to a movie house near you. <a href="http://www.scifi.com/scifiwire/index.php?id=36303">SciFi Wire reports</a> that Copperheart Entertainment will be adapting it to the movies. </p>
+
+<p>This makes me want to send a note back in time to my 15 year old self and say, &#8220;Just be patient. It will come.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/25/pern-movie/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author> </itunes:author>
+        <itunes:subtitle>Anne McCaffrey’s (why is it never “Hugo-winning novelist, Anne McCaffrey”?) rich world of telepathic dragons is finally coming to a movie house near you. SciFi ...</itunes:subtitle>
+        <itunes:summary>Anne McCaffrey’s (why is it never “Hugo-winning novelist, Anne McCaffrey”?) rich world of telepathic dragons is finally coming to a movie house near you. SciFi Wire reports that Copperheart Entertainment will be adapting it to the movies. 
+
+This makes me want to send a note back in time to my 15 year old self and say, “Just be patient. It will come.”
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>SF/F News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/05/25/pern-movie/</feedburner:origLink></item>
+		<item>
+		<title>EP055: Down Memory Lane</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=159</link>
+		<comments>http://www.escapepod.org/2006/05/25/ep055-down-memory-lane/#comments</comments>
+		<pubDate>Thu, 25 May 2006 09:35:15 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated G</category>
+	<category>Hugo Nominees</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/25/ep055-down-memory-lane/</guid>
+		<description><![CDATA[By Mike Resnick.
+Read by Alex Wilson (of Telltale Weekly).
+
+I donâ??t know where I was when Kennedy was shot. I donâ??t know what I was doing when the World Trade Center collapsed under the onslaught of two jetliners. But I remember every single detail, every minute, every second, of the day we got the bad news.
+
+â??It [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.fortunecity.com/tattooine/farmer/2/">By Mike Resnick</a>.</b><br />
+Read by Alex Wilson (of <a href="http://www.telltaleweekly.org/">Telltale Weekly</a>).<br /></p>
+
+<p><i>I donâ??t know where I was when Kennedy was shot. I donâ??t know what I was doing when the World Trade Center collapsed under the onslaught of two jetliners. But I remember every single detail, every minute, every second, of the day we got the bad news.</i></p>
+
+<p><i>â??It may not be Alzheimerâ??s,â?? said Dr. Castleman. â??Alzheimerâ??s is becoming a catchword for a variety of senile dementias. Eventually weâ??ll find out exactly which dementia it is, but thereâ??s no question that Gwendolyn is suffering from one of them.â??</i></p>
+
+<p><b>Rated G</b>. </p>
+
+<p><a rel="enclosure" href="http://escapepod.podlot.com/EP055_DownMemoryLane.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.laconiv.org/2006/hugos/nominees.htm">2006 Hugo Nominees</a><br />
+<a href="http://www.worldcon.org">World Science Fiction Convention</a><br />
+<a href="http://www.laconiv.org">L.A.Con IV</a><br />
+<a href="http://www.telltaleweekly.org/clarion.php">TellTale Weekly &#8212; Clarion Foundation Fundraiser</a><br />
+<a href="http://podcasts.resonancefm.com/archives/196">Hooting Yard Benevolent Fund for Distressed Out of Print Pamphleteers</a><br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/25/ep055-down-memory-lane/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Mike Resnick.
+Read by Alex Wilson (of Telltale Weekly).
+
+I donâ??t know where I was when Kennedy was shot. I donâ??t know what I was doing ...</itunes:subtitle>
+        <itunes:summary>By Mike Resnick.
+Read by Alex Wilson (of Telltale Weekly).
+
+I donâ??t know where I was when Kennedy was shot. I donâ??t know what I was doing when the World Trade Center collapsed under the onslaught of two jetliners. But I remember every single detail, every minute, every second, of the day we got the bad news.
+
+â??It may not be Alzheimerâ??s,â?? said Dr. Castleman. â??Alzheimerâ??s is becoming a catchword for a variety of senile dementias. Eventually weâ??ll find out exactly which dementia it is, but thereâ??s no question that Gwendolyn is suffering from one of them.â??
+
+Rated G. 
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+2006 Hugo Nominees
+World Science Fiction Convention
+L.A.Con IV
+TellTale Weekly — Clarion Foundation Fundraiser
+Hooting Yard Benevolent Fund for Distressed Out of Print Pamphleteers
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated G Hugo Nominees</itunes:keywords>
+        
+	<enclosure url="http://escapepod.podlot.com/EP055_DownMemoryLane.mp3" length="27562859" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.podlot.com/EP055_DownMemoryLane.mp3" fileSize="27562859" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/05/25/ep055-down-memory-lane/</feedburner:origLink></item>
+		<item>
+		<title>Writers Beware!</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=158</link>
+		<comments>http://www.escapepod.org/2006/05/23/writers-beware/#comments</comments>
+		<pubDate>Tue, 23 May 2006 20:43:05 +0000</pubDate>
+		<dc:creator> </dc:creator>
+		    
+		
+	<category>SF/F News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/23/writers-beware/</guid>
+		<description><![CDATA[BoingBoing recently broke this story, which is something anyone who is interested in genre fiction needs to take interest in. A University of Florida graduate student wrote a horror story on his LiveJournal which got the interest of the university police. They have been harassing him for his fingerprints and DNA so they can try [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://boingboing.net">BoingBoing</a> recently broke <a href="http://www.boingboing.net/2006/05/22/u_florida_cops_ask_f.html">this story</a>, which is something anyone who is interested in genre fiction needs to take interest in. A University of Florida graduate student wrote a horror story on his LiveJournal which got the interest of the university police. They have been harassing him for his fingerprints and DNA so they can try to match him to other murders. The unstoppable force that is Cory Doctorow got involved, calling and investigating, with the police quite unwilling to discuss the situation, although they chose to use Doctorow&#8217;s interest in the situation as more ammo with which to threaten the student. There is no case. There are no charges. And yet they won&#8217;t lay off this guy. </p>
+
+<p>Writing is not a crime. Writing about bad things is not a crime. Being an unpublished writer, writing about bad things, is not a crime. (Notice no one going after big time authors.)</p>
+
+<p>**</p>
+
+<p>In other news. <a href="http://www.scifi.com/scifiwire/index.php?id=36225">SciFi Wire</a> reports that Dabel Brothers Productions will start adapting some popular SFF novels to graphic novels. If they do it half as well as Mike Carey and Glenn Fabry are depicting Neil Gaiman&#8217;s <em><a href="http://www.dccomics.com/comics/?cm=5050">Neverwhere</a></em>, look to see some good stuff. The first three titles up will be Orson Scott Card&#8217;s <em>Red Prophet</em> and <em>Wyrms</em> and Laurel K. Hamilton&#8217;s <em>Anita Blake</em> book, <em>Guilty Pleasures</em>.</p>
+
+<p>[EDIT- these are not the first titles, these are the first of a new batch. They&#8217;ve been doing this with other titles already. Thanks for the comment, John!]</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/23/writers-beware/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author> </itunes:author>
+        <itunes:subtitle>BoingBoing recently broke this story, which is something anyone who is interested in genre fiction needs to take interest in. A University of Florida graduate ...</itunes:subtitle>
+        <itunes:summary>BoingBoing recently broke this story, which is something anyone who is interested in genre fiction needs to take interest in. A University of Florida graduate student wrote a horror story on his LiveJournal which got the interest of the university police. They have been harassing him for his fingerprints and DNA so they can try to match him to other murders. The unstoppable force that is Cory Doctorow got involved, calling and investigating, with the police quite unwilling to discuss the situation, although they chose to use Doctorow’s interest in the situation as more ammo with which to threaten the student. There is no case. There are no charges. And yet they won’t lay off this guy. 
+
+Writing is not a crime. Writing about bad things is not a crime. Being an unpublished writer, writing about bad things, is not a crime. (Notice no one going after big time authors.)
+
+**
+
+In other news. SciFi Wire reports that Dabel Brothers Productions will start adapting some popular SFF novels to graphic novels. If they do it half as well as Mike Carey and Glenn Fabry are depicting Neil Gaiman’s Neverwhere, look to see some good stuff. The first three titles up will be Orson Scott Card’s Red Prophet and Wyrms and Laurel K. Hamilton’s Anita Blake book, Guilty Pleasures.
+
+[EDIT- these are not the first titles, these are the first of a new batch. They’ve been doing this with other titles already. Thanks for the comment, John!]
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>SF/F News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/05/23/writers-beware/</feedburner:origLink></item>
+		<item>
+		<title>Tiptree Longlist Controversy</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=157</link>
+		<comments>http://www.escapepod.org/2006/05/19/tiptree-award-controversy/#comments</comments>
+		<pubDate>Fri, 19 May 2006 19:16:46 +0000</pubDate>
+		<dc:creator> </dc:creator>
+		    
+		
+	<category>SF/F News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/19/tiptree-award-controversy/</guid>
+		<description><![CDATA[Sorry for the radio silence lately.
+
+The blogosphere was on fire yesterday with the news that apparently a piece of fanfiction (&#8221;Arcana&#8221; by Emily Brunson - the work has since been removed from the web) was on the long list for this year&#8217;s Tiptree Award (1). There are, of course, strong opinions on either side. Fanfic [...]]]></description>
+			<content:encoded><![CDATA[<p>Sorry for the radio silence lately.</p>
+
+<p>The blogosphere was <a href="http://coffeeandink.livejournal.com/588823.html">on fire yesterday</a> with the news that apparently a piece of fanfiction (&#8221;Arcana&#8221; by Emily Brunson - the work has since been removed from the web) was on the long list for this year&#8217;s <a href="http://www.tiptree.org/">Tiptree Award</a> (1). There are, of course, strong opinions on either side. Fanfic has been looked down upon for years - it&#8217;s a copyright violation (which is true), it&#8217;s not &#8220;real writing&#8221; (not quite so true), it takes no skill (untrue) and there&#8217;s a lot of crap out there (true of any art). The other side, well, they just argue the opposite. I (2) realized that there&#8217;s a fine line - if someone hires you to write, it&#8217;s no longer fanfic. But what&#8217;s the difference between a Star Wars fanfic and a Star Wars novel? Money, licensing, permission, and perhaps skill. I write professional fanfic when I write in established RPG worlds. I&#8217;ve written World of Warcraft fanfic and Exalted fanfic, technically. </p>
+
+<p>However, the sticky situation comes up when you realize if the piece had won, then the author would have received things such as chocolate, a trip to the award ceremony at WisCon, and&#8230; money. That&#8217;s right. The author would have received money, making the &#8220;homage&#8221; copyright violation (something that&#8217;s usually accepted online) into a definite illegal commercial copyright violation. </p>
+
+<p>People are questioning the credibility of the judges, as fanfic isn&#8217;t even considered &#8220;published&#8221;, was the piece good enough, should it be judged on writing or just gender exploration, etc. It&#8217;s an interesting situation. I have to admit that my opinion of fanfic has changed in the past years, but I&#8217;m still firmly in the camp that it should be seen as a hobby that hones writing skill and is fun to do, not something you can publish, no matter how good it is. </p>
+
+<p><b>[EDIT- response from Debbie Notkin, chair of the Tiptree motherboard in the comments.]</b></p>
+
+<p>(1) James Tiptree Jr. Award celebrates scifi that explores gender issues. The 2005 winner was &#8220;Air: Or, Have Not Have&#8221; by Geoff Ryman
+ <br />(2)This was written by Mur, not Steve.</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/19/tiptree-award-controversy/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author> </itunes:author>
+        <itunes:subtitle>Sorry for the radio silence lately.
+
+The blogosphere was on fire yesterday with the news that apparently a piece of fanfiction (”Arcana” by Emily Brunson - ...</itunes:subtitle>
+        <itunes:summary>Sorry for the radio silence lately.
+
+The blogosphere was on fire yesterday with the news that apparently a piece of fanfiction (”Arcana” by Emily Brunson - the work has since been removed from the web) was on the long list for this year’s Tiptree Award (1). There are, of course, strong opinions on either side. Fanfic has been looked down upon for years - it’s a copyright violation (which is true), it’s not “real writing” (not quite so true), it takes no skill (untrue) and there’s a lot of crap out there (true of any art). The other side, well, they just argue the opposite. I (2) realized that there’s a fine line - if someone hires you to write, it’s no longer fanfic. But what’s the difference between a Star Wars fanfic and a Star Wars novel? Money, licensing, permission, and perhaps skill. I write professional fanfic when I write in established RPG worlds. I’ve written World of Warcraft fanfic and Exalted fanfic, technically. 
+
+However, the sticky situation comes up when you realize if the piece had won, then the author would have received things such as chocolate, a trip to the award ceremony at WisCon, and… money. That’s right. The author would have received money, making the “homage” copyright violation (something that’s usually accepted online) into a definite illegal commercial copyright violation. 
+
+People are questioning the credibility of the judges, as fanfic isn’t even considered “published”, was the piece good enough, should it be judged on writing or just gender exploration, etc. It’s an interesting situation. I have to admit that my opinion of fanfic has changed in the past years, but I’m still firmly in the camp that it should be seen as a hobby that hones writing skill and is fun to do, not something you can publish, no matter how good it is. 
+
+[EDIT- response from Debbie Notkin, chair of the Tiptree motherboard in the comments.]
+
+(1) James Tiptree Jr. Award celebrates scifi that explores gender issues. The 2005 winner was “Air: Or, Have Not Have” by Geoff Ryman
+ (2)This was written by Mur, not Steve.
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>SF/F News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/05/19/tiptree-award-controversy/</feedburner:origLink></item>
+		<item>
+		<title>EP054: Tk’tk’tk</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=155</link>
+		<comments>http://www.escapepod.org/2006/05/18/ep054-tktktk/#comments</comments>
+		<pubDate>Thu, 18 May 2006 12:00:24 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+	<category>Hugo Nominees</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/18/ep054-tktktk/</guid>
+		<description><![CDATA[By David D. Levine.
+Read by Paul Tevis (of Have Games Will Travel).
+
+Shkthh pth kstphst, the shopkeeper said, and Walkerâ??s hypno-implanted vocabulary provided a translation: â??What a delightful object.â?? Chitinous fingers picked up the recorder, scrabbling against the aluminum case with a sound that Walker found deeply disturbing. â??What does it do?â??
+
+It took him a moment [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.spiritone.com/~dlevine/sf/">By David D. Levine</a>.</b><br />
+Read by Paul Tevis (of <a href="http://havegameswilltravel.libsyn.com/">Have Games Will Travel</a>).<br /></p>
+
+<p>Shkthh pth kstphst, <i>the shopkeeper said, and Walkerâ??s hypno-implanted vocabulary provided a translation: â??What a delightful object.â?? Chitinous fingers picked up the recorder, scrabbling against the aluminum case with a sound that Walker found deeply disturbing. â??What does it do?â??</i></p>
+
+<p><i>It took him a moment to formulate a reply. Even with hypno, </i>Thfshpfth<i> was a formidably complex language. â??It listens and repeats,â?? he said. â??You talk all day, it remembers all. Earth technology. Nothing like it for light-years.â?? The word for â??light-yearâ?? was </i>hkshkhthskht,<i> difficult to pronounce. He hoped heâ??d gotten it right.</i></p>
+
+<p><b>Rated PG</b>.  Contains scatology and crimes against pronunciation.</p>
+
+<p><a rel="enclosure" href="http://escapepod.podlot.net/EP054_TkTkTk.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.laconiv.org/2006/hugos/nominees.htm">2006 Hugo Nominees</a><br />
+<a href="http://www.shelleytherepublican.com/2006/05/podcasts-part-2-science-fiction-or.html">Shelley the Republican</a><br />
+<a href="http://www.capalert.com/">CAP Alert System</a><br />
+<a href="http://www.spiritone.com/~dlevine/bento/">Bento Fanzine</a><br />
+<a href="http://www.pta.org">National PTA</a><br />
+<a href="http://www.rescuingrecess.com">Rescuing Recess</a><br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/18/ep054-tktktk/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By David D. Levine.
+Read by Paul Tevis (of Have Games Will Travel).
+
+Shkthh pth kstphst, the shopkeeper said, and Walkerâ??s hypno-implanted vocabulary provided a translation: â??What ...</itunes:subtitle>
+        <itunes:summary>By David D. Levine.
+Read by Paul Tevis (of Have Games Will Travel).
+
+Shkthh pth kstphst, the shopkeeper said, and Walkerâ??s hypno-implanted vocabulary provided a translation: â??What a delightful object.â?? Chitinous fingers picked up the recorder, scrabbling against the aluminum case with a sound that Walker found deeply disturbing. â??What does it do?â??
+
+It took him a moment to formulate a reply. Even with hypno, Thfshpfth was a formidably complex language. â??It listens and repeats,â?? he said. â??You talk all day, it remembers all. Earth technology. Nothing like it for light-years.â?? The word for â??light-yearâ?? was hkshkhthskht, difficult to pronounce. He hoped heâ??d gotten it right.
+
+Rated PG.  Contains scatology and crimes against pronunciation.
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+2006 Hugo Nominees
+Shelley the Republican
+CAP Alert System
+Bento Fanzine
+National PTA
+Rescuing Recess
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG Hugo Nominees</itunes:keywords>
+        
+	<enclosure url="http://escapepod.podlot.net/EP054_TkTkTk.mp3" length="38663074" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.podlot.net/EP054_TkTkTk.mp3" fileSize="38663074" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/05/18/ep054-tktktk/</feedburner:origLink></item>
+		<item>
+		<title>EP053: Seventy-Five Years</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=154</link>
+		<comments>http://www.escapepod.org/2006/05/11/ep053-seventy-five-years/#comments</comments>
+		<pubDate>Thu, 11 May 2006 22:00:10 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated G</category>
+	<category>Hugo Nominees</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/11/ep053-seventy-five-years/</guid>
+		<description><![CDATA[By Michael A. Burstein.
+Read by Deborah Green.
+
+Isabel turned the handheld on and read to herself briefly. &#8220;According to this, your bill would push the date of release of the individual Census forms from seventy-two to seventy- five years.&#8221;
+
+&#8220;It makes sense, Isabel.&#8221;
+
+&#8220;It does?&#8221;
+
+He pointed to her handheld. &#8220;You say you have my argument in there.&#8221;
+
+&#8220;I do. [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.mabfan.com/">By Michael A. Burstein</a>.</b><br />
+Read by Deborah Green.<br /></p>
+
+<p><i>Isabel turned the handheld on and read to herself briefly. &#8220;According to this, your bill would push the date of release of the individual Census forms from seventy-two to seventy- five years.&#8221;</i></p>
+
+<p><i>&#8220;It makes sense, Isabel.&#8221;</i></p>
+
+<p><i>&#8220;It does?&#8221;</i></p>
+
+<p><i>He pointed to her handheld. &#8220;You say you have my argument in there.&#8221;</i></p>
+
+<p><i>&#8220;I do. And I find it specious.&#8221;</i></p>
+
+<p><b>Rated G</b>.  Contains politics and reference to moral issues.  (Your kids may not <i>get</i> it, but it shouldn&#8217;t offend.)</p>
+
+<p><a rel="enclosure" href="http://escapepod.podlot.com/EP053_SeventyFiveYears.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Listen to this week&#8217;s Escape Pod!</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://www.laconiv.org/2006/hugos/nominees.htm">2006 Hugo Nominees</a><br />
+<a href="http://en.wikipedia.org/wiki/Hugo_Award">Wikipedia on the Hugo Award</a><br />
+<a href="http://web2.airmail.net/tharvia/hugos_at_a_glance.html">Hugo History at a Glance</a><br />
+<a href="http://www.scalzi.com/whatever/004115.html/">Novel Nominees - Electronic Editions</a><br />
+<a href="http://www.hauntedatlanta.com/mb/">Rock &#8216;N&#8217; Roll Monster Bash 2006</a><br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/11/ep053-seventy-five-years/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Michael A. Burstein.
+Read by Deborah Green.
+
+Isabel turned the handheld on and read to herself briefly. “According to this, your bill would push the date ...</itunes:subtitle>
+        <itunes:summary>By Michael A. Burstein.
+Read by Deborah Green.
+
+Isabel turned the handheld on and read to herself briefly. “According to this, your bill would push the date of release of the individual Census forms from seventy-two to seventy- five years.”
+
+“It makes sense, Isabel.”
+
+“It does?”
+
+He pointed to her handheld. “You say you have my argument in there.”
+
+“I do. And I find it specious.”
+
+Rated G.  Contains politics and reference to moral issues.  (Your kids may not get it, but it shouldn’t offend.)
+
+Listen to this week’s Escape Pod!
+
+Referenced sites:
+2006 Hugo Nominees
+Wikipedia on the Hugo Award
+Hugo History at a Glance
+Novel Nominees - Electronic Editions
+Rock ‘N’ Roll Monster Bash 2006
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated G Hugo Nominees</itunes:keywords>
+        
+	<enclosure url="http://escapepod.podlot.com/EP053_SeventyFiveYears.mp3" length="18323303" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.podlot.com/EP053_SeventyFiveYears.mp3" fileSize="18323303" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/05/11/ep053-seventy-five-years/</feedburner:origLink></item>
+		<item>
+		<title>EP ETA: PM</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=153</link>
+		<comments>http://www.escapepod.org/2006/05/11/ep-eta-pm/#comments</comments>
+		<pubDate>Thu, 11 May 2006 08:20:35 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Site News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/11/ep-eta-pm/</guid>
+		<description><![CDATA[Hi all,
+
+Just a quick heads-up that due to a last minute technical issue (that I&#8217;m too annoyed at myself to describe), today&#8217;s Escape Pod will be posted sometime this afternoon.
+
+Our official release schedule is &#8220;Sometime Thursday,&#8221; so strictly speaking this doesn&#8217;t make us late.  However, I know that many of you are used to [...]]]></description>
+			<content:encoded><![CDATA[<p>Hi all,</p>
+
+<p>Just a quick heads-up that due to a last minute technical issue (that I&#8217;m too annoyed at myself to describe), today&#8217;s Escape Pod will be posted sometime this afternoon.</p>
+
+<p>Our official release schedule is &#8220;Sometime Thursday,&#8221; so strictly speaking this doesn&#8217;t make us late.  However, I know that many of you are used to getting the files in the morning, and for those of you who&#8217;ll miss having it for these few hours, I apologize.  </p>
+
+<p>If all goes well it&#8217;ll be the first of our Hugo nominees, so hopefully it&#8217;ll be worth the wait.  And my new job schedule <i>should</i> mean this is the last time I stay up this late to get things done.</p>
+
+<p>Thanks for your understanding!</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/11/ep-eta-pm/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>Hi all,
+
+Just a quick heads-up that due to a last minute technical issue (that I’m too annoyed at myself to describe), today’s Escape Pod will ...</itunes:subtitle>
+        <itunes:summary>Hi all,
+
+Just a quick heads-up that due to a last minute technical issue (that I’m too annoyed at myself to describe), today’s Escape Pod will be posted sometime this afternoon.
+
+Our official release schedule is “Sometime Thursday,” so strictly speaking this doesn’t make us late.  However, I know that many of you are used to getting the files in the morning, and for those of you who’ll miss having it for these few hours, I apologize.  
+
+If all goes well it’ll be the first of our Hugo nominees, so hopefully it’ll be worth the wait.  And my new job schedule should mean this is the last time I stay up this late to get things done.
+
+Thanks for your understanding!
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Site News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/05/11/ep-eta-pm/</feedburner:origLink></item>
+		<item>
+		<title>The Dragon Page Expands the Reach of Podcasting</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=152</link>
+		<comments>http://www.escapepod.org/2006/05/09/the-dragon-page-expands-the-reach-of-podcasting/#comments</comments>
+		<pubDate>Wed, 10 May 2006 03:21:13 +0000</pubDate>
+		<dc:creator> </dc:creator>
+		    
+		
+	<category>SF/F News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/09/the-dragon-page-expands-the-reach-of-podcasting/</guid>
+		<description><![CDATA[Summer Brooks, Producer of The Dragon Page podcasts, reports that this Saturday they will be doing something new with Cover to Cover. 
+
+We will be recording the next &#8220;Cover to Cover&#8221; feature on Saturday, May 13th, beginning at 10:30am Pacific Time.
+
+What makes this different is that we&#8217;ll be talking with 3 authors from Edge Publications, [...]]]></description>
+			<content:encoded><![CDATA[<p>Summer Brooks, Producer of <a href="http://www.dragonpage.com">The Dragon Page</a> podcasts, reports that this Saturday they will be doing something new with Cover to Cover. </p>
+
+<blockquote>We will be recording the next &#8220;Cover to Cover&#8221; feature on Saturday, May 13th, beginning at 10:30am Pacific Time.
+
+What makes this different is that we&#8217;ll be talking with 3 authors from Edge Publications, and you&#8217;ll be able to call in with questions and comments during and after their roundtable discussion.
+
+Rebecca Rowe (&#8221;Forbidden Cargo&#8221;), Lynda Williams (&#8221;Courtesan Prince&#8221;, &#8220;Throne Prince&#8221;, &#8220;Righteous Anger&#8221;), and Australian author and Borealis winner K.A. Bedford (&#8221;Orbital&#8221;, &#8220;Eclipse&#8221;, &#8220;Hydrogen Steel&#8221;) will be talking about their books, all of which have something to do with genetic modification and the use of nanotechnology in humans.
+
+Listeners will be able to hear the feed here:
+<a href="http://haven.homelinux.net:12346/listen.pls">http://haven.homelinux.net:12346/listen.pls</a>
+
+Australian listeners can catch a feed closer to home:
+<a href="http://stream.froosh.net:8000/wingin_it.m3u">http://stream.froosh.net:8000/wingin_it.m3u</a>
+
+We are in the process of adding another server, so keep an eye out here, and in the new IRC channel #dragonpage for more news.
+
+Both IRC channels #dragonpage and #wingin_it are available at irc.freenode.net</blockquote>
+
+<p>Leave it to Michael and Evo and the Kick Ass Mystic Ninjas to fiddle with the possibilities of the awesomeness of podcasting. If you&#8217;ve got some time Saturday, check it out.</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/09/the-dragon-page-expands-the-reach-of-podcasting/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author> </itunes:author>
+        <itunes:subtitle>Summer Brooks, Producer of The Dragon Page podcasts, reports that this Saturday they will be doing something new with Cover to Cover. 
+
+We will be ...</itunes:subtitle>
+        <itunes:summary>Summer Brooks, Producer of The Dragon Page podcasts, reports that this Saturday they will be doing something new with Cover to Cover. 
+
+We will be recording the next “Cover to Cover” feature on Saturday, May 13th, beginning at 10:30am Pacific Time.
+
+What makes this different is that we’ll be talking with 3 authors from Edge Publications, and you’ll be able to call in with questions and comments during and after their roundtable discussion.
+
+Rebecca Rowe (”Forbidden Cargo”), Lynda Williams (”Courtesan Prince”, “Throne Prince”, “Righteous Anger”), and Australian author and Borealis winner K.A. Bedford (”Orbital”, “Eclipse”, “Hydrogen Steel”) will be talking about their books, all of which have something to do with genetic modification and the use of nanotechnology in humans.
+
+Listeners will be able to hear the feed here:
+http://haven.homelinux.net:12346/listen.pls
+
+Australian listeners can catch a feed closer to home:
+http://stream.froosh.net:8000/wingin_it.m3u
+
+We are in the process of adding another server, so keep an eye out here, and in the new IRC channel #dragonpage for more news.
+
+Both IRC channels #dragonpage and #wingin_it are available at irc.freenode.net
+
+Leave it to Michael and Evo and the Kick Ass Mystic Ninjas to fiddle with the possibilities of the awesomeness of podcasting. If you’ve got some time Saturday, check it out.
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>SF/F News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/05/09/the-dragon-page-expands-the-reach-of-podcasting/</feedburner:origLink></item>
+		<item>
+		<title>EP Metacast #2</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=151</link>
+		<comments>http://www.escapepod.org/2006/05/09/ep-metacast-2/#comments</comments>
+		<pubDate>Tue, 09 May 2006 06:54:12 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/09/ep-metacast-2/</guid>
+		<description><![CDATA[The second &#8220;state of the podcast&#8221; address, in which we discuss:
+
+
+Why it&#8217;s been too long
+Steve&#8217;s new day job
+EP publicity and audience growth
+Current finances
+Future goals for 2007
+Marketing plans &#038; conventions
+Why EP is not going non-profit
+New company name: Escape Artists, Inc.
+Different ways to raise funds in the future
+Why we&#8217;ve turned down advertising (and what we might accept)
+No [...]]]></description>
+			<content:encoded><![CDATA[<p>The second &#8220;state of the podcast&#8221; address, in which we discuss:</p>
+
+<ul>
+<li>Why it&#8217;s been too long</li>
+<li>Steve&#8217;s <a href="http://www.podcastready.com">new day job</a></li>
+<li>EP publicity and audience growth</li>
+<li>Current finances</li>
+<li>Future goals for 2007</li>
+<li>Marketing plans &#038; conventions</li>
+<li>Why EP <i>is not</i> going non-profit</li>
+<li>New company name: <b>Escape Artists, Inc.</b></li>
+<li>Different ways to raise funds in the future</li>
+<li>Why we&#8217;ve turned down advertising (and what we might accept)</li>
+<li>No pay-for-content models, <i>ever</i></li>
+<li>Please <a href="mailto:feedback@escapepod.org">tell us what you think!</a></li>
+</ul>
+
+<p><i>And our bonus flash story:</i></p>
+
+<p><b>EPn+1<br />
+By Rob Graber.</b> (Read by Stephen Eley.)</p>
+
+<p><a rel="enclosure" href="http://www.podtrac.com/pts/redirect.mp3?http://escapepod.podlot.net/EP_Metacast002.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download the Escape Pod metacast.</a></p>
+
+<p>Thanks for a great year, everyone!  This coming year will be bigger and better.  Nothing can stop us now!</p>
+
+<p>(Well, okay.  Giant monsters could.  That&#8217;s why we got them <a href="http://www.daikaiju.org">on our side</a>.)</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/09/ep-metacast-2/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>The second “state of the podcast” address, in which we discuss:
+
+
+Why it’s been too long
+Steve’s new day job
+EP publicity and audience growth
+Current finances
+Future goals for ...</itunes:subtitle>
+        <itunes:summary>The second “state of the podcast” address, in which we discuss:
+
+
+Why it’s been too long
+Steve’s new day job
+EP publicity and audience growth
+Current finances
+Future goals for 2007
+Marketing plans &amp; conventions
+Why EP is not going non-profit
+New company name: Escape Artists, Inc.
+Different ways to raise funds in the future
+Why we’ve turned down advertising (and what we might accept)
+No pay-for-content models, ever
+Please tell us what you think!
+
+
+And our bonus flash story:
+
+EPn+1
+By Rob Graber. (Read by Stephen Eley.)
+
+Download the Escape Pod metacast.
+
+Thanks for a great year, everyone!  This coming year will be bigger and better.  Nothing can stop us now!
+
+(Well, okay.  Giant monsters could.  That’s why we got them on our side.)
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts</itunes:keywords>
+        
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://escapepod.podlot.net/EP_Metacast002.mp3" length="15623437" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.podtrac.com/pts/redirect.mp3?http://escapepod.podlot.net/EP_Metacast002.mp3" fileSize="15623437" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/05/09/ep-metacast-2/</feedburner:origLink></item>
+		<item>
+		<title>Free Hugo Nominated Works</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=150</link>
+		<comments>http://www.escapepod.org/2006/05/08/free-hugo-nominated-works/#comments</comments>
+		<pubDate>Tue, 09 May 2006 01:51:04 +0000</pubDate>
+		<dc:creator> </dc:creator>
+		    
+		
+	<category>Site News</category>
+	<category>SF/F News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/08/free-hugo-nominated-works/</guid>
+		<description><![CDATA[Limited to Hugo voters (members of LACon IV, this year&#8217;s WorldCon), free electronic copies of John Scalzi&#8217;s Old Man&#8217;s War, Robert Charles Wilson&#8217;s Spin and Charlie Stross&#8217;s Accelerando are available! More information on how to get your copies are on Scalzi&#8217;s blog. (Stross&#8217;s Accelerando is also available to non-voters through his site.)
+
+And for those of [...]]]></description>
+			<content:encoded><![CDATA[<p>Limited to Hugo voters (members of LACon IV, this year&#8217;s WorldCon), free electronic copies of John Scalzi&#8217;s <em>Old Man&#8217;s War</em>, Robert Charles Wilson&#8217;s <em>Spin</em> and Charlie Stross&#8217;s <em>Accelerando</em> are available! <a href="http://www.scalzi.com/whatever/004115.html">More information on how to get your copies are on Scalzi&#8217;s blog</a>. (Stross&#8217;s Accelerando is also available to non-voters through <a href="http://www.accelerando.org/">his site</a>.)</p>
+
+<p>And for those of you (us) who are unable to make it to WorldCon, instead of gnashing your teeth and beating your breast, why not snuggle down with the free e-book of James Patrick Kelly&#8217;s nominated work, <em>Burn</em>? If you missed the podcast (shame on you, it was fantastic) then you can still get it for free through e-book (you can still download all the chapters through podcast, if you want to hear Jim&#8217;s voice telling the story in his compelling way.) All information <a href="http://jimkelly.net">on his site</a>. </p>
+
+<p>And then, of course, you have at least four of the five nominated short stories available here on Escape Pod starting this week!</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/08/free-hugo-nominated-works/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author> </itunes:author>
+        <itunes:subtitle>Limited to Hugo voters (members of LACon IV, this year’s WorldCon), free electronic copies of John Scalzi’s Old Man’s War, Robert Charles Wilson’s Spin and ...</itunes:subtitle>
+        <itunes:summary>Limited to Hugo voters (members of LACon IV, this year’s WorldCon), free electronic copies of John Scalzi’s Old Man’s War, Robert Charles Wilson’s Spin and Charlie Stross’s Accelerando are available! More information on how to get your copies are on Scalzi’s blog. (Stross’s Accelerando is also available to non-voters through his site.)
+
+And for those of you (us) who are unable to make it to WorldCon, instead of gnashing your teeth and beating your breast, why not snuggle down with the free e-book of James Patrick Kelly’s nominated work, Burn? If you missed the podcast (shame on you, it was fantastic) then you can still get it for free through e-book (you can still download all the chapters through podcast, if you want to hear Jim’s voice telling the story in his compelling way.) All information on his site. 
+
+And then, of course, you have at least four of the five nominated short stories available here on Escape Pod starting this week!
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Site News SF/F News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/05/08/free-hugo-nominated-works/</feedburner:origLink></item>
+		<item>
+		<title>Congratulations to the Nebula Winners!</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=149</link>
+		<comments>http://www.escapepod.org/2006/05/07/congratulations-to-the-nebula-winners/#comments</comments>
+		<pubDate>Sun, 07 May 2006 13:06:11 +0000</pubDate>
+		<dc:creator> </dc:creator>
+		    
+		
+	<category>SF/F News</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/07/congratulations-to-the-nebula-winners/</guid>
+		<description><![CDATA[Last night the Nebula Awards, presented by the SFWA, were awarded in Tempe, Ariz.
+
+The winners were: 
+
+NOVEL
+Camouflage, Joe Haldeman 
+
+NOVELLA
+&#8220;Magic for Beginners&#8221;, Kelly Link 
+
+NOVELETTE
+&#8220;The Faery Handbag&#8221;, Kelly Link 
+
+SHORT STORY
+&#8220;I Live With You&#8221;, Carol Emshwiller 
+
+SCRIPT
+Serenity, Joss Whedon 
+
+ANDRE NORTON AWARD
+Valiant: A Modern Tale of Faerie, Holly Black 
+
+Harlan Ellison was honored by becoming [...]]]></description>
+			<content:encoded><![CDATA[<p>Last night the Nebula Awards, presented by the SFWA, were awarded in Tempe, Ariz.</p>
+
+<p>The winners were: </p>
+
+<p><strong>NOVEL</strong>
+Camouflage, Joe Haldeman </p>
+
+<p><strong>NOVELLA</strong>
+&#8220;Magic for Beginners&#8221;, Kelly Link </p>
+
+<p><strong>NOVELETTE</strong>
+&#8220;The Faery Handbag&#8221;, Kelly Link </p>
+
+<p><strong>SHORT STORY</strong>
+&#8220;I Live With You&#8221;, Carol Emshwiller </p>
+
+<p><strong>SCRIPT</strong>
+Serenity, Joss Whedon </p>
+
+<p><strong>ANDRE NORTON AWARD</strong>
+Valiant: A Modern Tale of Faerie, Holly Black </p>
+
+<p>Harlan Ellison was honored by becoming Damon Knight Memorial Grand Master for his lifetime achievement in science fiction and fantasy. William F. Nolan was honored as Author Emeritus.</p>
+
+<p>Congrats to all the winners!</p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/07/congratulations-to-the-nebula-winners/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author> </itunes:author>
+        <itunes:subtitle>Last night the Nebula Awards, presented by the SFWA, were awarded in Tempe, Ariz.
+
+The winners were: 
+
+NOVEL
+Camouflage, Joe Haldeman 
+
+NOVELLA
+“Magic for Beginners”, Kelly Link 
+
+NOVELETTE
+“The ...</itunes:subtitle>
+        <itunes:summary>Last night the Nebula Awards, presented by the SFWA, were awarded in Tempe, Ariz.
+
+The winners were: 
+
+NOVEL
+Camouflage, Joe Haldeman 
+
+NOVELLA
+“Magic for Beginners”, Kelly Link 
+
+NOVELETTE
+“The Faery Handbag”, Kelly Link 
+
+SHORT STORY
+“I Live With You”, Carol Emshwiller 
+
+SCRIPT
+Serenity, Joss Whedon 
+
+ANDRE NORTON AWARD
+Valiant: A Modern Tale of Faerie, Holly Black 
+
+Harlan Ellison was honored by becoming Damon Knight Memorial Grand Master for his lifetime achievement in science fiction and fantasy. William F. Nolan was honored as Author Emeritus.
+
+Congrats to all the winners!
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>SF/F News</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/05/07/congratulations-to-the-nebula-winners/</feedburner:origLink></item>
+		<item>
+		<title>Jeff VanderMeer’s Exhaustive Reading List</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=148</link>
+		<comments>http://www.escapepod.org/2006/05/06/jeff-vandermeers-exhaustive-reading-list/#comments</comments>
+		<pubDate>Sat, 06 May 2006 19:09:19 +0000</pubDate>
+		<dc:creator> </dc:creator>
+		    
+		
+	<category>Rambling</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/06/jeff-vandermeers-exhaustive-reading-list/</guid>
+		<description><![CDATA[Jeff VanderMeer is compiling a list of the â??Exhaustive Essential Fantasy Reading.â?? If youâ??re looking for a summer project, or just to find some gems you might have missed, check this massive (and somewhat humbling) list out. If you think heâ??s missed something, heâ??s welcoming input. 
+]]></description>
+			<content:encoded><![CDATA[<p>Jeff VanderMeer is compiling a list of the â??<a href="http://vanderworld.blogspot.com/2006/04/exhaustive-essential-fantasy-reading.html">Exhaustive Essential Fantasy Reading</a>.â?? If youâ??re looking for a summer project, or just to find some gems you might have missed, check this massive (and somewhat humbling) list out. If you think heâ??s missed something, heâ??s welcoming input. </p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/06/jeff-vandermeers-exhaustive-reading-list/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author> </itunes:author>
+        <itunes:subtitle>Jeff VanderMeer is compiling a list of the â??Exhaustive Essential Fantasy Reading.â?? If youâ??re looking for a summer project, or just to find some gems ...</itunes:subtitle>
+        <itunes:summary>Jeff VanderMeer is compiling a list of the â??Exhaustive Essential Fantasy Reading.â?? If youâ??re looking for a summer project, or just to find some gems you might have missed, check this massive (and somewhat humbling) list out. If you think heâ??s missed something, heâ??s welcoming input. 
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Rambling</itunes:keywords>
+        
+	<feedburner:origLink>http://www.escapepod.org/2006/05/06/jeff-vandermeers-exhaustive-reading-list/</feedburner:origLink></item>
+		<item>
+		<title>EP052: Single White Farmhouse</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=147</link>
+		<comments>http://www.escapepod.org/2006/05/04/ep052-single-white-farmhouse/#comments</comments>
+		<pubDate>Thu, 04 May 2006 09:49:17 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/05/04/ep052-single-white-farmhouse/</guid>
+		<description><![CDATA[By Heather Shaw.
+Read by The Word Whore.
+
+ The house consented to the wiring, and as soon as it was done she explored it carefully, like you or I would poke at a new tooth filling. Wasn&#8217;t long before any unused terminal would be flashing from her zooms around the internet. New bookmarks were always appearing [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.hlshaw.com/">By Heather Shaw</a>.</b><br />
+Read by <a href="http://www.theitspot.com/">The Word Whore</a>.<br /></p>
+
+<p><i> The house consented to the wiring, and as soon as it was done she explored it carefully, like you or I would poke at a new tooth filling. Wasn&#8217;t long before any unused terminal would be flashing from her zooms around the internet. New bookmarks were always appearing in the browser files &#8212; architecture sites, construction sites, even some redecorating, <em>Better Homes and Gardens</em>-type sites were piling up in the history. Dad was disgusted by this &#8212; called it &#8220;house porn,&#8221; which made me and my brother giggle.</i></p>
+
+<p><b>Rated R</b>.  Contains strong language and home&#8230;  Oh, erotica.</p>
+
+<p><a rel="enclosure" href="http://escapepod.podlot.net/EP052_SingleWhiteFarmhouse.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://escapepodcast.livejournal.com/">EP on LiveJournal</a><br />
+<a href="http://myspace.com/escape_pod">EP on MySpace</a><br />
+<a href="http://www.laconiv.org/2006/hugos/nominees.htm">2006 Hugo Nominees</a><br />
+<a href="http://www.balticon.org/">Balticon</a><br />
+<a href="http://classic.escapepod.org">Escape Pod Classic</a><br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/05/04/ep052-single-white-farmhouse/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Heather Shaw.
+Read by The Word Whore.
+
+ The house consented to the wiring, and as soon as it was done she explored it carefully, like ...</itunes:subtitle>
+        <itunes:summary>By Heather Shaw.
+Read by The Word Whore.
+
+ The house consented to the wiring, and as soon as it was done she explored it carefully, like you or I would poke at a new tooth filling. Wasn’t long before any unused terminal would be flashing from her zooms around the internet. New bookmarks were always appearing in the browser files — architecture sites, construction sites, even some redecorating, Better Homes and Gardens-type sites were piling up in the history. Dad was disgusted by this — called it “house porn,” which made me and my brother giggle.
+
+Rated R.  Contains strong language and home…  Oh, erotica.
+
+Download this week’s Escape Pod.
+
+Referenced sites:
+EP on LiveJournal
+EP on MySpace
+2006 Hugo Nominees
+Balticon
+Escape Pod Classic
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<enclosure url="http://escapepod.podlot.net/EP052_SingleWhiteFarmhouse.mp3" length="25943117" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.podlot.net/EP052_SingleWhiteFarmhouse.mp3" fileSize="25943117" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/05/04/ep052-single-white-farmhouse/</feedburner:origLink></item>
+		<item>
+		<title>EP051: Is You Is / Is You Ain’t?</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=146</link>
+		<comments>http://www.escapepod.org/2006/04/27/ep051-is-you-isis-you-aint/#comments</comments>
+		<pubDate>Thu, 27 Apr 2006 10:00:26 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated R</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/04/27/ep051-is-you-isis-you-aint/</guid>
+		<description><![CDATA[By Michael Canfield.
+Read by Evo Terra.
+
+        I won&#8217;t kid you, the main reason I contracted to upload this biography is the money. I want a way out of my baby body&#8211;expensive surgery. Thank you for buying this link: even if you don&#8217;t like what I have to say, [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.michaelcanfield.net/">By Michael Canfield</a>.</b><br />
+Read by <a href="http://www.dragonpage.com/">Evo Terra</a>.<br /></p>
+
+<p><i>        I won&#8217;t kid you, the main reason I contracted to upload this biography is the money. I want a way out of my baby body&#8211;expensive surgery. Thank you for buying this link: even if you don&#8217;t like what I have to say, you&#8217;ve helped an old actor out.</i></p>
+
+<p><i>        I&#8217;m told the public will not buy a starbio uplink unless there is a tragedy involved&#8211;and a triumph.</i></p>
+
+<p><b>Rated R</b>.  Contains profanity, sexual situations, and Hollywood actors.  None of which are suitable for children.</p>
+
+<p><a rel="enclosure" href="http://escapepod.podlot.com/EP051_IsYouIs.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+
+<p>Referenced sites:<br />
+<a href="http://classic.escapepod.org">Escape Pod Classic</a><br />
+<a href="http://www.balticon.org/">Balticon</a><br />
+<a href="http://www.escapearchive.com/">Escape Archive</a><br /></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/04/27/ep051-is-you-isis-you-aint/feed/</wfw:commentRSS>
+        
+                
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Michael Canfield.
+Read by Evo Terra.
+
+        I won’t kid you, the main reason I contracted to upload this ...</itunes:subtitle>
+        <itunes:summary>By Michael Canfield.
+Read by Evo Terra.
+
+        I won’t kid you, the main reason I contracted to upload this biography is the money. I want a way out of my baby body–expensive surgery. Thank you for buying this link: even if you don’t like what I have to say, you’ve helped an old actor out.
+
+        I’m told the public will not buy a starbio uplink unless there is a tragedy involved–and a triumph.
+
+Rated R.  Contains profanity, sexual situations, and Hollywood actors.  None of which are suitable for children.
+
+Download this week’s Escape Pod.
+
+Referenced sites:
+Escape Pod Classic
+Balticon
+Escape Archive
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated R</itunes:keywords>
+        
+	<enclosure url="http://escapepod.podlot.com/EP051_IsYouIs.mp3" length="25859109" type="audio/mpeg" /><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://escapepod.podlot.com/EP051_IsYouIs.mp3" fileSize="25859109" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/04/27/ep051-is-you-isis-you-aint/</feedburner:origLink></item>
+		<item>
+		<title>EP050: The Malcontent</title>
+		<link>http://feeds.feedburner.com/EscapePod?m=145</link>
+		<comments>http://www.escapepod.org/2006/04/20/ep050-the-malcontent/#comments</comments>
+		<pubDate>Thu, 20 Apr 2006 13:41:26 +0000</pubDate>
+		<dc:creator>Steve Eley</dc:creator>
+		    
+		
+	<category>Podcasts</category>
+	<category>Rated PG</category>
+		<guid isPermaLink="false">http://www.escapepod.org/2006/04/20/ep050-the-malcontent/</guid>
+		<description><![CDATA[By Stephen Eley.
+Read by Paul Jenkins.
+
+Finally Nicholas summoned his overseers and all other servants who were mobile to his chamber.  â??You are merely robots,â?? Nicholas said, â??but I know you are not stupid.  Doubtless during my withdrawal you laid plans to snare me again, to draw me against my will into a plot [...]]]></description>
+			<content:encoded><![CDATA[<p><b><a href="http://www.escapepod.org/">By Stephen Eley</a>.</b><br />
+Read by <a href="http://www.revupreview.co.uk/">Paul Jenkins</a>.<br /></p>
+
+<p><i>Finally Nicholas summoned his overseers and all other servants who were mobile to his chamber.  â??You are merely robots,â?? Nicholas said, â??but I know you are not stupid.  Doubtless during my withdrawal you laid plans to snare me again, to draw me against my will into a plot for my own happiness.â??</i></p>
+
+<p><i>â??Harshly said, sir,â?? said the Overseer of Planning, â??but essentially correct.  We have found a young lady with whom we feel you will establish a more-than-satisfactory rapport, and taken measures to ensure that you shall not avoid her.â??</i></p>
+
+<p><b>Rated PG</b>.  Contains killer robots, incidental violence, and love looked for in all the wrong places.</p>
+
+<p><a rel="enclosure" href="http://www.escapepod.org/media/EP050_TheMalcontent.mp3"><img src="http://escape.extraneous.org/wp-images/podcast-mini4.gif"/><br />Download this week&#8217;s Escape Pod.</a></p>
+]]></content:encoded>
+			<wfw:commentRSS>http://www.escapepod.org/2006/04/20/ep050-the-malcontent/feed/</wfw:commentRSS>
+        
+        <enclosure url="http://www.escapepod.org/media/EP050_TheMalcontent.mp3" length="23992350" type="audio/mpeg" />
+        
+                
+        <itunes:author>Steve Eley</itunes:author>
+        <itunes:subtitle>By Stephen Eley.
+Read by Paul Jenkins.
+
+Finally Nicholas summoned his overseers and all other servants who were mobile to his chamber.  â??You are merely robots,â?? ...</itunes:subtitle>
+        <itunes:summary>By Stephen Eley.
+Read by Paul Jenkins.
+
+Finally Nicholas summoned his overseers and all other servants who were mobile to his chamber.  â??You are merely robots,â?? Nicholas said, â??but I know you are not stupid.  Doubtless during my withdrawal you laid plans to snare me again, to draw me against my will into a plot for my own happiness.â??
+
+â??Harshly said, sir,â?? said the Overseer of Planning, â??but essentially correct.  We have found a young lady with whom we feel you will establish a more-than-satisfactory rapport, and taken measures to ensure that you shall not avoid her.â??
+
+Rated PG.  Contains killer robots, incidental violence, and love looked for in all the wrong places.
+
+Download this week’s Escape Pod.
+</itunes:summary>
+        
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:keywords>Podcasts Rated PG</itunes:keywords>
+        
+	<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://www.escapepod.org/media/EP050_TheMalcontent.mp3" fileSize="23992350" type="audio/mpeg"><media:rating scheme="urn:simple">nonadult</media:rating></media:content><feedburner:origLink>http://www.escapepod.org/2006/04/20/ep050-the-malcontent/</feedburner:origLink></item>
+	<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetFeedData?uri=EscapePod</feedburner:awareness></channel>
+</rss>
