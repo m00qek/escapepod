@@ -23,12 +23,13 @@ def xml_to_text(xml):
 
 def load_episodes(episodes, from_dir):
     files = sorted(glob(from_dir), reverse=True)
-    guid = lambda episode: episode.findall('./title')[0].text
+    guid = lambda episode: episode.findall('./guid')[0].text
 
     for file in files:
         feed = load_xml_from_file(file)
 
         for episode in feed.getroot().findall('./channel/item'):
+            print(guid(episode))
             episodes[guid(episode)] = episode
 
 def replace_all(replacements, episode):
