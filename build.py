@@ -8,9 +8,9 @@ from os import makedirs
 
 import re
 
-DEFAULT_REPLACEMENTS = []
-#DEFAULT_REPLACEMENTS = [(re.compile(r'http://'), r'https://'),
-#                        (re.compile(r'xmlns:(?P<ns>[^=]+)="https://'), r'xmlns:\g<ns>="http://')]
+DEFAULT_REPLACEMENTS = [(re.compile(r'http://'), r'https://'),
+                        (re.compile(r'xmlns:(?P<ns>[^=]+)="https://'), r'xmlns:\g<ns>="http://'),
+                        (re.compile(r'<itunes:duration/>'), r'')]
 
 def load_xml_from_file(file):
     return parse(file, parser=XMLParser(strip_cdata=False))
@@ -31,7 +31,7 @@ def load_episodes(episodes, from_dir):
 
         for episode in feed.getroot().findall('./channel/item'):
             if not guid(episode) in episodes:
-                episodes[guid(episode)] = episode
+                episodes[guid(episode)] = transform(episode)
 
 def replace_all(replacements, episode):
     replace = lambda text, pattern: pattern[0].sub(pattern[1], text)
@@ -40,6 +40,17 @@ def replace_all(replacements, episode):
     modified_text = reduce(replace, all_replacements, xml_to_text(episode))
 
     return load_xml_from_text(modified_text)
+
+def transform(episode):
+    tags = episode.findall('./media:content/media:adult',
+                           {'media': 'http://search.yahoo.com/mrss'})
+
+    for tag in tags:
+        tag.attrib.pop('scheme', None)
+        if tag.text != 'true':
+            tag.text = 'false'
+
+    return episode
 
 def build(from_directories, replacements, shell_file, to_file):
     episodes = OrderedDict()
