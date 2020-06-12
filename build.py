@@ -1,39 +1,66 @@
 #!/usr/bin/env python3
 
-from lxml.etree import XMLParser, parse
-from fileinput import FileInput
-from re import compile
+from collections import OrderedDict
+from lxml.etree import ElementTree, XMLParser, parse, fromstring, tostring
 from functools import reduce
+from glob import glob
 from os import makedirs
 
-import glob
+import re
 
-patterns = [(compile(r'http://'), r'https://'),
-            (compile(r'"https://(?:(?!/EP).)+/EP(?P<episode>(?:(?!\.mp3").)+)\.mp3"'), r'"https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3"'),
-            (compile(r'"https://[^"]+/podcast-mini4\.gif"'), r'"https://escapepod.org/wp-images/podcast-mini4.gif"')]
+DEFAULT_REPLACEMENTS = [(re.compile(r'http://'), r'https://'),
+                        (re.compile(r'xmlns:(?P<ns>[^=]+)="https://'), r'xmlns:\g<ns>="http://')]
 
-def load_episodes(feed, from_dir):
-    episodes = sorted(glob.glob(from_dir + '/*.xml', recursive=True), reverse=True)
-    for ep in episodes:
-        print(ep)
-        feed.append(parse(ep, XMLParser(strip_cdata=False)).getroot())
+def load_xml_from_file(file):
+    return parse(file, parser=XMLParser(strip_cdata=False))
 
-def replace(text):
-    return reduce(lambda t, pattern: pattern[0].sub(pattern[1], t), patterns, text)
+def load_xml_from_text(text):
+    return fromstring(text, parser=XMLParser(strip_cdata=False))
+
+def xml_to_text(xml):
+    return tostring(xml, encoding='unicode')
+
+
+def load_episodes(episodes, from_dir):
+    files = sorted(glob(from_dir), reverse=True)
+    guid = lambda episode: episode.findall('./title')[0].text
+
+    for file in files:
+        feed = load_xml_from_file(file)
+
+        for episode in feed.getroot().findall('./channel/item'):
+            episodes[guid(episode)] = episode
+
+def replace_all(replacements, episode):
+    replace = lambda text, pattern: pattern[0].sub(pattern[1], text)
+    all_replacements = DEFAULT_REPLACEMENTS + replacements
+
+    modified_text = reduce(replace, all_replacements, xml_to_text(episode))
+
+    return load_xml_from_text(modified_text)
+
+def build(from_directories, replacements, shell_file, to_file):
+    episodes = OrderedDict()
+
+    for from_dir in from_directories:
+        load_episodes(episodes, from_dir)
+
+    feed = load_xml_from_file(shell_file)
+    channel = feed.getroot().find('./channel')
+    for episode in episodes.values():
+        channel.append(replace_all(replacements, episode))
+
+    feed.write(to_file)
+
 
 if __name__ == "__main__":
-    generated_file = 'generated/feeds/escapepod.xml'
-    makedirs('generated/feeds', exist_ok=True)
+    makedirs('generated', exist_ok=True)
 
-    feed = parse('original/escapepod/shell.xml', XMLParser(strip_cdata=False))
+    #Escape Pod
+    build(['original/escapepod/escapepod.org/feed/*.snapshot',
+           'original/escapepod/feeds.feedburner.com/escapepod/*.snapshot'],
+          [(re.compile(r'"https://(?:(?!/EP).)+/EP(?P<episode>(?:(?!\.mp3").)+)\.mp3"'), r'"https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3"'),
+           (re.compile(r'"https://[^"]+/podcast-mini4\.gif"'), r'"https://escapepod.org/wp-images/podcast-mini4.gif"')],
+          'original/escapepod/shell.xml',
+          'generated/escapepod.rss')
 
-    channel = feed.getroot().find('./channel')
-    load_episodes(channel, 'generated/escapepod/episodes/**')
-    feed.write(generated_file)
-
-    with FileInput(generated_file, inplace=True) as file:
-        for index, line in enumerate(file):
-            if index > 0:
-                print(replace(line), end='')
-            else:
-                print(line)
