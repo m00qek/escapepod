@@ -8,8 +8,9 @@ from os import makedirs
 
 import re
 
-DEFAULT_REPLACEMENTS = [(re.compile(r'http://'), r'https://'),
-                        (re.compile(r'xmlns:(?P<ns>[^=]+)="https://'), r'xmlns:\g<ns>="http://')]
+DEFAULT_REPLACEMENTS = []
+#DEFAULT_REPLACEMENTS = [(re.compile(r'http://'), r'https://'),
+#                        (re.compile(r'xmlns:(?P<ns>[^=]+)="https://'), r'xmlns:\g<ns>="http://')]
 
 def load_xml_from_file(file):
     return parse(file, parser=XMLParser(strip_cdata=False))
@@ -60,8 +61,8 @@ if __name__ == "__main__":
     #Escape Pod
     build(['original/escapepod/escapepod.org/feed/*.snapshot',
            'original/escapepod/feeds.feedburner.com/escapepod/*.snapshot'],
-          [(re.compile(r'"https://(?:(?!/EP).)+/EP(?P<episode>(?:(?!\.mp3").)+)\.mp3"'), r'"https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3"'),
-           (re.compile(r'"https://[^"]+/podcast-mini4\.gif"'), r'"https://escapepod.org/wp-images/podcast-mini4.gif"')],
+          [(re.compile(r'"http://(?:(?!/EP).)+/EP(?P<episode>(?:(?!\.mp3").)+)\.mp3"'), r'"https://traffic.libsyn.com/escapepod/EP\g<episode>.mp3"'),
+           (re.compile(r'"http://[^"]+/podcast-mini4\.gif"'), r'"https://escapepod.org/wp-images/podcast-mini4.gif"')],
           'original/escapepod/shell.xml',
           'generated/escapepod.rss')
 
