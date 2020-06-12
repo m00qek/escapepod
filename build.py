@@ -29,8 +29,8 @@ def load_episodes(episodes, from_dir):
         feed = load_xml_from_file(file)
 
         for episode in feed.getroot().findall('./channel/item'):
-            print(guid(episode))
-            episodes[guid(episode)] = episode
+            if not guid(episode) in episodes:
+                episodes[guid(episode)] = episode
 
 def replace_all(replacements, episode):
     replace = lambda text, pattern: pattern[0].sub(pattern[1], text)
