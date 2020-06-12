@@ -10,7 +10,8 @@ import re
 
 DEFAULT_REPLACEMENTS = [(re.compile(r'http://'), r'https://'),
                         (re.compile(r'xmlns:(?P<ns>[^=]+)="https://'), r'xmlns:\g<ns>="http://'),
-                        (re.compile(r'"https://participatoryculture.org/RSSModules/dtv/1.0"/'), r'"https://participatoryculture.org/RSSModules/dtv/1.0/"'),
+                        (re.compile(r'"http://participatoryculture.org/RSSModules/dtv/1.0"'), r'"http://participatoryculture.org/RSSModules/dtv/1.0/"'),
+                        (re.compile(r'"http://search.yahoo.com/mrss"'), r'"http://search.yahoo.com/mrss/"'),
                         (re.compile(r'<itunes:duration/>'), r'')]
 
 def load_xml_from_file(file):
